@@ -1,0 +1,10 @@
+---
+title: "Rafael N. Magalhães"
+about:
+  template: jolla
+  image: logo.png
+  image-width: 22em
+  image-shape: "rectangle"
+---
+
+I'm a data scientist with [experience](about.html) in predictive modeling, causal inference and analytics. Here you will find information on some of my [projects](projects.html) and material for my [courses](teaching.html).

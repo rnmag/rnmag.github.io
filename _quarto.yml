@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Rafael N. Magalhães"
+  favicon: favicon.png
+  twitter-card: true
+  open-graph: true
+  google-analytics: "UA-XXXXXXXX"
+  search: false
+  navbar:
+    title: <i class="bi bi-house-fill"></i> # https://icons.getbootstrap.com/
+    background: "#ffffff"
+    foreground: "#495057" #primary 
+    collapse: false
+    pinned: false
+    left:
+      - href: about.qmd
+        text: about
+      - href: projects.qmd
+        text: portfolio
+      - href: teaching.qmd
+        text: teaching
+    # right:       
+    #   - icon: envelope-fill
+    #     href: mailto:rafael@rmagalhaes.io
+    #   - icon: linkedin
+    #     href: https://www.linkedin.com/in/rmagalhães
+
+
+format:
+  html:
+    theme: [journal, tema.scss] 
+    highlight-style: gruvbox
+
+
+

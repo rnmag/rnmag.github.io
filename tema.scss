@@ -1,0 +1,47 @@
+// Referências
+// Todas as variáveis: https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+// Variáveis do tema: https://github.com/quarto-dev/quarto-cli/blob/main/src/resources/formats/html/bootstrap/themes/journal.scss
+
+
+/*-- scss:defaults --*/
+// Cores
+$laranja: #d9230f !default; 
+$azul: #03005e !default;
+
+// Fontes
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,500;1,500&family=Alegreya&family=Fira+Code&family=Jost&display=swap');
+
+$font-family-sans-serif: "Alegreya Sans" !default;
+$font-family-serif: "Alegreya" !default;
+$font-family-monospace: "Fira Code" !default;
+$headings-font-family: "Jost" !default;
+
+$font-size-base: 1.25rem !default;
+$headings-font-weight: 800 !default;
+$headings-line-height: 1.2 !default;
+$headings-color: #000 !default;
+
+// Alinhar emoji com os links do navbar
+$navbar-brand-font-size: 1.25rem !default;
+
+// Links navbar
+$navbar-hl: $laranja !default;
+$navbar-brand-margin-end: .01rem !default; // Links mais perto de Home
+
+// Links no site
+$link-color: darken(#333, 30%)  !default;
+$link-hover-color: $laranja;
+$link-decoration: underline $laranja 3px !default;
+
+$code-block-border-left: $laranja;
+
+
+/*-- scss:rules --*/
+
+.navbar {
+    font-size: 24px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
