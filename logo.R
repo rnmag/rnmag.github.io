@@ -24,7 +24,7 @@ bind_rows(curva_1, curva_2) |>
 ggsave("logo.png",
   device = agg_png,
   dpi = "retina",
-  width = 2,
-  height = 2,
-  units = "in"
+  width = 480,
+  height = 640,
+  units = "px"
 )
