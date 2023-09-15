@@ -5,12 +5,12 @@ n <- 10^7
 
 curva_1 <- tibble(
   curva = rep("curva1", n),
-  valores = rnorm(n, .48, .01) # favicon: .47, .015
+  valores = rnorm(n, .48, .01) # densidade para favicon: .47, .015
 )
 
 curva_2 <- tibble(
   curva = rep("curva2", n),
-  valores = rnorm(n, .52, .01) # favicon: .53, .015
+  valores = rnorm(n, .52, .01) # densidade para favicon: .53, .015
 )
 
 bind_rows(curva_1, curva_2) |>

@@ -1,8 +1,45 @@
 ---
 title: "Rafael N. Magalhães"
 about:
+  id: cabecalho
   template: trestles
   image: logo.png
-  image-width: 10rem
+  image-width: 15rem
   image-shape: "rectangle"
+  links:
+    - icon: envelope-fill 
+      text: Email
+      href: mailto:rnunesmagalhaes@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rmagalhães
+engine: knitr
+cv:
+  pdf: "rafael_magalhaes_cv.pdf"
 ---
+
+<p class="text-center">
+  <a class="btn btn-primary" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="bi bi-file-earmark-pdf-fill"></i>&ensp;Download CV
+  </a>
+</p>
+
+:::{#cabecalho}
+
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
+
+## Education
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+:::

@@ -21,11 +21,11 @@ website:
         text: portfolio
       - href: teaching.qmd
         text: teaching
-    # right:       
-    #   - icon: envelope-fill
-    #     href: mailto:rafael@rmagalhaes.io
-    #   - icon: linkedin
-    #     href: https://www.linkedin.com/in/rmagalhães
+    right:       
+      - icon: envelope-fill
+        href: mailto:rafael@rmagalhaes.io
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rmagalhães
 
 
 format:

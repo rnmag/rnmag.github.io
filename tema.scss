@@ -5,7 +5,7 @@
 
 /*-- scss:defaults --*/
 // Cores
-$laranja: #d9230f !default; 
+$primary: #d9230f !default; 
 $azul: #03005e !default;
 
 // Fontes
@@ -25,23 +25,23 @@ $headings-color: #000 !default;
 $navbar-brand-font-size: 1.25rem !default;
 
 // Links navbar
-$navbar-hl: $laranja !default;
+$navbar-hl: $primary !default;
 $navbar-brand-margin-end: .01rem !default; // Links mais perto de Home
 
 // Links no site
 $link-color: darken(#333, 30%)  !default;
-$link-hover-color: $laranja;
-$link-decoration: underline $laranja 3px !default;
+$link-hover-color: $primary;
+$link-decoration: underline $primary 3px !default;
 
-$code-block-border-left: $laranja;
+$code-block-border-left: $primary;
 
 
 /*-- scss:rules --*/
 
 .navbar {
-    font-size: 24px;
+    font-size: 25px;
 }
 
 .navbar-brand {
-    font-size: 24px;
+    font-size: 25px;
 }
