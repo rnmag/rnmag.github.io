@@ -3,7 +3,7 @@ title: "Rafael N. Magalhães"
 about:
   id: cabecalho
   template: trestles
-  image: logo.png
+  image: profile_round.jpg
   image-width: 15rem
   image-shape: "rectangle"
   links:
@@ -17,10 +17,9 @@ engine: knitr
 cv:
   pdf: "rafael_magalhaes_cv.pdf"
 ---
-
 <p class="text-center">
-  <a class="btn btn-primary" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="bi bi-file-earmark-pdf-fill"></i>&ensp;Download CV
+  <a class="btn btn-outline-primary" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
+    <i class="bi bi-file-earmark-arrow-down-fill"></i>&ensp;Download CV
   </a>
 </p>
 
