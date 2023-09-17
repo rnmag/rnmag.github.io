@@ -6,7 +6,7 @@ website:
   favicon: favicon.png
   twitter-card: true
   open-graph: true
-  google-analytics: "UA-XXXXXXXX"
+  google-analytics: "G-V27VSXP3KH"
   search: false
   navbar:
     title: <i class="bi bi-house-fill"></i> # https://icons.getbootstrap.com/
@@ -23,7 +23,7 @@ website:
         text: teaching
     right:       
       - icon: envelope-fill
-        href: mailto:rafael@rmagalhaes.io
+        href: mailto:rnunesmagalhaes@gmail.com
       - icon: linkedin
         href: https://www.linkedin.com/in/rmagalhães
 

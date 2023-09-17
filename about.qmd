@@ -1,7 +1,7 @@
 ---
 title: "Rafael N. Magalhães"
 about:
-  id: cabecalho
+  id: template
   template: trestles
   image: profile_round.jpg
   image-width: 15rem
@@ -23,7 +23,7 @@ cv:
   </a>
 </p>
 
-:::{#cabecalho}
+:::{#template}
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
 
