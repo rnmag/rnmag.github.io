@@ -3,7 +3,7 @@ title: "Rafael N. Magalhães"
 about:
   id: template
   template: trestles
-  image: profile_round.jpg
+  image: profile_rounded.jpg
   image-width: 15rem
   image-shape: "rectangle"
   links:
