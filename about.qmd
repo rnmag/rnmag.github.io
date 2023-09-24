@@ -25,7 +25,7 @@ cv:
 
 :::{#template}
 
-Rafael Magalhães is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
+Rafael Magalhães Render Test is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
 
 ## Education
 
