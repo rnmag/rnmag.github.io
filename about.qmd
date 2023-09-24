@@ -19,13 +19,13 @@ cv:
 ---
 <p class="text-center">
   <a class="btn btn-outline-primary" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="bi bi-file-earmark-arrow-down-fill"></i>&ensp;Download Resume!
+    <i class="bi bi-file-earmark-arrow-down-fill"></i>&ensp;Download Resume
   </a>
 </p>
 
 :::{#template}
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
+Rafael Magalhães is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
 
 ## Education
 
