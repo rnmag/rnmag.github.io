@@ -19,7 +19,7 @@ cv:
 ---
 <p class="text-center">
   <a class="btn btn-outline-primary" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="bi bi-file-earmark-arrow-down-fill"></i>&ensp;Download CV
+    <i class="bi bi-file-earmark-arrow-down-fill"></i>&ensp;Download Resume!
   </a>
 </p>
 
