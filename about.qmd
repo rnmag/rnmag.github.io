@@ -25,20 +25,10 @@ cv:
 
 :::{#template}
 
-Rafael Magalhães Render Test is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
+Data scientist with a background in the social sciences. I am passionate about telling stories with data, and have a keen interest in statistical modeling and visualization.
 
-## Education
+Currently acting as an independent consultant, I have also accumulated experience managing data science teams. Main strengths in this role include strategic advising and facilitating communication between technical talent and decision makers.
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
+I am available for traveling and willing to relocate for the right opportunity.
 
 :::
