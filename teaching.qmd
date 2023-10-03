@@ -4,7 +4,7 @@ title: "Teaching"
 
 Opa, This is a **Quarto** _website_ e  agora **_abcdefg_**.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites> and also [esse site](www.folha.com).
+To learn more about Quarto websites visit <https://quarto.org/docs/websites> and also [esse site](https:\\www.folha.com).
 
 ```{r}
 a <- 1 + 1
