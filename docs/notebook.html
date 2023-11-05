@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Rafael N. Magalhães - Notebook</title>
+<title>Rafael N. Magalhães - A Spotlight on Stan in R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -60,10 +60,10 @@ gtag('config', 'G-V27VSXP3KH', { 'anonymize_ip': true});
 </script>
 
 
-<meta property="og:title" content="Rafael N. Magalhães - Notebook">
+<meta property="og:title" content="Rafael N. Magalhães - A Spotlight on Stan in R">
 <meta property="og:description" content="">
 <meta property="og:site-name" content="Rafael N. Magalhães">
-<meta name="twitter:title" content="Rafael N. Magalhães - Notebook">
+<meta name="twitter:title" content="Rafael N. Magalhães - A Spotlight on Stan in R">
 <meta name="twitter:description" content="">
 <meta name="twitter:card" content="summary">
 </head>
@@ -130,7 +130,7 @@ gtag('config', 'G-V27VSXP3KH', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Notebook</h1>
+<h1 class="title">A Spotlight on Stan in R</h1>
 </div>
 
 
@@ -145,8 +145,6 @@ gtag('config', 'G-V27VSXP3KH', { 'anonymize_ip': true});
 
 </header>
 
-<section id="a-spotlight-on-stan-in-r" class="level1">
-<h1>A SPOTLIGHT ON STAN IN R</h1>
 <p>Stan (Stan Development Team, 2023) is a powerful and popular tool for Bayesian computation, accessible through interfaces available in most statistical computing platforms or from the command line. R (R Core Team, 2022) has a particularly well-developed ecosystem of packages for working with Stan, encompassing both packages written by the Stan Development Team and those that build upon this base architecture. However, the breadth of packages can make it difficult for even an experienced Bayesian statistician to identify how to replicate their workflow in Stan using these R packages, and how to decide between packages that appear to have a similar use case. In this note, we combine forces as a Stan user (LK) and Stan developer (JG) to walk through the ecosystem, noting how we decide which package to use in which context.</p>
 <p>To fit a model with Stan, the user specifies a model in the Stan language and then selects one of several available algorithms to perform inference. The most commonly used algorithm in Stan is Hamiltonian Monte Carlo with a No U-turn Sampler, but there are also variational inference and optimization algorithms available. Users provide data and interact with Stan through an interface. In R, there are two main options for this. The first, RStan, uses Rcpp (Eddelbuettel and Franc¸ois, 2011) to compile and run Stan’s C++ code from R. The second, CmdStanR (Gabry et al., 2022), runs Stan under the hood through its command line interface (CmdStan) and then reads the results into R (with similarities to CmdStanPy for Python).</p>
 <p>Aside from the engineering differences,1 practically, we find that there are two important operational differences. The first is the Stan version that users have access to. As updating RStan on CRAN can be complicated, it often runs an older version of Stan when compared to CmdStanR. This means that users miss out on the most recent features and bug fixes available in the latest Stan versions (e.g., improved compilation time, additional GPU support, and many others). The second is licensing and permissions. CmdStanR has a more permissive license (BSD-3 like Stan itself versus RStan’s GPL-3). Both are open source licenses, but the increased flexibility of the BSD license may be relevant if you work for a company that plans on using Stan in production. Before it can be used, CmdStanR also requires the user to download and build the CmdStan command line interface, whereas RStan can be installed entirely from CRAN. The install cmdstan() function is provided to make this convenient (performing the download from GitHub and the build with a single function call), but may impact your decision of which interface to use depending on your institutional IT regulations.</p>
@@ -158,7 +156,6 @@ gtag('config', 'G-V27VSXP3KH', { 'anonymize_ip': true});
 <p>The R packages mentioned so far are all developed by or in collaboration with the Stan Development Team. However, there are also many packages developed by others that provide useful functions for fitting Stan models or working with Stan output in R. A few of the most popular are tidybayes (Kay, 2023), which provides functions for working with posterior distributions using a tidy data format; bridgesampling (Gronau et al., 2020), which estimates marginal likelihoods and Bayes factors; and prophet (Taylor and Letham, 2021), which uses Stan to forecast time series with seasonal effects. Many other packages include Stan models for a wide range of applications and can be found in CRAN’s list of RStan’s reverse dependencies at https://cran.r-project.org/package=rstan. For help developing your own R package that runs Stan, the Stan Development Team also provides the rstantools package (Gabry et al., 2023) which can set up the necessary package structure for you. Together, this suite of packages creates a workflow that we feel is useful and helpful for the applied Bayesian statistician. Our hope is that this brief summary of the packages, their designed use and interactions between can help the user to navigate this environment. Of course, the original package documentation provides additional detail on specific implementations, but we felt that a wide lens overview would be helpful.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
