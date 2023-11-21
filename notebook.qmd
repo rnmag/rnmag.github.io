@@ -1,5 +1,5 @@
 ---
-title: "Stan in R"
+title: "Stan interfaces in R"
 ---
 
 Stan (Stan Development Team, 2023) is a powerful and popular tool for Bayesian computation, accessible through interfaces available in most statistical computing platforms or from the command line. R (R Core Team, 2022) has a particularly well-developed ecosystem of packages for working with Stan, encompassing both packages written by the Stan Development Team and those that build upon this base architecture. However, the breadth of packages can make it difficult for even an experienced Bayesian statistician to identify how to replicate their workflow in Stan using these R packages, and how to decide between packages that appear to have a similar use case. In this note, we combine forces as a Stan user (LK) and Stan developer (JG) to walk through the ecosystem, noting how we decide which package to use in which context.
