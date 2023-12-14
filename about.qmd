@@ -1,7 +1,7 @@
 ---
 title: "Rafael N. Magalhães"
 about:
-  id: template
+  id: section
   template: trestles
   image: profile_rounded.jpg
   image-width: 15rem
@@ -26,7 +26,7 @@ cv:
   </a>
 </p>
 
-:::{#template}
+:::{#section}
 
 Hi! Data scientist and Machine Learning Engineer trained as a quantitative social scientist. I am passionate about telling stories with data, and have a keen interest in statistical modeling and visualization.
 
