@@ -4,7 +4,7 @@ about:
   id: section
   template: trestles
   image: profile_rounded.jpg
-  image-width: 15rem
+  image-width: 20rem
   image-shape: "rectangle"
   links:
     - icon: envelope-fill 
