@@ -1,0 +1,40 @@
+---
+title: "Teaching"
+---
+
+#### Programming for the Social Sciences: Analysis & Visualization
+University of São Paulo (USP) \| Instructor (with [Jonathan Phillips](https://www.universiteitleiden.nl/en/staffmembers/jonathan-phillips))\
+*Graduate (2022)*\
+
+<a class="btn btn-outline-primary btn-sm" href="https://rnmag.github.io/FLS-6397-USP/"> <i class="bi bi-mortarboard-fill"></i> Course Website </a>
+
+---
+
+#### Data Science for International Relations
+Fundação Getulio Vargas (FGV) \| Instructor (with [Davi Moreira](https://business.purdue.edu/directory/bio.php?username=dcordeir))\
+*Undergraduate (2020)*\
+
+<a class="btn btn-outline-primary btn-sm" href="https://github.com/rnmag/DS4IR-FGV"> <i class="bi bi-github"></i> Slides & Assignments </a>
+
+---
+
+#### Statistical Modeling with R
+Faculdade Rio Branco \| Instructor\
+*Undergraduate (2019-2024)*\
+
+<a class="btn btn-outline-primary btn-sm" href="https://github.com/rnmag/R-Programming"> <i class="bi bi-github"></i> Slides </a>
+
+---
+
+#### Quantitative Methods for Comparative Politics & International Relations
+University of São Paulo (USP) \| Teaching Fellow (with [Amâncio de Oliveira](https://dcp.fflch.usp.br/amancio-jorge-silva-nunes-de-oliveira))\
+*Graduate (2016-2018)*\
+
+<a class="btn btn-outline-primary btn-sm" href="https://github.com/rnmag/MQRI-2017"> <i class="bi bi-github"></i> Assignments 2017 </a> <a class="btn btn-outline-primary btn-sm" href="https://github.com/rnmag/MQRI-2018"> <i class="bi bi-github"></i> Assignments 2018 </a>
+
+
+---
+
+#### Experimental Designs for Causal Inference
+University of São Paulo (USP) \| Teaching Fellow (with [Amâncio de Oliveira](https://dcp.fflch.usp.br/amancio-jorge-silva-nunes-de-oliveira))\
+*Graduate (2018)*\

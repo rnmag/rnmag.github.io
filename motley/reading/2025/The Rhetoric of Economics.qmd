@@ -1,0 +1,161 @@
+---
+title: "The Rhetoric of Economics"
+author: Deirdre McCloskey
+date: 2025-06-26
+Rating: 8 / 10
+---
+
+### Highlights
+> Rhetoric is an economics of language, the study of how scarce means are allocated to the insatiable desires of people to be heard.
+> 
+> **Início** (Location 163)
+
+---
+
+> we need to do both, to be educated cated to "toggle" between philosophical and rhetorical readings, to know what the passage says but also how it achieves its end, persuasion.
+> 
+> **Início** (Location 203)
+
+---
+
+> Scientists, including economic scientists, pretend that Nature speaks directly, thereby effacing the evidence that they, the scientists, are responsible for the assertions.
+> 
+> **Início** (Location 282)
+
+---
+
+> The scientist avoids being questioned for his reliability by disappearing into a third-person narrative of what really happened.
+> 
+> **Início** (Location 285)
+
+---
+
+> Biochemists like other scientists and scholars are largely unaware of their literary devices, and become puzzled and angry when their literal audience refuses to believe in talking bears (Mulkay 1985, ch. 2). They think they are merely stating facts, not making audiences.
+> 
+> **Início** (Location 411)
+
+---
+
+> a serious argument in economics will use metaphors and stories as well-not for ornament or teaching alone but for the very science.
+> 
+> **Início** (Location 415)
+
+---
+
+> The project here is to overturn the monopolistic authority of Science in economics by questioning the usefulness of the demarcation of science ence from art. To show that economics resembles literary criticism, philology, and social theory as much as particle physics and dam-building building can either thrill economists with a wild surmise or leave them trembling from identity outraged.
+> 
+> **Início** (Location 455)
+
+---
+
+> The claim is that all science is humanism (and no "mere" about it) because that is all there is for humans.
+> 
+> **Início** (Location 464)
+
+---
+
+> The most important example of economic rhetoric, however, ever, is metaphor. Economists call them "models."
+> 
+> **Início** (Location 702)
+
+---
+
+> Gary Becker. Among the less bizarre of his many metaphors, for instance, is that children are durable goods, like refrigerators.
+> 
+> **Início** (Location 733)
+
+---
+
+> The four master tropes discussed at length by literary theorists such as Kenneth Burke (e.g., 1945, pp. 503-17) are here at work: metaphor, metonymy, synecdoche, and irony. The argument depends at once on a metaphor. The "aggregate production function" that Solow diffidently introduces (he is not really diffident: he is pretending to be for rhetorical cal effect) says that the making of our daily bread is like a mathematical cal function.
+> 
+> **Início** (Location 838)
+
+---
+
+> The K and the L in the equation are metonymies, letting another thing merely associated with the thing in question stand as a symbol for it, as the White House does for the presidency.
+> 
+> **Início** (Location 843)
+
+---
+
+> The identification of A(t) with "technical change" is another of the master tropes, a synecdoche, taking a part for the whole; and on it the paper turns.
+> 
+> **Início** (Location 849)
+
+---
+
+> In short, any field, such as economics, differs from another, such as history or physics, in two respects. It uses for a while a somewhat different ferent selection from the common store of figures of speech. Much overlap lap can be expected. And it studies different objects. A science is a class of objects and a way of conversing about them, not a way of knowing truth.
+> 
+> **Início** (Location 1087)
+
+---
+
+> the search for a crystalline Ideal has been an incubus on classical and Renaissance, naissance, and now we may say modernist, architecture. He attacked the tyranny of the lonely genius, seeking by contemplation in his warm room a system to impose upon us all.
+> 
+> **Início** (Location 1523)
+
+---
+
+> [T]he Gothic spirit ... not only dared, but delighted in, the infringement of every servile principle"
+> 
+> **Início** (Location 1533)
+
+---
+
+> Most economists believe that once you have reduced a question to numbers you have taken it out of human hands. That's where the rhetoric of quantification goes crazily wrong.
+> 
+> **Início** (Location 1553)
+
+---
+
+> It makes the statistical machinery into something that takes care of the whole scientific job, from start to finish,
+> 
+> **Início** (Location 1719)
+
+---
+
+> What Klein and everyone in modern science is looking for is a mechanical, uncontroversial way of deciding whether some effect is large or small. No human judgments, please: we're scientists.
+> 
+> **Início** (Location 1725)
+
+---
+
+> In Cicero's De Divina- tione, Quintus argues for belief in signs from the gods: "'Mere accidents,' dents,' you say. Now, really, is that so? Can anything be an 'accident' which bears on itself every mark of truth? Four dice are cast and a Venus throw [four different numbers] results-that is chance; but do you think it would be chance, too, if in one hundred casts you made one hundred Venus throws?" (Div., I, 23).
+> 
+> **Início** (Location 1847)
+
+---
+
+> The notion that statistical significance is a machine for important scientific entific inferences was first articulated in the 1920s by R. A. Fisher. His opposition to more rhetorically sensible procedures was robust and sufficient. The inner history of modern statistics is that Fisher won, against reason. In the 1930s Jerzy Neyman and E. S. Pearson (son of Karl), and then more explicitly Abraham Wald, argued that actual statistical tistical decisions should depend on substantive, not merely statistical, significance.
+> 
+> **Início** (Location 1868)
+
+---
+
+> The most fruitful application of the Neyman-Pearson test specifies the null hypothesis as something the researcher believes to be true.
+> 
+> **Início** (Location 1925)
+
+---
+
+> Seventy percent of the empirical papers in the American Economic Review papers did not distinguish statistical significance from economic, nomic, policy, or scientific significance.
+> 
+> **Início** (Location 1997)
+
+---
+
+> modernism is the program gram of Descartes, regnant in philosophy since the seventeenth century, tury, to build knowledge on a foundation of radical doubt.
+> 
+> **Início** (Location 2133)
+
+---
+
+> The Ten Commandments of modernism in economics and other sciences are 1. Prediction and control is the point of science. As Comte said, pre- voir pour pouvoir. 2. Only the observable implications (or predictions) of a theory matter ter to its truth. 3. Observability entails objective, reproducible experiments; mere questionnaires interrogating human subjects are useless, because humans might lie. 4. If and only if an experimental implication of a theory proves false is the theory proved false. 5. Objectivity is to be treasured; subjective "observation" (introspection) tion) is not scientific knowledge, because the objective and the subjective cannot be linked. 6. Kelvin's Dictum: "When you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind" (Kelvin 1883, 1:73, quoted in Kuhn 1977, pp. 178n, 183n. An approximation to this version is inscribed on the front of the Social Science Research Building at the University of Chicago. Jacob Viner, the famous University versity of Chicago economist, is said to have remarked on it one day: "Yes, and when you can express it in numbers your knowledge edge is of a meagre and unsatisfactory kind." Frank Knight, the famous University of Iowa economist, wrote, "Yes, and when you can't measure, measure anyway" [Knight 1940, p. 166n]). 7. Introspection, metaphysical belief, aesthetics, and the like may well figure in the discovery of an hypothesis but cannot figure in its justification; justifications are timeless, and the surrounding community of science irrelevant to their truth. 8. It is the business of methodology to demarcate scientific reasoning ing from nonscientific, positive from normative. 9. A scientific explanation of an event brings the event under a covering ering law. 10. Scientists-for instance, economic scientists-ought not to have anything to say as scientists about the oughts of value, whether of morality or art.
+> 
+> **Início** (Location 2159)
+
+---
+
+> one of the most successful of all scientific theories, the theory of evolution, makes no predictions and is therefore unfalsifiable by prediction.
+> 
+> **Início** (Location 2261)

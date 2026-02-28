@@ -1,0 +1,13 @@
+---
+title: "Jean Monnet"
+image: jm_logo.png
+description: "A longer description of what happened and what I did in the Unicef project. I woonder what is the size of text allowed in this, but it can't be too much less than this"
+categories:
+  - machine learning
+  - statistics
+  - causality
+---
+
+This website is powered by [Quarto](https://www.quarto.org). All pages are written in [Markdown](https://daringfireball.net/projects/markdown/), rendered with [Pandoc](https://www.pandoc.org) and published to the web with [GitHub Pages](https://pages.github.com/) via [VS Code](https://code.visualstudio.com/). This is also the basic workflow I use for all of my note-taking and most of my writing. I'm partial to [files over apps](https://stephango.com/file-over-app), and the Quarto/VS Code combo allows me to follow this tenet while also providing a great [literate programming](https://en.wikipedia.org/wiki/Literate_programming) environment. 
+
+During my PhD I spent an inordinate amount of time playing with $\mathrm{\LaTeX}$ font settings and poring over the [`microtype` documentation](https://ctan.math.illinois.edu/macros/latex/contrib/microtype/microtype.pdf). Nothing good came of it, except for a lasting appreciation for the amount of work and finesse behind good typesetting. The font family I use here is [Alegreya Sans](https://huertatipografica.com/en/fonts/alegreya-sans-ht), "*a humanist sans serif family with a calligraphic feeling*". It's beautiful, Latin American and free --- just like myself. For code chunks, my go-to font is [Fira Code](https://firacode.org/), although I seem to have a different favorite every time I run a [blind test](https://www.codingfont.com/).

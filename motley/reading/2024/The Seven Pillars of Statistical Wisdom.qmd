@@ -1,0 +1,797 @@
+---
+title: "The Seven Pillars of Statistical Wisdom"
+author: Stephen Stigler
+date: 2024-12-7
+Rating: 9 / 10
+---
+
+### Highlights
+> The first pillar I will call Aggregation , although it could just as well be given the nineteenth - century name , “ The Combination of Observations , ” or even reduced to the simplest example , taking a mean .
+> 
+> **Introduction** (Location 71)
+
+---
+
+> given a number of observations , you can actually gain information by throwing information away ! In taking a simple arithmetic mean , we discard the individuality of the measures , subsuming them to one summary .
+> 
+> **Introduction** (Location 75)
+
+---
+
+> The details of the individual observations had to be , in effect , erased to reveal a better indication than any single observation could on its own .
+> 
+> **Introduction** (Location 79)
+
+---
+
+> The second pillar is
+> 
+> **Introduction** (Location 84)
+
+---
+
+> Information , more specifically Information Measurement
+> 
+> **Introduction** (Location 84)
+
+---
+
+> In the early eighteenth century it was discovered that in many situations the amount of information in a set of data was only proportional to the square root of the number n of observations , not the number n itself .
+> 
+> **Introduction** (Location 87)
+
+---
+
+> pillar , Likelihood , I mean the calibration of inferences with the use of probability .
+> 
+> **Introduction** (Location 93)
+
+---
+
+> Intercomparison , is borrowed from an old paper by Francis Galton . It represents what was also once a radical idea and is now commonplace : that statistical comparisons do not need to be made with respect to an exterior standard but can often be made in terms interior to the data themselves .
+> 
+> **Introduction** (Location 101)
+
+---
+
+> The idea is quite radical , and the ability to ignore exterior scientific standards in doing a “ valid ” test can lead to abuse in the wrong hands , as with most powerful tools .
+> 
+> **Introduction** (Location 105)
+
+---
+
+> after Galton’s revelation of 1885 , explained in terms of the bivariate normal distribution .
+> 
+> **Introduction** (Location 107)
+
+---
+
+> The phenomenon of regression can be explained briefly : if you have two measures that are not perfectly correlated and you select on one as extreme from its mean , the other is expected to ( in standard deviation units ) be less extreme .
+> 
+> **Introduction** (Location 111)
+
+---
+
+> The sixth pillar is Design , as in “ Design of Experiments , ” but conceived of more broadly , as an ideal that can discipline our thinking in even observational settings .
+> 
+> **Introduction** (Location 116)
+
+---
+
+> I call the seventh and final pillar Residual . You might suspect this is an evasion , “ residual ” meaning “ everything else . ”
+> 
+> **Introduction** (Location 124)
+
+---
+
+> I could summarize and rephrase these seven pillars as representing the usefulness of seven basic statistical ideas : The value of targeted reduction or compression of data The diminishing value of an increased amount of data How to put a probability measuring stick to what we do How to use internal variation in the data to help in that How asking questions from different perspectives can lead to revealingly different answers The essential role of the planning of observations How all these ideas can be used in exploring and comparing competing explanations in science
+> 
+> **Introduction** (Location 133)
+
+---
+
+> the accusations may even be correct and on target in the motivating case , but they are frequently aimed at the method , not the way it is used in the case in point .
+> 
+> **Introduction** (Location 155)
+
+---
+
+> The first pillar , Aggregation , is not only the oldest ; it is also the most radical .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 175)
+
+---
+
+> In Statistics , a summary can be more than a collection of parts .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 178)
+
+---
+
+> The taking of a mean of any sort is a rather radical step in an analysis . In doing this , the statistician is discarding information in the data ; the individuality of each observation is lost : the order in which the measurements were taken and the differing circumstances in which they were made , including the identity of the observer .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 181)
+
+---
+
+> In ancient and even modern times , too much familiarity with the circumstances of each observation could undermine intentions to combine them . The strong temptation is , and has always been , to select one observation thought to be the best , rather than to corrupt it by averaging with others of suspected lesser value .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 188)
+
+---
+
+> If general tendencies were to be revealed , the observations must be taken as a set ; they must be combined .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 199)
+
+---
+
+> Jorge Luis Borges understood this . In a fantasy short story published in 1942 , “ Funes the Memorious , ” he described a man , Ireneo Funes , who found after an accident that he could remember absolutely everything .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 200)
+
+---
+
+> “ To think is to forget details , generalize , make abstractions . In the teeming world of Funes there were only details . ”
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 203)
+
+---
+
+> a common problem : how to summarize a set of similar , but not identical , measurements . The way the problem was dealt with in each situation reflects the intellectual difficulty involved in combination , one that persists today . In antiquity , and in the Middle Ages , when reaching for a summary of diverse data , people chose an individual example .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 377)
+
+---
+
+> In any event , the idea that the individuals were collectively determining the rod was the forceful point — their identity was not discarded ; it was the key to the legitimacy of the rod , even as the separate foot marks were a real average .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 385)
+
+---
+
+> he introduced the Average Man . Originally he considered this as a device for comparing human populations , or a single population over time .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 390)
+
+---
+
+> Cournot thought the Average Man would be a physical monstrosity : the likelihood that there would be any real person with the average height , weight , and age of a population was extremely low .
+> 
+> **1. Aggregation: From Tables and Means to Least Squares** (Location 395)
+
+---
+
+> The paradox of the heap was well known to the Greeks : One grain of sand does not make a heap . Consider adding one grain of sand to a pile that is not a heap — surely adding only one grain will not make it into a heap . Yet everyone agrees that somehow sand does accumulate in heaps .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 511)
+
+---
+
+> Granted that more evidence is better than less , but how much better ? For a very long time , there was no clear answer .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 525)
+
+---
+
+> This novel insight , that information on accuracy did not accumulate linearly with added data , came in the 1720s to Abraham de Moivre as he began to seek a way to accurately compute binomial probabilities with a large number of trials .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 571)
+
+---
+
+> In 1810 , Pierre Simon Laplace proved a more general form of de Moivre’s result , now called the Central Limit Theorem .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 589)
+
+---
+
+> The proof was not fully rigorous , and by 1824 Siméon Denis Poisson noticed an exceptional case — what we now call the Cauchy distribution — but , for a wide variety of situations , the result held up and recognition of the phenomenon was soon widespread among mathematical scientists .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 593)
+
+---
+
+> The implications of the root - n rule were striking : if you wished to double the accuracy of an investigation , it was insufficient to double the effort ; you must increase the effort fourfold .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 603)
+
+---
+
+> The claim stated that in some situations it was better , when you have two observations , to discard one than to average the two ! And , even worse , the argument was correct .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 636)
+
+---
+
+> In the twentieth century other less fanciful cases where the root - n rule fails have received attention .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 653)
+
+---
+
+> The paradox of the accumulation of information , namely , that the last 10 measurements are worth less than the first 10 , even though all measurements are equivalently accurate , is heightened by the different ( and to a degree misleading ) uses of the term information in Statistics and in science .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 669)
+
+---
+
+> Fisher information is consistent with the root - n rule ; one need only take its square root .
+> 
+> **2. Information: Its Measurement and Rate of Change** (Location 681)
+
+---
+
+> A measurement with no context is just a number , a meaningless number . The context gives the scale , helps calibrate , and permits comparisons .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 693)
+
+---
+
+> Measurements are only useful for comparison . The context supplies a basis for the comparison — perhaps a baseline , a benchmark , or a set of measures for intercomparison .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 708)
+
+---
+
+> The structure of a test is as an apparently simple , straightforward question : Do the data in hand support or contradict a theory or hypothesis ?
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 721)
+
+---
+
+> The notion of likelihood is key to answering this question , and it is thus inextricably involved with the construction of a statistical test .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 722)
+
+---
+
+> This note is often cited today as an early example of a significance test .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 733)
+
+---
+
+> If the data were not the result of a random distribution , some other rule must govern .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 776)
+
+---
+
+> When the comparison problem is simple , when there are only two distinct possibilities , the solution can be simple as well : calculate one probability , and , if it is very small , conclude the other .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 780)
+
+---
+
+> Clearly the calculation of a single probability is not the answer to all questions . A probability itself is a measure and needs a basis for comparison .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 793)
+
+---
+
+> Not all likelihood arguments were explicitly numerical . A famous example is David Hume’s argument against some of the basic tenets of Christian theology .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 797)
+
+---
+
+> Hume characterized a miracle as “ a violation of the laws of nature , ” and , as such , it was extremely improbable . 7 So improbable , in fact , that it was overwhelmed in comparison to the surely larger probability that the report of the miracle was inaccurate , that the reporter either lied or was simply mistaken .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 801)
+
+---
+
+> It was just at that time , and probably in response to Hume , that Thomas Bayes wrote at least a good part of his famous essay .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 804)
+
+---
+
+> when Richard Price saw Bayes’s essay through to publication in early 1764 , Price considered his goal to be answering Hume’s essay .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 806)
+
+---
+
+> if an event has unknown probability p of occurring in each of n independent trials , and is found to have occurred in x of them , find the a posteriori probability distribution of p under the a priori hypothesis that all values of p are equally likely .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 810)
+
+---
+
+> an explicit calculation to show that a violation of what was seen as a natural law was not so unlikely as Hume argued .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 818)
+
+---
+
+> The possibility of a miracle was much larger than Hume had supposed .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 828)
+
+---
+
+> Laplace’s interpretation has stood the test of time ; the effect of the lunar tide at Paris is too weak to detect with the observations then available .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 846)
+
+---
+
+> In the mid - 1700s , several people began to express the combination of observations and the analysis of errors as a problem in mathematics .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 880)
+
+---
+
+> a symmetric unimodal error curve or density as a part of the analysis , seeking to choose a summary of the data that was “ most probable ” with that curve in mind .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 884)
+
+---
+
+> Some of these early analyses are recognizable as forerunners of what we now call maximum likelihood estimates .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 889)
+
+---
+
+> But there was no full theory of likelihood before the twentieth century .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 894)
+
+---
+
+> Fisher announced a remarkably bold and comprehensive theory . 14 If θ represents the scientific goal , and X the data , either or both of which could be multidimensional , Fisher defined the likelihood function L ( θ | X ) to be the probability or probability density function of the observed data X considered as a function of θ
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 901)
+
+---
+
+> He would take the θ that maximized L ( θ ) , the value that in a sense made the observed data X the most probable among those values θ deemed possible , and he described this choice as the maximum likelihood estimate of θ .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 906)
+
+---
+
+> But Fisher also claimed that when the maximum was found as a smooth maximum , by taking a derivative with respect to θ and setting it equal to 0 , the accuracy ( the standard deviation of the estimate ) could be found to a good approximation from the curvature of L at its maximum ( the second derivative ) , and the estimate so found expressed all the relevant information available in the data and could not possibly be improved upon by any other consistent method of estimation .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 908)
+
+---
+
+> a simple program for finding the theoretically best answer , and a full description of its accuracy came along almost for free .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 913)
+
+---
+
+> Fisher’s program turned out not to be so general in application , not so foolproof , and not so complete as he first thought .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 916)
+
+---
+
+> Despite these setbacks , Fisher’s program not only set the research agenda for most of the remainder of that century ; the likelihood methods he espoused or their close relatives have dominated practice in a vast number of areas where they are feasible .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 937)
+
+---
+
+> While Fisher made much use of significance tests , framed as a test of a null hypothesis without explicit specification of alternatives , it fell to Neyman and Egon Pearson to develop a formal theory of hypothesis testing , based upon the explicit comparison of likelihoods and the explicit introduction of alternative hypotheses .
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 938)
+
+---
+
+> likelihood as a way to calibrate our inferences , to put in a statistical context the variability in our data and the confidence we may place in observed differences ,
+> 
+> **3. Likelihood: Calibration on a Probability Scale** (Location 943)
+
+---
+
+> Intercomparison , is the idea that statistical comparisons may be made strictly in terms of the interior variation in the data , without reference to or reliance upon exterior criteria .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 950)
+
+---
+
+> Galton’s own use was limited to the use of percentiles , specifically ( but not exclusively ) the median and the two quartiles .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 958)
+
+---
+
+> Gosset had , since 1899 , been employed as a chemist by the Guinness Company in Dublin .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 966)
+
+---
+
+> One of Gosset’s statements in the first of these memoranda expresses a wish to have a P - value to attach to data : “ We have been met with the difficulty that none of our books mentions the odds , which are conveniently accepted as being sufficient to establish any conclusion , and it might be of assistance to us to consult some mathematical physicist on the matter . ” 3
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 970)
+
+---
+
+> Guinness granted Gosset leave to visit Pearson’s lab for two terms in 1906 – 1907 to learn more , and , while there , he wrote the article , “ The Probable Error of a Mean , ” upon which his fame as a statistician rests
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 974)
+
+---
+
+> The article was published in Pearson’s journal Biometrika in 1908 under the pseudonym “ Student , ” a reflection of Guinness’s policy insisting that outside publications by employees not signal their corporate source .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 976)
+
+---
+
+> Gosset’s goal in the article was to understand what allowance needed to be made for the inadequacy of this approximation when the sample was not large and these estimates of accuracy were themselves of limited accuracy .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 988)
+
+---
+
+> There was some mathematical luck involved : Gosset implicitly assumed that the lack of correlation between the sample mean and the sample standard deviation implied they were independent , which was true in his normal case but is not true in any other case .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1003)
+
+---
+
+> He noted the agreement was not bad , but for large deviations the normal would give “ a false sense of security . ”
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1007)
+
+---
+
+> For present purposes , the important point is that the comparison , of the sample mean with the sample standard deviation , was made with no exterior reference — no reference to a “ true ” standard deviation , no reference to thresholds that were generally accepted in that area of scientific research . But more to the point , the ratio had a distribution that in no way involved σ and so any probability statements involving the ratio t , such as P - values , could also be made interior to the data .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1026)
+
+---
+
+> also would open itself to criticisms of the type that were already common in 1919 and are undiminished today : that statistical significance need not reflect scientific significance .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1032)
+
+---
+
+> Gosset himself ignored the test in his practical work .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1041)
+
+---
+
+> The paper had a profound influence nonetheless , all of it through the one reader who saw magic in the result .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1044)
+
+---
+
+> In 1915 , Fisher included that proof in a short tour de force article in Biometrika , where he also found the distribution of a much more complicated statistic , the correlation coefficient r .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1048)
+
+---
+
+> when Fisher was working on agricultural problems at Rothamsted Experimental Station , he had seen that the mathematical magic that freed the distribution of Student’s t from dependence on σ was but the tip of a mathematical iceberg . He invented the two - sample t - test and derived the distribution theory for regression coefficients and the entire set of procedures for the analysis of variance .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1051)
+
+---
+
+> When Fisher came to this problem in the mid - 1920s , he clearly saw the full algebraic structure and the orthogonality that , with the mathematical magic of the multivariate normal distribution , permitted the statistical separation of row and column effects and enabled their measurement by independent tests of significance to be based only on the variation interior to the data .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1106)
+
+---
+
+> Maurice Quenouille and then John W . Tukey developed a method of estimating standard errors of estimation by seeing how much the estimate varied by successively omitting each observation . Tukey named the procedure the jackknife .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1110)
+
+---
+
+> several people have proposed variations under the name cross - validation , where a procedure is performed for subsets of the data and the results compared .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1112)
+
+---
+
+> bootstrap that has become widely used , where a data set is resampled at random with replacement and a statistic of interest calculated each time , the variability of this “ bootstrap sample ” being used to judge the variability of the statistic without recourse to a statistical model .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1114)
+
+---
+
+> Approaching an analysis with only the variation within the data as a guide has many pitfalls . Patterns seem to appear , followed by stories to explain the patterns . The larger the data set , the more stories ; some can be useful or insightful , but many are neither , and even some of the best statisticians can be blind to the difference .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1118)
+
+---
+
+> The close study of cycles has led to some of the greatest discoveries in the history of astronomy , but cycles in social science were of a different sort .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1124)
+
+---
+
+> he came to the conclusion that the regularity that a few others had seen was a genuine phenomenon : there was a regular business cycle , punctuated by a major commercial crisis about every 10.5 years .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1127)
+
+---
+
+> “ Exercising the right of occasional suppression and slight modification , it is truly absurd to see how plastic a limited number of observations become , in the hands of men with preconceived ideas . ” 16
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1153)
+
+---
+
+> a paper provocatively titled , “ Why Do We Sometimes Get Nonsense - Correlations between Time - Series ? , ” G . Udny Yule showed how simple autoregressive series tend to show periodicity over limited spans of time .
+> 
+> **4. Intercomparison: Within-Sample Variation as a Standard** (Location 1156)
+
+---
+
+> “ I have no faith in anything short of actual measurement and the Rule of Three . ”
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1164)
+
+---
+
+> The rule works well in prorating commercial transactions and for the mathematical problems of Euclid ; it fails to work in any interesting scientific question where variation and measurement error are present . 2 In such cases , the Rule of Three will give the wrong answer : the results will be systematically biased , the errors may be quite large , and other methods can mitigate the error . The discovery of this fact , three years after Darwin’s death , is the fifth pillar .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1182)
+
+---
+
+> Darwin’s theory was incomplete in a more fundamental way : there remained a problem with the argument that , had it been widely noted , could have caused difficulty . It was a subtle problem , and a full appreciation and articulation only came when a solution was found by Galton , three years after Darwin died . 5
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1207)
+
+---
+
+> In order to make the case for evolution by natural selection , it was essential to establish that there was sufficient within - species heritable variability : a parent’s offspring must differ in ways that are inheritable , or else there can never be a change between successive generations .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1210)
+
+---
+
+> Galton’s formulation can be summarized graphically . Darwin had convincingly established that intergenerational transfers passed heritable variation to offspring ( see Figure 5.3 ) .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1219)
+
+---
+
+> But if there was increased variation from parent to child , what about succeeding generations ? Would not same pattern continue , with variation increasing in each successive generation ? ( See Figure 5.4 . )
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1225)
+
+---
+
+> But increasing variation is not what we observe in the short term , over a sequence of generations . Within a species , the population diversity is much the same in successive generations ( see Figure 5.5 ) . Population dispersion is stable over the short term ; indeed this stability is essential for the very definition of a species .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1226)
+
+---
+
+> What Galton had in view was not the long - term evolution of species , where he was convinced that significant change had and would occur for reasons Darwin had given . His worry was short term
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1236)
+
+---
+
+> Darwin’s model wouldn’t work unless some force could be discovered that counteracted the increased variability yet also conformed with heritable intergenerational variation . Galton worked for a decade before he discovered that force , and , in effect , his success saved Darwin’s theory .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1240)
+
+---
+
+> Galton started in 1873 with the quincunx , a machine he devised to express intergenerational variability in which lead shot fell through a rake of rows of offset pins .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1248)
+
+---
+
+> In 1877 , he enlarged this idea to show the effect of this variability upon successive population distributions . In Figure 5.7 , the top level represents the population distribution — say , of the stature in the first generation , with smaller stature on the left and larger on the right , in a roughly bell - shaped normal distribution .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1250)
+
+---
+
+> In order to maintain constant population dispersion , he found it necessary to introduce what he called “ inclined chutes ” to compress the distribution before subjecting it to generational variability .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1253)
+
+---
+
+> He computed exactly what the inclination of the chutes must be ( he called it a coefficient of reversion ) in order for intergenerational balance to be preserved , but he was pretty much at a loss to explain why they were there .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1257)
+
+---
+
+> It was a faute de mieux excuse that to give an exact balance would seemingly have required a level of coincidence that even Hollywood would not accept in a plot , and he did not mention it again .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1260)
+
+---
+
+> Galton’s 1877 version of the quincunx , showing how the inclined chutes near the top compensate for the increase in dispersion below to maintain constant population dispersion , and how the offspring of two of the upper - level stature groups can be traced through the process to the lowest level .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1266)
+
+---
+
+> The two outlines of distribution at levels A and B are similar ; they differ only in that the midlevel ( A ) is more crudely drawn ( it is my addition ) and is more compact than the lower level ( B ) , as would be expected , since the shot at level A are only subjected to about half the variation .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1272)
+
+---
+
+> Galton observed the following paradox . If you were to release the shot in a single midlevel compartment , say , as indicated by the arrow on the left panel , they would fall randomly left or right , but on average they would fall directly below .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1274)
+
+---
+
+> But if we look at , say , a lower compartment on the left , after all midlevel shot have been released and permitted to complete their journey to level B , and ask where the residents of that lower compartment were likely to have descended from , the answer is not “ directly above . ” Rather , on average , they came from closer to the middle !
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1277)
+
+---
+
+> The reason is simple : there are more level A shot in the middle that could venture left toward that compartment than there are level A shot to the left of it that could venture right toward it .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1280)
+
+---
+
+> An embellished version of an 1889 diagram . The left panel shows the average final position of shot released from an upper compartment ; the right panel shows the average initial position of shot that arrived in a lower compartment .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1284)
+
+---
+
+> Look at the column “ Total Number of Adult Children . ” Think of this as the counts of group sizes at the A level of the quincunx , corresponding to the groups described by the leftmost column of labels . The rows of the table give the history of the variability of the offspring within each group .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1290)
+
+---
+
+> If people’s heights behaved just like a quincunx , then the offspring should fall straight down from the mid - parents .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1296)
+
+---
+
+> Galton noticed that these medians do not fall immediately below ; instead , they tend to come closer to the overall average than that — a definite sign that the inclined chutes must be there ! Invisible , to be sure , but they were performing in some mysterious way the task that his 1877 diagram had set for them
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1299)
+
+---
+
+> each height group of children had an average mid - parent closer to the middle ( “ mediocrity ” ) than they were .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1305)
+
+---
+
+> But how did the chutes work — what was the explanation ?
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1307)
+
+---
+
+> the pattern of associations was the same ( tallness ran in families ) , but most striking was that here , too , he found “ regression . ”
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1310)
+
+---
+
+> Here Galton plots numbers from the leftmost and rightmost columns of Figure 5.9 , showing the tendency for children’s heights to be closer to the population average than a weighted average of those of their mid - parents — a “ regression towards mediocrity . ”
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1314)
+
+---
+
+> This was extraordinary for the simple reason that , among the brothers in his table , there was no directionality — neither brother inherited his height from the other . There was no directional flow of the sort he had sought to capture with his various quincunxes .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1317)
+
+---
+
+> How could “ inclined chutes ” play a role there ? Indeed , even inheritance seems ruled out . It must have been clear to Galton that the explanation must be statistical , not biological .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1321)
+
+---
+
+> He could see a rough elliptical contour emerging around the densest portion of the table .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1327)
+
+---
+
+> found a theoretical representation for the table — what we now recognize as the bivariate normal density , with the major and minor axes , and more importantly , the two “ regression lines ” ( see Figure 5.12 ) .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1329)
+
+---
+
+> The nature of the statistical phenomenon was becoming clear . Since the lines , whether the theoretical version in terms of the bivariate density or the numerical version in terms of the table , were found by averaging in two different directions , it would be impossible for them to agree unless all the data lay on the table’s diagonal . Unless the two characteristics had correlation 1.0 ( to use a term Galton introduced in late 1888 with these data in mind ) , the lines had to differ , and each had to be a compromise between the perfect correlation case ( the major axis of the ellipse ) and the zero correlation case ( the horizontal [ respectively , vertical ] lines through the center ) .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1337)
+
+---
+
+> given the stature of one brother , “ the unknown brother has two different tendencies , the one to resemble the known man , and the other to resemble his race . The one tendency is to deviate from P as much as his brother , and the other tendency is not to deviate at all . The result is a compromise . ”
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1348)
+
+---
+
+> We could then articulate the idea of regression as a selection effect .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1354)
+
+---
+
+> Galton had discovered that regression toward the mean was not the result of biological change , but rather was a simple consequence of the imperfect correlation between parents and offspring , and that lack of perfect correlation was a necessary requirement for Darwin , or else there would be no intergenerational variation and no natural selection .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1361)
+
+---
+
+> observed stature is not entirely heritable , but consists of two components , of which the transitory component is not heritable .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1365)
+
+---
+
+> Population equilibrium and intergenerational variability were not in conflict .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1369)
+
+---
+
+> 5.13 Figure 5.4 redrawn to allow for regression .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1371)
+
+---
+
+> The consequences of Galton’s work on Darwin’s problem were immense .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1374)
+
+---
+
+> he addressed a problem no one else seems to have fully realized was there and showed that , properly understood , there was no problem —
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1375)
+
+---
+
+> In 1918 , Ronald A . Fisher , in a mathematical tour de force , extended the variance calculations to correlations and partial correlations of relatives under Mendelian assortment to all manner of relationships , and much of modern quantitative genetics was born . 15
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1379)
+
+---
+
+> The influence was not only in biology .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1381)
+
+---
+
+> Throughout the nineteenth century , Bayes was generally ignored , and most people followed Laplace uncritically .
+> 
+> **5. Regression: Multivariate Analysis, Bayesian Inference, and Causal Inference** (Location 1437)
+
+---
+
+> Some examples of design are ancient . In the Old Testament’s book of Daniel , Daniel balked at eating the rich diet of meat and wine offered to him by King Nebuchadnezzar , preferring a kosher diet of pulse and water . The king’s representative accepted Daniel’s proposal of what was essentially a clinical trial : For 10 days , Daniel and his three companions would eat only pulse and drink only water , after which their health would be compared to that of another group that consumed only the king’s rich diet . Their health was judged by appearance , and Daniel’s group won .
+> 
+> **6. Design: Experimental Planning and the Role of Randomization** (Location 1619)

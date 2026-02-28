@@ -1,0 +1,887 @@
+---
+title: "Why Machines Learn"
+author: Anil Ananthaswamy
+date: 2026-02-28
+Rating: 9 / 10
+---
+
+### Highlights
+> What we just did is a simplistic form of something called supervised learning. We were given samples of data that had hidden in them some correlation between a set of inputs and a set of outputs.
+> 
+> **Chapter 1: Desperately Seeking Patterns** (Location 270)
+
+---
+
+> Each input (x1, x2,…, xn) has a label y attached to it.
+> 
+> **Chapter 1: Desperately Seeking Patterns** (Location 272)
+
+---
+
+> much of machine learning comes down to minimizing prediction error.
+> 
+> **Chapter 1: Desperately Seeking Patterns** (Location 431)
+
+---
+
+> Hamilton developed some other mathematical ideas that have become central to machine learning. In particular, he introduced the terms “scalar” and “vector.”
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 477)
+
+---
+
+> Geometrically, that’s the same as stretching the arrow (or vector) five times in the same direction.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 536)
+
+---
+
+> Conceptually, the dot product a.b— read that as “a dot b”— is defined as the magnitude of a multiplied by the projection of b onto a, where the projection can be thought of as the “shadow cast” by one vector onto another.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 552)
+
+---
+
+> Another important thing the dot product tells us about two vectors is whether they are at right angles, or orthogonal, to each other.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 577)
+
+---
+
+> The perceptron guarantees only that it’ll find one, and not necessarily the best one.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 647)
+
+---
+
+> Here’s another cool thing about using matrices, rather than arrows, to represent vectors: You can just manipulate the numbers and get a scalar value for the dot product without worrying about the cosine of the angle between them.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 683)
+
+---
+
+> So, the perceptron iterates over this process, data point by data point, until it settles on an acceptable set of values for the weights and bias that works for all data points.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 807)
+
+---
+
+> How can we be sure that it will terminate? Why won’t it keep going indefinitely, by always getting at least one data point wrong?
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 811)
+
+---
+
+> the essence of the proof involves showing that during training, w.w increases less rapidly than w.w*.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 821)
+
+---
+
+> No straight line you can draw will separate the circles from the triangles.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 841)
+
+---
+
+> It’s possible to solve the XOR problem if you stack perceptrons, such that the output of one feeds into the input of another.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 847)
+
+---
+
+> Those in the field refer to the years from 1974 to 1980 as the first AI winter.
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 854)
+
+---
+
+> The goal is to prove that if you keep updating w, it will converge to w*
+> 
+> **Chapter 2: We Are All Just Numbers Here…** (Location 909)
+
+---
+
+> The goal is to minimize this “mean squared error” (MSE) with respect to the parameters of the filter.
+> 
+> **Chapter 3: The Bottom of the Bowl** (Location 1028)
+
+---
+
+> We are now equipped to understand the method of steepest descent, also known as the method of gradient descent.
+> 
+> **Chapter 3: The Bottom of the Bowl** (Location 1076)
+
+---
+
+> Functions like the one depicted above, which have a single, well-defined minimum, are also called convex functions.
+> 
+> **Chapter 3: The Bottom of the Bowl** (Location 1097)
+
+---
+
+> It’s called a saddle point. One false step, and you’ll tumble down the surface. This function has no global or local minimum. Also, the initial starting point can dictate whether you even come close to the saddle point while descending.
+> 
+> **Chapter 3: The Bottom of the Bowl** (Location 1113)
+
+---
+
+> If we know how to take the partial derivative of a function with respect to each of its variables, no matter how many variables or how complex the function, we can always express the gradient as a row vector or column vector.
+> 
+> **Chapter 3: The Bottom of the Bowl** (Location 1151)
+
+---
+
+> To achieve this, the filter must learn the value for w at each time step. Of course, such a filter can update its parameters whenever it gets the prediction wrong— hence the name “adaptive filter.”
+> 
+> **Chapter 3: The Bottom of the Bowl** (Location 1228)
+
+---
+
+> Every deep neural network today— with millions, billions, possibly trillions of weights— uses some form of gradient descent for training. It would be a long road from the LMS algorithm to the modern algorithms that power AI, but Widrow and Hoff had laid one of the first paving stones.
+> 
+> **Chapter 3: The Bottom of the Bowl** (Location 1344)
+
+---
+
+> Encapsulated in this story about the Monty Hall dilemma is the tale of an eternal dispute between two ways of thinking about probability: frequentist and Bayesian.
+> 
+> **Chapter 4: In All Probability** (Location 1436)
+
+---
+
+> The prediction is probabilistic in the sense that there’s a finite chance that the algorithm will make an error when classifying a new data point. The classification depends entirely upon the hyperplane found by the perceptron. An infinite number of hyperplanes can separate the original data into two. So, one hyperplane might classify a new data point as belonging to class A, while another might classify the same data point as belonging to class B. It’s possible, mathematically, to derive the risk of error inherent in a perceptron’s predictions. That’s what makes the prediction probabilistic, even though the algorithm’s output is rather black and white (or -1 and 1).
+> 
+> **Chapter 4: In All Probability** (Location 1541)
+
+---
+
+> the task of probabilistic ML algorithms, one can say, comes down to estimating the distribution from data.
+> 
+> **Chapter 4: In All Probability** (Location 1671)
+
+---
+
+> In the first method, given data, the ML algorithm figures out the best θ, for some choice of distribution type (Bernoulli or Gaussian or something else), which maximizes the likelihood of seeing the data, D. In other words, you are estimating the best underlying distribution, with parameter θ, such that if you were to sample from that distribution, you would maximize the likelihood of observing the labeled data you already had in hand. Not surprisingly, this method is called maximum likelihood estimation (MLE). It maximizes P (D | θ), the probability of observing D given θ, and is loosely associated with frequentist methodology.
+> 
+> **Chapter 4: In All Probability** (Location 1693)
+
+---
+
+> In the second method, given the sampled data, the ML algorithm maximizes P (θ | D), i.e., it finds the most likely θ, given the data.
+> 
+> **Chapter 4: In All Probability** (Location 1707)
+
+---
+
+> The idea that you are going to find the most likely θ implies that θ itself follows a distribution, meaning it is being treated as a random variable. This second method now makes assumptions about which θ is most likely, without having seen the data. This is the prior probability distribution. Bayesian statisticians argue that it’s entirely reasonable to have a prior belief for the value of θ.
+> 
+> **Chapter 4: In All Probability** (Location 1711)
+
+---
+
+> Here’s a trick that statisticians and probability theorists use to make the problem more tractable. They assume that all features are sampled from their own distributions independently of one another.
+> 
+> **Chapter 4: In All Probability** (Location 1952)
+
+---
+
+> Such a classifier, with the assumption of mutually independent features, is called a naïve Bayes or, somewhat pejoratively, an idiot Bayes classifier.
+> 
+> **Chapter 4: In All Probability** (Location 1972)
+
+---
+
+> The task of many ML algorithms is to estimate this distribution, implicitly or explicitly, as well as possible and then use that to make predictions about new data.
+> 
+> **Chapter 4: In All Probability** (Location 1999)
+
+---
+
+> Estimating θ can be done, broadly speaking, in one of two ways. (There are other methods, but these two give us a great sense of how things are done in machine learning.) The first is called maximum likelihood estimation (MLE), which, given the data, tries to find the θ that maximizes the likelihood of the data. What that means is that Pθ( X, y) will give us different probability distributions for different θ, and the algorithm finds the θ that maximizes the probability of observing the data we have in hand. The second method of estimating the probability distribution is called maximum a posteriori (MAP) estimation. This assumes that θ is itself a random variable, which means that you can specify a probability distribution for it. (As we saw earlier, it’s a Bayesian claim that makes frequentists livid.) So, MAP starts with an initial assumption about how θ is distributed. This is also called the prior. For example, if you are modeling a coin toss, you can assume a priori that the coin is fair; or you can assume that it’s biased. Then, given the data and the prior, MAP finds the posterior probability distribution Pθ( X, y), such that if you were to sample several instances of data from this distribution, the probability that the sampled data matched the original data would be maximized.
+> 
+> **Chapter 4: In All Probability** (Location 2007)
+
+---
+
+> The naïve Bayes (or idiot Bayes) classifier is an example: It first learns the joint probability distribution, albeit with some simplifying assumptions, and then uses Bayes’s theorem to discriminate between different classes of data.
+> 
+> **Chapter 4: In All Probability** (Location 2022)
+
+---
+
+> Most important, Snow drew an inner black dotted line that showed “the various points which have been found by careful measurement to be at an equal distance by the nearest road from the pump in Broad Street and the surrounding pumps.”
+> 
+> **Chapter 5: Birds of a Feather** (Location 2059)
+
+---
+
+> No wonder this measure of distance is formally called the Manhattan distance between two points.
+> 
+> **Chapter 5: Birds of a Feather** (Location 2104)
+
+---
+
+> Their algorithm came to be called the nearest neighbor (NN) rule; it became an extremely important algorithm for pattern recognition, which classifies data as belonging to one category or another.
+> 
+> **Chapter 5: Birds of a Feather** (Location 2149)
+
+---
+
+> Algorithmically, there’s something very simple one can do. Just plot the new, unlabeled vector as a point. Find the point that’s nearest to it in the 63D space. If the nearest point has the label 2, then the new point is most likely a 2, too.
+> 
+> **Chapter 5: Birds of a Feather** (Location 2182)
+
+---
+
+> Recall the perceptron algorithm. It will fail to tell apart the circles from the triangles, because this dataset is not linearly separable:
+> 
+> **Chapter 5: Birds of a Feather** (Location 2216)
+
+---
+
+> The nearest neighbor algorithm, in its simplest form, essentially plots that new data point and calculates its distance to each data point in the initial dataset, which can be thought of as the training
+> 
+> **Chapter 5: Birds of a Feather** (Location 2221)
+
+---
+
+> Going back to the perceptron algorithm, recall that the linearly separating hyperplane divides the coordinate space into two regions. The nearest neighbor algorithm does the same, except in this case, the boundary between the two regions is not a straight line
+> 
+> **Chapter 5: Birds of a Feather** (Location 2227)
+
+---
+
+> What we have seen is an example of what ML researchers call overfitting. Our algorithm has overfit the data. It finds a boundary that doesn’t ignore even a single erroneous outlier.
+> 
+> **Chapter 5: Birds of a Feather** (Location 2245)
+
+---
+
+> We can simply increase the number of nearest neighbors against which to compare the new data point.
+> 
+> **Chapter 5: Birds of a Feather** (Location 2247)
+
+---
+
+> This is the price you pay if you don’t want to overfit. The classifier— which is characterized by the boundary— can misclassify some data points in the training dataset.
+> 
+> **Chapter 5: Birds of a Feather** (Location 2266)
+
+---
+
+> The whole idea of measuring distances to determine similarity falls apart. The k-NN algorithm’s central premise, that nearby points are similar, doesn’t hold water anymore. The algorithm works best for low-dimensional data.
+> 
+> **Chapter 5: Birds of a Feather** (Location 2430)
+
+---
+
+> We’ve just performed a principal component analysis. We took a two-dimensional dataset; found a one-dimensional component, or axis, that captured most of the variation in the data; and projected the data onto that one-dimensional axis.
+> 
+> **Chapter 6: There’s Magic in Them Matrices** (Location 2476)
+
+---
+
+> the diagonal terms of the XT.X matrix are the variances of the individual features: The larger these values are, the more variance, or spread, there is in the dataset for that aspect of people.
+> 
+> **Chapter 6: There’s Magic in Them Matrices** (Location 2620)
+
+---
+
+> The upshot of all this is that the diagonal elements capture the variance, or spread, in the values of individual features of a dataset, whereas the off-diagonal elements capture the covariance between the features.
+> 
+> **Chapter 6: There’s Magic in Them Matrices** (Location 2638)
+
+---
+
+> The eigenvectors of a covariance matrix are the principal components of the original matrix
+> 
+> **Chapter 6: There’s Magic in Them Matrices** (Location 2643)
+
+---
+
+> The covariance matrix describes how the dimensions relate to one another, and the eigenvectors of the covariance matrix yield the primary dimensions along which the original data vary.
+> 
+> **Chapter 6: There’s Magic in Them Matrices** (Location 2645)
+
+---
+
+> For example, you might discover— once you calculate the two eigenvectors and their eigenvalues— that almost all the variation in the original data lies in the direction of one of the eigenvectors (the major axis of the ellipse). You can ignore the other direction, for it tells you little.
+> 
+> **Chapter 6: There’s Magic in Them Matrices** (Location 2651)
+
+---
+
+> One analysis method that might be considered a precursor to unsupervised learning is clustering, an intuitive example of which is called the K-means clustering algorithm.
+> 
+> **Chapter 6: There’s Magic in Them Matrices** (Location 2733)
+
+---
+
+> The task is to minimize the mistakes. The perceptron algorithm, for instance, will never find a solution, because a linearly separating hyperplane doesn’t exist in this case. But a naïve Bayes classifier will find a solution, and of course, so will a k-nearest neighbor algorithm.
+> 
+> **Chapter 6: There’s Magic in Them Matrices** (Location 2791)
+
+---
+
+> Given some linearly separable sets of data points, the algorithm finds a hyperplane (the black line) that maximizes the margins on either side of it.
+> 
+> **Chapter 7: The Great Kernel Rope Trick** (Location 2841)
+
+---
+
+> what SVMs do: They take datasets that are linearly inseparable in their original, relatively low-dimensional space and project these data into high enough dimensions to find an optimal linearly separating hyperplane, but the calculations for finding the hyperplane rely on kernel functions that keep the algorithm firmly anchored in the more computationally tractable lower-dimensional space.
+> 
+> **Chapter 7: The Great Kernel Rope Trick** (Location 3249)
+
+---
+
+> Neural networks dominated machine learning in the eighties. And in the nineties, all of a sudden, everybody switched to kernel methods.”
+> 
+> **Chapter 7: The Great Kernel Rope Trick** (Location 3277)
+
+---
+
+> From the perspective of a physicist, the question that comes to mind is this: Why should a ferromagnetic material that has disordered spins in its lattice end up in a state where all the spins are aligned in one direction, creating macroscopic magnetism?
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3369)
+
+---
+
+> So, if two spins are aligned, they lower the energy of the system; if they are in opposition, they raise it. Even this cursory analysis tells us that if all the spins were to be aligned, the energy of the system would reach a minimum.
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3385)
+
+---
+
+> By making one more important assumption about how the artificial neurons were connected to each other (and we’ll come to the details), Hopfield could design a network whose dynamics ensured that storing or retrieving the memory was akin to putting the ensemble of neurons, and hence the network, into some stable low-energy state.
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3393)
+
+---
+
+> But this perturbation would put the system into some high-energy state, and the network would dynamically find its way to the stable state. Because that low-energy, stable state represents the memory, then that memory could be retrieved. The dynamical process restores the memory.
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3398)
+
+---
+
+> John Hopfield was among the few researchers who did not give up on neural networks, despite the blow dealt to the field by Marvin Minsky and Seymour Papert in their 1969 book, Perceptrons. (We’ll meet other researchers in subsequent chapters, in particular Geoff Hinton and Yann LeCun, who also kept the faith.)
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3403)
+
+---
+
+> Minsky and Papert proved mathematically— and elegantly so— that single-layer perceptrons are ineffective when the data are not linearly separable in some given set of dimensions. They then conjectured that while multi-layer perceptrons, where the output of one layer becomes an input to the next, could solve such problems, there was likely no way to train such networks.
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3410)
+
+---
+
+> In the 1970s, researchers were beginning to probe how to train multi-layer perceptrons (or multi-layer neural networks). The outline of an algorithm that would soon be called backpropagation, or backprop, was taking shape.
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3415)
+
+---
+
+> Hopfield’s next intuition was to create networks of neurons bi-directionally connected to each other. In other words, if the output of neuron A goes as input to neuron B, then the output of neuron B forms an input to neuron A.
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3430)
+
+---
+
+> Each magnetic moment is going to react to its nearest neighbors and flip or not flip. In our network, something similar happens. Each neuron is listening to every other neuron.
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3457)
+
+---
+
+> What Hopfield found is that when you do this, the network is no longer stable, and its dynamics take over: Each neuron flips (or not) until the network reaches a stable state. And if the corrupted state you forced the network into wasn’t very different from the stored memory, the network will reach the stable state that represents the memory.
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3480)
+
+---
+
+> Whether or not the stored memory is the one you intended to retrieve depends on the initial perturbation— if the perturbation is too large, it’s possible that the network’s dynamics take it to a different energy minimum than the one corresponding to the stored memory you wanted to retrieve.
+> 
+> **Chapter 8: With a Little Help from Physics** (Location 3557)
+
+---
+
+> deep learning— or the process of training neural networks that have three or more layers (one input layer, one output layer, and one or more so-called hidden layers tucked in between the input and output)—
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3714)
+
+---
+
+> To recap what we know so far, in the late 1950s and early ’60s, Frank Rosenblatt and Bernard Widrow devised single-layer neural networks and the algorithms to train them, making these networks the focus of machine learning for almost a decade. Then, in 1969, Minsky and Papert published their book, Perceptrons, in which they elegantly proved that single-layer neural networks had limitations, while insinuating (without proof) that multi-layer neural networks would likely be similarly useless, effectively killing that field of research and bringing about the first AI winter. Yet, not everyone gave up. In 1981– 82, John Hopfield figured out Hopfield networks. These networks, however, were one-shot learners. They didn’t need the kind of training that multi-layer neural networks required to learn incrementally from data. By the mid-1970s and early ’80s, a handful of researchers had begun elucidating the fundamental elements of an algorithm that could be used to train multi-layer networks. Then, in 1986, David Rumelhart, Geoffrey Hinton, and Ronald Williams published a seminal paper in the journal Nature, showing off the strengths of a training algorithm called backpropagation, thus greasing the wheels of deep learning and setting it in motion. (Though, as we’ll see in the next chapter, they weren’t the first to think of backpropagation; its history goes back to Rosenblatt.)
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3725)
+
+---
+
+> The implication of the backpropagation algorithm, detailed in the 1986 Rumelhart, Hinton, and Williams paper, was that multilayer neural networks could now be trained, while one kept in mind practical concerns such as lack of both computing power and training data.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3744)
+
+---
+
+> one hidden layer of neurons— hidden because the layer is not directly exposed on the output side.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3771)
+
+---
+
+> If a network requires more than one weight matrix (one for the output layer and one for each hidden layer), then it’s called a deep neural network: the greater the number of hidden layers, the deeper the network.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3784)
+
+---
+
+> So, while training a network means finding the optimal values for the weight matrices, it’s also akin to finding the function that best approximates the correlation between the inputs and the outputs.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3793)
+
+---
+
+> The function can also be used for regression, meaning the function is the curve that best fits the training data;
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3796)
+
+---
+
+> Or, in the context of ChatGPT and other instances of generative AI, the function could represent an AI’s ability, first, to learn an extremely complicated probability distribution that models the training data and, then, to sample from it,
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3798)
+
+---
+
+> What if we designed individual neural units, where each neural unit is made of two or more neurons that each produced an output that equaled the height of a rectangle of a required size and had the necessary width?
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3817)
+
+---
+
+> the function a( z) is called an activation function.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3834)
+
+---
+
+> The basic idea is that each hidden neuron is generating some sigmoidal curve, where the steepness of the curve is controlled by the neuron’s weight and where the location at which the curve rises along the x-axis is controlled by the neuron’s bias.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3855)
+
+---
+
+> Of all the concepts in this book, the idea of a function as a vector may cause the most head-scratching, but it’s also among the most beautiful and powerful ideas we’ll encounter.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3922)
+
+---
+
+> We can do this for any function. First map the function on the xy plane, for a certain range of values on the x-axis, and then determine the value of the function for a preselected array of x-axis values. This output array can be thought of as a vector whose dimensionality is determined by the number of points at which you chose to evaluate the function. In our example, it’s 11 locations along the x-axis, ranging from 0 to 10, inclusive.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3934)
+
+---
+
+> Because his proof that neural networks could indeed approximate any function given enough hidden neurons focused on networks with just one hidden layer, it apparently caused some researchers to spend their time building networks with just one hidden layer, rather than go deep by increasing the number of hidden layers.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3964)
+
+---
+
+> The revolution in deep learning that began around 2010 happened because researchers began to take seriously the “deep” in “deep learning”— and started to increase the number of hidden layers to well beyond one.
+> 
+> **Chapter 9: The Man Who Set Back Deep Learning (Not Really)** (Location 3967)
+
+---
+
+> He proved, using an illustrative example, that a three-layer neural network could not solve a simple problem if it started off with symmetric weights and used a deterministic procedure to update the weights.
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4046)
+
+---
+
+> In the most extreme case, we could employ a procedure which randomly varies the value of every connection, independently of the others, as long as errors continue to occur,”
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4049)
+
+---
+
+> We’ll come to the exact mathematical details, but conceptually, here’s the algorithm’s end game. Think of a three-layer neural network with one hidden layer. You feed it an input, and it produces an output. You calculate the error made by the network, which is the discrepancy between its output and the expected correct value. This error is a function of all the weights of the network. How do you minimize the error? Well, you can do gradient descent— the technique we encountered in chapter 3, with Bernard Widrow’s simple ADALINE network. Find the gradient of the error (as a function of the weights) and take a small step in the opposite direction by updating each weight by a tiny amount.
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4074)
+
+---
+
+> It’s clear from the loss function’s shape, as plotted, that if we initialize the weight and bias randomly to some values, we’ll most likely land somewhere along the slopes, rather than at the bottom.
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4144)
+
+---
+
+> Adding more neurons to the same layer will simply find more lines. That’s not what we want. We want neurons that can take these lines and combine them into something more complex— in our case, a 2D space separated into two regions, one that lies between the two lines and another that’s the rest of the xy plane.
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4255)
+
+---
+
+> This means that after the forward pass, not only do we need to keep in memory the results of all the computations, but we also need to remember the old weights.
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4363)
+
+---
+
+> Training eventually comes down to this: Provide the network with some set of inputs, figure out what the expected output should be (either because we humans have annotated the data and know what the output should be or because, in types of learning called self-supervised, the expected output is some known variation of the input itself), calculate the loss, calculate the gradient of the loss, update the weights/ biases, rinse and repeat.
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4378)
+
+---
+
+> What’s important to note here is that in a fully connected neural network, or multi-layer perceptron, each neuron of each layer receives all the inputs from the previous layer.
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4386)
+
+---
+
+> And therein lies the import of neural networks. The algorithms we saw in earlier chapters, including support vector machines, all required us to specify beforehand the features in the data.
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4416)
+
+---
+
+> with a neural network with sufficient neurons, all we would need to do is provide the inputs x1 and x2 and let the network figure out the features needed to classify the data correctly.
+> 
+> **Chapter 10: The Algorithm That Put Paid to a Persistent Myth** (Location 4424)
+
+---
+
+> Yann LeCun, now a young postdoc with Hinton in Toronto, solved the same problem, using a neural network architecture that became one of his signature contributions to AI: the convolutional neural network.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4631)
+
+---
+
+> For example, one of Chomsky’s basic arguments about language is that most syntactic structures in language are innate, not learned. Piaget thought otherwise.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4643)
+
+---
+
+> one can add an extra term to the loss function, something called a regularizer. This term is designed to make the ML model avoid overfitting. The loss function and the regularizer taken together constitute the objective function.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4666)
+
+---
+
+> Convolution in the context of an image is the operation performed on the image using another, smaller— say, 2 × 2— image, which is called a kernel or kernel filter.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4702)
+
+---
+
+> in the first convolved image, the horizontal line of the digit 4 is highlighted; whereas in the second convolved image, the vertical lines are highlighted.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4727)
+
+---
+
+> These kernels succeed in generating new images, after the convolution, that detect horizontal and vertical edges.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4732)
+
+---
+
+> The weights of the neuron are the values of the individual elements of the kernel. The inputs to the neuron are the pixel values of that part of the main image over which the kernel is hovering. The output of the neuron is simply the weighted sum of those pixels.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4750)
+
+---
+
+> Each neuron is paying attention only to a particular part of the image:
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4754)
+
+---
+
+> What features should one be looking for that would distinguish one image from another? And how do we design such kernels?
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4787)
+
+---
+
+> LeCun realized he could train a neural network to learn these kernels; after all, the elements of each kernel matrix are the weights of individual neurons. Training a network using backpropagation to do some task would, in essence, help the network find the appropriate kernels.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4789)
+
+---
+
+> The basic idea behind max pooling is to place a filter (another name for a kernel) over some part of the original image and then simply spit out the largest pixel value in the region below the filter.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4794)
+
+---
+
+> Learning a feature involves learning the values for a kernel, which, as we saw, is the same as learning the weights of a bunch of neurons.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4808)
+
+---
+
+> Calculate the error between what’s expected and what the network does, and then use this error to calculate the gradients, via backpropagation.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4830)
+
+---
+
+> What’s been left unsaid so far is that a designer of such a network has to make a host of decisions about parameters of the network that are not learned during the training process,
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4836)
+
+---
+
+> Fine-tuning, or finding the right values for, the hyperparameters is an art unto itself. Crucially, these are not learned via backpropagation.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4843)
+
+---
+
+> Despite LeNet, deep neural networks didn’t hit the big time. Part of that was because of the success of support vector machines, which made a splash in the machine learning community at around the same time: SVMs were easy to understand, the software was available, and for small datasets of the time, they were an ideal algorithm.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4848)
+
+---
+
+> The non-neural network systems had barely moved the needle. Deep neural networks had finally lived up to their promise. Sutskever was vindicated, because even before the trio started working on AlexNet, he had been evangelizing.
+> 
+> **Chapter 11: The Eyes of a Machine** (Location 4938)
+
+---
+
+> “Grokking is meant to be about not just understanding, but kind of internalizing and becoming the information,”
+> 
+> **Chapter 12: Terra Incognita** (Location 4971)
+
+---
+
+> The complex model will make predictions based on the extremely squiggly regression curve it has learned, which is specific to the noise in the training data,
+> 
+> **Chapter 12: Terra Incognita** (Location 5011)
+
+---
+
+> This leads us to the two competing forces at work here. One is called bias: The simpler the model, the greater the bias. The other is called variance: The more complex the model, the greater the variance.
+> 
+> **Chapter 12: Terra Incognita** (Location 5040)
+
+---
+
+> High bias (i.e., simpler models) leads to underfitting, a higher risk of training error, and a higher risk of test error, whereas high variance (i.e., more complex models) leads to overfitting, a lower risk of training error, and a higher risk of test error.
+> 
+> **Chapter 12: Terra Incognita** (Location 5042)
+
+---
+
+> Say we want a linear model. In the 2D case, a linear model is a line defined by its slope and its offset from the origin: So, we need two parameters. But what if your model had only one parameter? Then you’d be forced to find a simpler function in which either the slope was fixed or the offset was fixed, thus limiting your options.
+> 
+> **Chapter 12: Terra Incognita** (Location 5063)
+
+---
+
+> This can also be called the hypothesis class: Increase the number of parameters, and you increase the capacity of the hypothesis class.
+> 
+> **Chapter 12: Terra Incognita** (Location 5070)
+
+---
+
+> minimizing test error implies minimizing generalization error, or maximizing the ability to generalize.
+> 
+> **Chapter 12: Terra Incognita** (Location 5079)
+
+---
+
+> Deep nets have way too many parameters relative to the instances of training data: They are said to be over-parameterized; they should overfit and should not generalize well to unseen test data. Yet they do.
+> 
+> **Chapter 12: Terra Incognita** (Location 5082)
+
+---
+
+> But then, as the network increased in size and the training error approached zero, as per the bias-variance trade-off curve, the test error (or generalization error) should have started increasing. That’s not what they saw.
+> 
+> **Chapter 12: Terra Incognita** (Location 5090)
+
+---
+
+> it’s a process called regularization, which essentially turns a complex model into a simpler one, allowing it to generalize better.
+> 
+> **Chapter 12: Terra Incognita** (Location 5113)
+
+---
+
+> The problem being posed by deep neural networks had become clearer. These networks had the capacity to interpolate the data (meaning fit the training data perfectly) and yet make accurate predictions on test data.
+> 
+> **Chapter 12: Terra Incognita** (Location 5123)
+
+---
+
+> Parameters, we know, are those knobs in a model— the weights of a neural network, for example— that get tuned during training. Hyperparameters are knobs that are set by engineers before training begins.
+> 
+> **Chapter 12: Terra Incognita** (Location 5159)
+
+---
+
+> Finding good or optimal values for hyperparameters is a craft, almost an art.
+> 
+> **Chapter 12: Terra Incognita** (Location 5163)
+
+---
+
+> handful of architectures for neural networks: the single-layer perceptron, Hopfield networks (chapter 8), the multi-layer perceptron (chapter 10), and the convolutional neural network (chapter 11).
+> 
+> **Chapter 12: Terra Incognita** (Location 5165)
+
+---
+
+> Feedforward neural networks are those in which the information flows one way, from the input layer to the output. So, if a neuron is producing an output, the output serves as input only to neurons that are part of the layers ahead.
+> 
+> **Chapter 12: Terra Incognita** (Location 5168)
+
+---
+
+> A recurrent neural network, by contrast, allows for feedback connections so that the outputs of neurons not only influence neurons in the layers ahead, but can also serve as inputs to neurons in the same layer or in the layers that came before.
+> 
+> **Chapter 12: Terra Incognita** (Location 5170)
+
+---
+
+> Given an input, a neural network will produce an output. We can define a function that calculates the loss, or error, made by the network by comparing the produced output in some predefined manner to the expected output.
+> 
+> **Chapter 12: Terra Incognita** (Location 5177)
+
+---
+
+> Training a network means minimizing the loss over training data.
+> 
+> **Chapter 12: Terra Incognita** (Location 5180)
+
+---
+
+> We have already seen that training a model to achieve zero training cost can result in overfitting. To prevent this, the cost function is often modified with the addition of another term to it, called the regularizer. Think of this as a term that forces the function to take into account the model’s complexity, or capacity; we incur a penalty for making the model overly complex.
+> 
+> **Chapter 12: Terra Incognita** (Location 5181)
+
+---
+
+> However, one of the most significant developments over the past five years— one that has led to the enormous explosion of interest in AIs such as ChatGPT— is something called self-supervised learning, a clever method that takes unlabeled data and creates implicit labels without human involvement and then supervises itself.
+> 
+> **Chapter 12: Terra Incognita** (Location 5197)
+
+---
+
+> The training algorithm takes a small sentence, masks one word, for example, and gives that sentence with the masked word as an input to the network (the details are a little more complicated, but let’s go with masked words as units of information). The network’s task: to predict the missing word and complete the sentence.
+> 
+> **Chapter 12: Terra Incognita** (Location 5225)
+
+---
+
+> The algorithm takes an unannotated image and masks some pixels. It feeds this masked image to a neural network and asks the network to generate the unmasked image in all its fullness.
+> 
+> **Chapter 12: Terra Incognita** (Location 5244)
+
+---
+
+> And in much the same way that an LLM learns the statistical structure of language, a self-supervised image-processing network learns the statistical structure of images.
+> 
+> **Chapter 12: Terra Incognita** (Location 5248)
+
+---
+
+> At the point where the test error hits its maximum, the training error touches zero. The model has interpolated: It has overfit the training data.
+> 
+> **Chapter 12: Terra Incognita** (Location 5269)
+
+---
+
+> of both kernel machines and deep neural networks begins improving once you increase the capacity of both beyond the point of interpolation, toward lower test risk and better performance.
+> 
+> **Chapter 12: Terra Incognita** (Location 5272)
+
+---
+
+> Belkin and colleagues dubbed the phenomenon double descent and proposed that it was a unifying principle: The first descent leads to a minimum for the test error, followed by an ascent, and then a subsequent descent to low levels of test error.
+> 
+> **Chapter 12: Terra Incognita** (Location 5275)
+
+---
+
+> But the newer, over-parameterized regime, which results in the second descent, is barely understood, mathematically speaking.
+> 
+> **Chapter 12: Terra Incognita** (Location 5278)
+
+---
+
+> When it comes to deep learning, this tension between theory and experiment is playing out for all to see.
+> 
+> **Chapter 12: Terra Incognita** (Location 5292)
+
+---
+
+> So far, no one knows if the landscape has a global minimum or just lots of good local minima (where “good” means the loss is acceptably low).
+> 
+> **Chapter 12: Terra Incognita** (Location 5298)
+
+---
+
+> One of the most elegant demonstrations of empirical observations in need of theory is grokking.
+> 
+> **Chapter 12: Terra Incognita** (Location 5311)
+
+---
+
+> The neural network that Power and colleagues were using was called a transformer, a type of architecture that’s especially suited to processing sequential data.
+> 
+> **Chapter 12: Terra Incognita** (Location 5315)
+
+---
+
+> If one stops training at the point the network hits zero training loss, the network has most likely interpolated the training data— meaning it has simply memorized them. And that’s usually where the OpenAI researchers stopped the training. No one thought of training further. But then, one day, thanks to the vacation snafu, the network continued training past this point— and learned something completely new.
+> 
+> **Chapter 12: Terra Incognita** (Location 5337)
+
+---
+
+> “It seems like the phase change is going from a memorized table of answers to becoming the knowledge in some sense,”
+> 
+> **Chapter 12: Terra Incognita** (Location 5354)
+
+---
+
+> AI winters, Goldstein said, happened in the late 1960s, when Rosenblatt’s perceptrons were, disingenuously, accused of not being able to solve the XOR problem; and then between 1974 and 1980, after Sir James Lighthill published his scathing report on the utter lack of progress in solving problems in language translation and robotics; and then again in the late 1980s, when research into good old-fashioned AI, or symbolic AI, came to a grinding halt as it became clear that expert systems built using carefully designed rule-based “inference engines” that operated on hand-crafted knowledge bases were… well, useless when it came to sophisticated reasoning involving new know-how not already in the knowledge base. These symbolic AIs were brittle; they also couldn’t learn from data.
+> 
+> **Chapter 12: Terra Incognita** (Location 5361)
+
+---
+
+> There are many ways of sampling from this distribution, but let’s say we greedily sample to get the most likely next word.
+> 
+> **Epilogue** (Location 5444)
+
+---
+
+> This act of scaling up— either using more parameters or more training data or both— has produced what is being called “emergent” behavior.
+> 
+> **Epilogue** (Location 5462)
+
+---
+
+> (Emily Bender of the University of Washington and colleagues coined a colorful phrase for LLMs; they called them “stochastic parrots.”)
+> 
+> **Epilogue** (Location 5471)
+
+---
+
+> ML algorithms assume that the data on which they have been trained are drawn from some underlying distribution and that the unseen data on which they make predictions are also drawn from the same distribution. If an ML system encounters real-world data that falls afoul of this assumption, all bets are off as to the predictions.
+> 
+> **Epilogue** (Location 5496)

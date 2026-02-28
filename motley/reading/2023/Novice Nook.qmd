@@ -1,0 +1,6 @@
+---
+title: "Novice Nook"
+author: Dan Heisman
+date: 2023-12-18
+Rating: 9 / 10
+---

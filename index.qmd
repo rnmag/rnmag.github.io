@@ -2,8 +2,8 @@
 title: "Rafael N. Magalhães"
 about:
   template: jolla
-  image: logo.png
-  image-width: 20rem
+  image: assets/logo.png
+  image-width: 45%
   image-shape: "rectangle"
 ---
 

@@ -1,0 +1,6 @@
+---
+title: "Torto Arado"
+author: Itamar Vieira Jr.
+date: 2024-01-20
+Rating: 10 / 10
+---

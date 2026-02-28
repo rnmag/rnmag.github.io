@@ -1,0 +1,6 @@
+---
+title: "Dom Casmurro"
+author: Machado de Assis
+date: 2025-08-24
+Rating: 10 / 10
+---

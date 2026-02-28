@@ -1,0 +1,6 @@
+---
+title: "The Gentle Art of Mathematics"
+author: Dan Pedoe
+date: 2024-01-9
+Rating: 8 / 10
+---

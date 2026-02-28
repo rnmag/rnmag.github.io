@@ -1,0 +1,71 @@
+---
+title: Reading
+listing:
+  - id: y2026
+    contents: reading/2026
+    date-format: "MMM"
+    type: table
+    table-hover: true
+    sort: "date desc"
+    page-size: 100
+    sort-ui: false
+    filter-ui: false
+    fields: [title, author, Rating, date]
+    field-display-names:
+      date: "✓"
+  - id: y2025
+    contents: reading/2025
+    date-format: "MMM"
+    type: table
+    table-hover: true
+    sort: "date desc"
+    page-size: 100
+    sort-ui: false
+    filter-ui: false
+    fields: [title, author, Rating, date]
+    field-display-names:
+      date: "✓"
+  - id: y2024
+    contents: reading/2024
+    date-format: "MMM"
+    type: table
+    table-hover: true
+    sort: "date desc"
+    page-size: 100
+    sort-ui: false
+    filter-ui: false
+    fields: [title, author, Rating, date]
+    field-display-names:
+      date: "✓"
+  - id: y2023
+    contents: reading/2023
+    date-format: "MMM"
+    type: table
+    table-hover: true
+    sort: "date desc"
+    page-size: 100
+    sort-ui: false
+    filter-ui: false
+    fields: [title, author, Rating, date]
+    field-display-names:
+      date: "✓"
+---
+## 2026
+
+:::{#y2026}
+:::
+
+## 2025
+
+:::{#y2025}
+:::
+
+## 2024
+
+:::{#y2024}
+:::
+
+## 2023
+
+:::{#y2023}
+:::

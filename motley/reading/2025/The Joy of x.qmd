@@ -1,0 +1,6 @@
+---
+title: "The Joy of x"
+author: Steven Strogatz
+date: 2025-07-23
+Rating: 8 / 10
+---

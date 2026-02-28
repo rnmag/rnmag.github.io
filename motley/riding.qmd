@@ -1,0 +1,291 @@
+---
+title: 🏍️ Riding 🏍️
+lightbox: auto
+toc: true
+---
+
+## Pantanal / Bonito
+![](riding/Bonito-Pantanal/img%20(5).jpg){.lightbox group="bonito"}
+
+![](riding/Bonito-Pantanal/img%20(1).jpg){.lightbox group="bonito"}
+
+:::{layout-ncol="2"}
+![](riding/Bonito-Pantanal/img%20(2).jpg){.lightbox group="bonito"}
+
+![](riding/Bonito-Pantanal/img%20(3).jpg){.lightbox group="bonito"}
+
+![](riding/Bonito-Pantanal/img%20(4).jpg){.lightbox group="bonito"}
+
+![](riding/Bonito-Pantanal/img%20(10).jpg){.lightbox group="bonito"}
+
+![](riding/Bonito-Pantanal/img%20(11).jpg){.lightbox group="bonito"}
+
+![](riding/Bonito-Pantanal/img%20(6).jpg){.lightbox group="bonito"}
+
+![](riding/Bonito-Pantanal/img%20(7).jpg){.lightbox group="bonito"}
+
+![](riding/Bonito-Pantanal/img%20(9).jpg){.lightbox group="bonito"}
+:::
+
+![](riding/Bonito-Pantanal/img%20(8).jpg){.lightbox group="bonito"}
+
+![](riding/Bonito-Pantanal/img%20(13).jpg){.lightbox group="bonito"}
+
+## Guarda do Embaú / Graciosa
+![](riding/Guarda%20do%20Emba%C3%BA-Graciosa/img%20(3).jpg){.lightbox group="embau"}
+
+:::{layout-ncol="2"}
+![](riding/Guarda%20do%20Emba%C3%BA-Graciosa/img%20(2).jpg){.lightbox group="embau"}
+
+![](riding/Guarda%20do%20Emba%C3%BA-Graciosa/img%20(1).jpg){.lightbox group="embau"}
+
+![](riding/Guarda%20do%20Emba%C3%BA-Graciosa/img%20(4).jpg){.lightbox group="embau"}
+
+![](riding/Guarda%20do%20Emba%C3%BA-Graciosa/img%20(5).jpg){.lightbox group="embau"}
+:::
+
+## Arraial do Cabo
+![](riding/Arraial%20do%20Cabo/img%20(4).jpg){.lightbox group="arraial"}
+
+:::{layout-ncol="2"}
+![](riding/Arraial%20do%20Cabo/img%20(3).jpg){.lightbox group="arraial"}
+
+![](riding/Arraial%20do%20Cabo/img%20(2).jpg){.lightbox group="arraial"}
+
+![](riding/Arraial%20do%20Cabo/img%20(5).jpg){.lightbox group="arraial"}
+
+![](riding/Arraial%20do%20Cabo/img%20(1).jpg){.lightbox group="arraial"}
+:::
+
+## Serra do Rio do Rastro
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(11).jpg){.lightbox group="rastro"}
+
+:::{layout-ncol="2"}
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(3).jpg){.lightbox group="rastro"}
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(4).jpg){.lightbox group="rastro"}
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(10).jpg){.lightbox group="rastro"}
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(5).jpg){.lightbox group="rastro"}
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(7).jpg){.lightbox group="rastro"}
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(12).jpg){.lightbox group="rastro"}
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(1).jpg){.lightbox group="rastro"}
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(2).jpg){.lightbox group="rastro"}
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(9).jpg){.lightbox group="rastro"}
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(6).jpg){.lightbox group="rastro"}
+:::
+
+![](riding/Serra%20do%20Rio%20do%20Rastro/img%20(8).jpg){.lightbox group="rastro"}
+
+## Caraíva / Trancoso
+![](riding/Cara%C3%ADva-Trancoso/img%20(9).jpg){.lightbox group="trancoso"}
+
+:::{layout-ncol="2"}
+![](riding/Cara%C3%ADva-Trancoso/img%20(11).jpg){.lightbox group="trancoso"}
+
+![](riding/Cara%C3%ADva-Trancoso/img%20(2).jpg){.lightbox group="trancoso"}
+
+![](riding/Cara%C3%ADva-Trancoso/img%20(3).jpg){.lightbox group="trancoso"}
+
+![](riding/Cara%C3%ADva-Trancoso/img%20(4).jpg){.lightbox group="trancoso"}
+
+![](riding/Cara%C3%ADva-Trancoso/img%20(6).jpg){.lightbox group="trancoso"}
+
+![](riding/Cara%C3%ADva-Trancoso/img%20(7).jpg){.lightbox group="trancoso"}
+:::
+
+![](riding/Cara%C3%ADva-Trancoso/img%20(5).jpg){.lightbox group="trancoso"}
+
+## Morro de São Paulo
+![](riding/Morro%20de%20S%C3%A3o%20Paulo/img%20(3).jpg){.lightbox group="morro"}
+
+:::{layout-ncol="2"}
+![](riding/Morro%20de%20S%C3%A3o%20Paulo/img%20(1).jpg){.lightbox group="morro"}
+
+![](riding/Morro%20de%20S%C3%A3o%20Paulo/img%20(2).jpg){.lightbox group="morro"}
+
+![](riding/Morro%20de%20S%C3%A3o%20Paulo/img%20(4).jpg){.lightbox group="morro"}
+
+![](riding/Morro%20de%20S%C3%A3o%20Paulo/img%20(5).jpg){.lightbox group="morro"}
+:::
+
+![](riding/Morro%20de%20S%C3%A3o%20Paulo/img%20(6).jpg){.lightbox group="morro"}
+
+## Salvador / Praia do Forte
+![](riding/Salvador/img%20(8).jpg){.lightbox group="salvador"}
+
+:::{layout-ncol="2"}
+![](riding/Salvador/img%20(6).jpg){.lightbox group="salvador"}
+
+![](riding/Salvador/img%20(7).jpg){.lightbox group="salvador"}
+
+![](riding/Salvador/img%20(5).jpg){.lightbox group="salvador"}
+
+![](riding/Salvador/img%20(9).jpg){.lightbox group="salvador"}
+
+![](riding/Salvador/img%20(1).jpg){.lightbox group="salvador"}
+
+![](riding/Salvador/img%20(2).jpg){.lightbox group="salvador"}
+
+![](riding/Salvador/img%20(3).jpg){.lightbox group="salvador"}
+
+![](riding/Salvador/img%20(4).jpg){.lightbox group="salvador"}
+:::
+
+![](riding/Salvador/img%20(10).jpg){.lightbox group="salvador"}
+
+## São Thomé das Letras
+![](riding/S%C3%A3o%20Thom%C3%A9%20das%20Letras/img%20(5).jpg){.lightbox group="thome"}
+
+:::{layout-ncol="2"}
+![](riding/S%C3%A3o%20Thom%C3%A9%20das%20Letras/img%20(2).jpg){.lightbox group="thome"}
+
+![](riding/S%C3%A3o%20Thom%C3%A9%20das%20Letras/img%20(3).jpg){.lightbox group="thome"}
+
+![](riding/S%C3%A3o%20Thom%C3%A9%20das%20Letras/img%20(4).jpg){.lightbox group="thome"}
+
+![](riding/S%C3%A3o%20Thom%C3%A9%20das%20Letras/img%20(1).jpg){.lightbox group="thome"}
+
+![](riding/S%C3%A3o%20Thom%C3%A9%20das%20Letras/img%20(7).jpg){.lightbox group="thome"}
+
+![](riding/S%C3%A3o%20Thom%C3%A9%20das%20Letras/img%20(8).jpg){.lightbox group="thome"}
+:::
+
+## Tiradentes / Resende Costa
+![](riding/Tiradentes-Resende%20Costa/img%20(3).jpg){.lightbox group="tiradentes"}
+
+:::{layout-ncol="2"}
+![](riding/Tiradentes-Resende%20Costa/img%20(7).jpg){.lightbox group="tiradentes"}
+
+![](riding/Tiradentes-Resende%20Costa/img%20(8).jpg){.lightbox group="tiradentes"}
+
+![](riding/Tiradentes-Resende%20Costa/img%20(9).jpg){.lightbox group="tiradentes"}
+
+![](riding/Tiradentes-Resende%20Costa/img%20(11).jpg){.lightbox group="tiradentes"}
+
+![](riding/Tiradentes-Resende%20Costa/img%20(5).jpg){.lightbox group="tiradentes"}
+
+![](riding/Tiradentes-Resende%20Costa/img%20(6).jpg){.lightbox group="tiradentes"}
+:::
+
+## Paraty
+![](riding/Paraty/img%20(7).jpg){.lightbox group="paraty"}
+
+:::{layout-ncol="2"}
+![](riding/Paraty/img%20(4).jpg){.lightbox group="paraty"}
+
+![](riding/Paraty/img%20(3).jpg){.lightbox group="paraty"}
+
+![](riding/Paraty/img%20(5).jpg){.lightbox group="paraty"}
+
+![](riding/Paraty/img%20(8).jpg){.lightbox group="paraty"}
+:::
+
+
+
+## Praia de Camburi
+![](riding/Praia%20de%20Camburi/img%20(2).jpg){.lightbox group="camburi"}
+
+![](riding/Praia%20de%20Camburi/img%20(1).jpg){.lightbox group="camburi"}
+
+![](riding/Praia%20de%20Camburi/img%20(3).jpg){.lightbox group="camburi"}
+
+![](riding/Praia%20de%20Camburi/img%20(4).jpg){.lightbox group="camburi"}
+
+## Guararema
+![](riding/Guararema/img%20(5).jpg){.lightbox group="guararema"}
+
+![](riding/Guararema/img%20(1).jpg){.lightbox group="guararema"}
+
+![](riding/Guararema/img%20(3).jpg){.lightbox group="guararema"}
+
+![](riding/Guararema/img%20(4).jpg){.lightbox group="guararema"}
+
+![](riding/Guararema/img%20(6).jpg){.lightbox group="guararema"}
+
+## Holambra
+![](riding/Holambra/img%20(1).jpg){.lightbox group="holambra"}
+
+:::{layout-ncol="2"}
+![](riding/Holambra/img%20(2).jpg){.lightbox group="holambra"}
+
+![](riding/Holambra/img%20(4).jpg){.lightbox group="holambra"}
+
+![](riding/Holambra/img%20(5).jpg){.lightbox group="holambra"}
+
+![](riding/Holambra/img%20(7).jpg){.lightbox group="holambra"}
+:::
+
+![](riding/Holambra/img%20(6).jpg){.lightbox group="holambra"}
+
+## Amparo
+![](riding/Amparo/img%20(3).jpg){.lightbox group="amparo"}
+
+![](riding/Amparo/img%20(4).jpg){.lightbox group="amparo"}
+
+![](riding/Amparo/img%20(2).jpg){.lightbox group="amparo"}
+
+![](riding/Amparo/img%20(1).jpg){.lightbox group="amparo"}
+
+## Serra Negra
+![](riding/Serra%20Negra/img%20(3).jpg){.lightbox group="serranegra"}
+
+:::{layout-ncol="2"}
+![](riding/Serra%20Negra/img%20(5).jpg){.lightbox group="serranegra"}
+
+![](riding/Serra%20Negra/img%20(4).jpg){.lightbox group="serranegra"}
+
+![](riding/Serra%20Negra/img%20(1).jpg){.lightbox group="serranegra"}
+
+![](riding/Serra%20Negra/img%20(2).jpg){.lightbox group="serranegra"}
+:::
+
+## Campos do Jordão
+![](riding/Campos%20do%20Jord%C3%A3o/img%20(3).jpg){.lightbox group="camposjordao"}
+
+![](riding/Campos%20do%20Jord%C3%A3o/img%20(1).jpg){.lightbox group="camposjordao"}
+
+![](riding/Campos%20do%20Jord%C3%A3o/img%20(2).jpg){.lightbox group="camposjordao"}
+
+![](riding/Campos%20do%20Jord%C3%A3o/img%20(4).jpg){.lightbox group="camposjordao"}
+
+## São Roque / Cotia
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(1).jpg){.lightbox group="saoroque"}
+
+:::{layout-ncol="2"}
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(2).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(3).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(10).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(11).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(4).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(5).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(6).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(7).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(9).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(12).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(13).jpg){.lightbox group="saoroque"}
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(14).jpg){.lightbox group="saoroque"}
+:::
+
+![](riding/S%C3%A3o%20Roque-Cotia/img%20(15).jpg){.lightbox group="saoroque"}
+
+
+

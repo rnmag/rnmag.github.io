@@ -1,0 +1,6 @@
+---
+title: "The Predictioneer's Game"
+author: Bruce Bueno de Mesquita
+date: 2025-03-30
+Rating: 8 / 10
+---

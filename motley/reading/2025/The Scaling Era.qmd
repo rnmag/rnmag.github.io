@@ -1,0 +1,275 @@
+---
+title: "The Scaling Era: An Oral History of AI"
+author: Dwarkesh Patel
+date: 2025-12-2
+Rating: 9 / 10
+---
+
+### Highlights
+> we haven’t gotten used to the thing’s unevenness, so we tend to round it down (to a “stochastic parrot”) or up (to something akin to a person, a replacement for expertise).
+> 
+> **Preface** (Location 49)
+
+---
+
+> Learning: The process of adjusting weights in a model after it processes data, enabling improved predictions based on past performance.
+> 
+> **Primer** (Location 128)
+
+---
+
+> The main reason it got smarter is scaling: The researchers used roughly the same design as GPT-2 but created a much larger version trained on much more data.
+> 
+> **Chapter 1 Scaling** (Location 191)
+
+---
+
+> The scaling hypothesis is the idea that this resource-intensive strategy is all it will take to build a human-level AI system, and possibly systems that surpass human-level intelligence.
+> 
+> **Chapter 1 Scaling** (Location 202)
+
+---
+
+> More recently, a second form of scaling has emerged: inference scaling. 52 This involves increasing the compute used to answer each question by training the model to think longer (by using more tokens in its response) or by applying explicit algorithms on top of an LLM to explore multiple paths.
+> 
+> **Chapter 1 Scaling** (Location 208)
+
+---
+
+> As Kaplan notes, the linear models fit the data better. This data is just a sine wave with noise; the underlying generator has only three parameters. The optimal model for this particular data in terms of both accuracy and parameter efficiency is a sine wave, but the piecewise approach is applicable to data in general.
+> 
+> **Chapter 1 Scaling** (Location 266)
+
+---
+
+> as you scale up the number of parameters, all you’re really doing is cutting up your data manifold into more and more high-resolution pieces.
+> 
+> **Chapter 1 Scaling** (Location 270)
+
+---
+
+> One source of evidence is work by Suzana Herculano-Houzel, a neuroscientist who has dissolved the brains of many creatures to determine how many neurons are present. She’s found a lot of interesting scaling laws. She has a paper discussing the human brain as a scaled-up primate brain. 60 Across a wide variety of animals, mammals in particular, there are certain characteristic changes in the number of neurons and the size of different brain regions as things scale up. There’s a lot of structural similarity.
+> 
+> **Chapter 1 Scaling** (Location 302)
+
+---
+
+> Think about something like AlphaGo and the famous Move 37. Where did that come from? Did it come from data it had seen of human games? No. It came from the model identifying a move as being unlikely but plausible and then, via a process of search, coming to understand that it was actually a very good move.
+> 
+> **Chapter 1 Scaling** (Location 369)
+
+---
+
+> To get real creativity, you need to search through spaces of possibilities and find these hidden gems. That’s what creativity is. Current language models don’t really do that. They’re mimicking the data.
+> 
+> **Chapter 1 Scaling** (Location 372)
+
+---
+
+> Here’s an analogy. When you drive, you’re on autopilot most of the time. Sometimes you hit a construction zone or an intersection. Sometimes my girlfriend is in the passenger seat and I’m like, “Ah, be quiet for a moment, I need to figure out what’s going on.” You go from autopilot to System 2. Scaling improves that System 1 autopilot. The brute-force way to get to agents is improving that system. But if, instead, you can get a System 2 working, you can quickly jump to something more agentified, and test-time compute overhang is unlocked.
+> 
+> **Chapter 1 Scaling** (Location 431)
+
+---
+
+> RLHF is equivalent to increasing the model size 100 times in terms of the resulting increase in human evaluators’ preference ratings.
+> 
+> **Chapter 1 Scaling** (Location 446)
+
+---
+
+> You do sometimes get surprising improvement in other domains. For example, when these large models improve at coding, that can actually improve their general reasoning.
+> 
+> **Chapter 1 Scaling** (Location 485)
+
+---
+
+> the whole community is doing a kind of greedy evolutionary optimization over the landscape of possible AI architectures. It’s no better than evolution.
+> 
+> **Chapter 1 Scaling** (Location 517)
+
+---
+
+> I was, again, very skeptical. But along the way, [the semantic network] DanNet and [the image classification model] AlexNet came out— a very impressive success story of connectionism.
+> 
+> **Chapter 1 Scaling** (Location 534)
+
+---
+
+> noticing that the world looked more like [the connectionists’] world than like my world, where algorithms are super important and you need deep insight.
+> 
+> **Chapter 1 Scaling** (Location 542)
+
+---
+
+> In 2020, AI was already a thing. People were writing bestselling books about it. But none of those books were about scaling.
+> 
+> **Chapter 1 Scaling** (Location 553)
+
+---
+
+> they made the basic error I had made, thinking that algorithms are more important than compute.
+> 
+> **Chapter 1 Scaling** (Location 563)
+
+---
+
+> To my mind, the model’s activations are like working memory in your brain, and the weights are like the synapses in your cortex.
+> 
+> **Chapter 1 Scaling** (Location 586)
+
+---
+
+> One way you could phrase it is that the models are maybe two to three orders of magnitude [100x to 1,000x] smaller than the human brain, while at the same time being trained on three to four orders of magnitude [1,000x to 10,000x] more data.
+> 
+> **Chapter 1 Scaling** (Location 613)
+
+---
+
+> I’m a bit skeptical of biological analogies. I thought in those terms five or six years ago. Now that we have these models in front of us, it feels like the evidence from these analogies has been screened off by what we’ve actually seen.
+> 
+> **Chapter 1 Scaling** (Location 624)
+
+---
+
+> But general intelligence is not task-specific skill scaled up. General intelligence is the ability to approach any problem, any skill, and very quickly master it using very little data.
+> 
+> **Chapter 2 Evals** (Location 726)
+
+---
+
+> A traditional Stockfish or Deep Blue system would look at millions of possible moves for every decision. AlphaZero and AlphaGo may look at tens of thousands of possible positions in order to make a decision about what to move next. A human grandmaster or world champion probably only looks at a few hundred moves in order to make their very good decision about what to play next. That suggests that the brute-force systems don’t have any real model other than the heuristics about the game. AlphaZero has quite a decent model, but the top human players have a much richer, much more accurate model.
+> 
+> **Chapter 2 Evals** (Location 834)
+
+---
+
+> Everyone has their complaints about the ML literature.
+> 
+> **Chapter 2 Evals** (Location 856)
+
+---
+
+> The skeptical hypothesis is that the models are memorizing answers or pattern-matching chains of words— essentially, babbling. 111 But we know that they can reason.
+> 
+> **Chapter 3 Internals** (Location 912)
+
+---
+
+> [I disagree.] It’s associations all the way down. If you chain together a bunch of these reasoning circuits, or heads, they produce different rules for how to relate information.
+> 
+> **Chapter 3 Internals** (Location 993)
+
+---
+
+> These parametric curves trained with gradient descent are great fits for everything that’s System 1 thinking: pattern recognition, intuition, memorization, et cetera. Discrete program search is a great fit for System 2 thinking: planning, reasoning.
+> 
+> **Chapter 3 Internals** (Location 1042)
+
+---
+
+> We already have some alignment methods, such as RLHF, which uses a simple model trained on human votes to penalize LLMs for undesirable outputs. 131 But these methods, which aim to align a model by optimizing its output, only make shallow changes to the internals. This is evident in the steady stream of jailbreaks— prompts that bypass alignment methods and make the model accept any query, including criminal ones— in every LLM tested to date.
+> 
+> **Chapter 4 Safety** (Location 1209)
+
+---
+
+> Somebody had this incredibly profound statement that I somewhat disagree with: “Consciousness is when the mask eats the shoggoth.” 140 Maybe that’s it. Maybe with the right set of bootstrapping reflection type stuff, you can have that happen on purpose, where the system’s output [the mask] that you’re shaping is to some degree in control of the system.
+> 
+> **Chapter 4 Safety** (Location 1369)
+
+---
+
+> I would give the X-ray or MRI analogy. We can be in a position where we can look at the broad features of the model and say, “Is this a model whose internal state and plans are very different from what it externally represents itself to do? Is this a model where we’re uncomfortable that far too much of its computational power is devoted to doing what look like fairly destructive and manipulative things?”
+> 
+> **Chapter 4 Safety** (Location 1425)
+
+---
+
+> You make legitimate points about the balance of power and the harms you can get rid of with better alignment techniques. But I wish Meta had some sort of framework for this. Other labs have this. They say, “If we see this concrete thing, then that’s a no-go on open sourcing this, or even deploying it.”
+> 
+> **Chapter 4 Safety** (Location 1468)
+
+---
+
+> If you read about life under Stalin or Mao, there’s a way to interpret it as very similar to alignment. We do these black-box experiments to make the model think it can defect, and if it does, we know it’s misaligned. Mao had the Hundred Flowers campaign: “Let a hundred flowers bloom. I’m going to allow criticism of my regime.” Afterward, everybody who did criticize the regime was labeled a rightist and purged.
+> 
+> **Chapter 4 Safety** (Location 1499)
+
+---
+
+> There are whole countries trying to invest in having scientists. They churn out people who write papers. None of it goes anywhere because the part that was legible to the bureaucracy is, have you written the paper? Can you pass the test? This is not science.
+> 
+> **Chapter 4 Safety** (Location 1545)
+
+---
+
+> It’s not just about repeating the same recipe at each new scale. You have to adjust the recipe, and that’s a bit of an art form.
+> 
+> **Chapter 5 Inputs** (Location 1627)
+
+---
+
+> You can put the clusters in the US and in allied democracies. Once you put them in authoritarian dictatorships, you create this irreversible security risk. Once the cluster is there, it’s much easier for them to exfiltrate the weights. They can literally steal the AGI.
+> 
+> **Chapter 5 Inputs** (Location 1772)
+
+---
+
+> there was a running joke that building AGI would look like a data center next to a nuclear power plant next to a bunker, and we’d all live in the bunker. Everything would be local so it wouldn’t get on the internet.
+> 
+> **Chapter 5 Inputs** (Location 1798)
+
+---
+
+> I would say the data situation is still quite good. There’s still lots to go. But at some point the data will run out.
+> 
+> **Chapter 5 Inputs** (Location 1823)
+
+---
+
+> Here’s one indisputable fact: GPT-4 was totally worth it. It cost $ 500 million and is generating billions in revenue. 194 GPT-5 is the next leap. It will cost $ 5 billion, or on that order of magnitude, but it will presumably eventually generate tens of billions of revenue. But that’s only for the market leader who gets there first.
+> 
+> **Chapter 6 Impact** (Location 1957)
+
+---
+
+> I’ve seen many of these groks in my life. I was there when GPT-3 learned to do arithmetic, when GPT-2 learned to do regression a little bit above chance, when Claude got better on all these tests of helpfulness, honesty, harmlessness.
+> 
+> **Chapter 6 Impact** (Location 2093)
+
+---
+
+> In computer chess, the methods that defeated the world champion, Kasparov, in 1997 were based on massive, deep search. At the time, this was looked upon with dismay by the majority of computer chess researchers, who had pursued methods that leveraged human understanding of the special structure of chess. When a simpler search-based approach with special hardware and software proved vastly more effective, these human-knowledge-based chess researchers were not good losers. They said that “brute force” search may have won this time, but it was not a general strategy, and anyway it was not how people played chess. These researchers wanted methods based on human input to win and were disappointed when they did not.
+> 
+> **Appendix Essays** (Location 2801)
+
+---
+
+> One thing that should be learned from the bitter lesson is the great power of general-purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning.
+> 
+> **Appendix Essays** (Location 2830)
+
+---
+
+> The second general point to be learned from the bitter lesson is that the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds,
+> 
+> **Appendix Essays** (Location 2833)
+
+---
+
+> Good old-fashioned AI (GOFAI): A teasing nickname for symbolic AI, the approach dominant in the mid-20th century, which used computational logic to solve problems and learn from data. It contrasts with the current dominant statistical approach, often just called machine learning. Some researchers hold out hope for a merged approach, called neuro-symbolic AI.
+> 
+> **Glossary** (Location 3393)
+
+---
+
+> 64“ The Bitter Lesson” is computer scientist Richard Sutton’s very brief summary of 70 years of AI research, published in 2019. (It’s included in the Appendix.) He writes that sophisticated methods using limited compute will always lose out to “[ simple] methods that continue to scale with increased computation.” To an AI scientist of the old guard, this lesson is bitter because it involves relatively little insight, theory, or human intervention. Instead, the improved performance comes from a sheer increase in resources. Halevy et al. made much the same point in 2009 in “The Unreasonable Effectiveness of Data.”
+> 
+> **About The Scaling Era** (Location 4714)
+
+---
+
+> 108Consider a task that consists of 10 necessary steps. If an LLM succeeds at each step 99 percent of the time, its overall success rate will be approximately 90 percent (0.9910). However, if it plateaus at 90 percent success for each step, the overall task success rate drops to about 35 percent (0.9010), which is often practically unusable.
+> 
+> **About The Scaling Era** (Location 4817)

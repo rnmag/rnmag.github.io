@@ -1,3 +1,21 @@
 ---
-title: "Projects"
+title: ""
+listing:
+  type: default
+  image-align: left
+  sort-ui: false
+  filter-ui: false
+  contents:
+    - path: https://github.com
+      title: "GitHub"
+      description: "A longer description of what happened and what I did in the Unicef project. I woonder what is the size of text allowed in this, but it can't be too much less than this"
+      image: motley/projects/visa_logo.png
+    - path: https://rstudio.com
+      title: "RStudio"
+      description: "A longer description of what happened and what I did in the Unicef project."
+      image: motley/projects/unicef_logo.png
+format:
+  html:
+    link-external-icon: true
+    link-external-newwindow: true
 ---

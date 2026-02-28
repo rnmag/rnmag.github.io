@@ -1,0 +1,6 @@
+---
+title: "Co-Intelligence: Living and Working with AI"
+author: Ethan Mollick
+date: 2025-10-14
+Rating: 6 / 10
+---

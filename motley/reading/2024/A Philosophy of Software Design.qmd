@@ -1,0 +1,6 @@
+---
+title: "A Philosophy of Software Design"
+author: John Ousterhout
+date: 2024-06-19
+Rating: 9 / 10
+---

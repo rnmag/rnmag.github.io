@@ -1,10 +1,9 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Rafael N. Magalhães"
-  favicon: favicon.png
+  favicon: assets/favicon.png
   twitter-card: true
   open-graph: true
   google-analytics: "G-V27VSXP3KH"
@@ -18,10 +17,20 @@ website:
     left:
       - href: about.qmd
         text: about
+      - href: consulting.qmd
+        text: consulting
       - href: projects.qmd
-        text: portfolio
-      - href: teaching.qmd
-        text: teaching
+        text: projects
+      - text: motley
+        menu:
+          - text: teaching
+            href: motley/teaching.qmd
+          - text: reading
+            href: motley/reading.qmd
+          - text: riding
+            href: motley/riding.qmd
+          - text: colophon
+            href: motley/colophon.qmd
     right:       
       - icon: envelope-fill
         href: mailto:rnunesmagalhaes@gmail.com
@@ -33,8 +42,6 @@ website:
 
 format:
   html:
-    theme: [journal, tema.scss] 
+    toc: false
+    theme: [journal, assets/tema.scss] 
     highlight-style: gruvbox
-
-
-

@@ -1,0 +1,6 @@
+---
+title: "The Model Thinker"
+author: Scott Page
+date: 2023-12-11
+Rating: 10 / 10
+---

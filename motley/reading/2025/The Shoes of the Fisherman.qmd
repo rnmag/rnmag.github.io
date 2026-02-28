@@ -1,0 +1,6 @@
+---
+title: "The Shoes of the Fisherman"
+author: Morris West
+date: 2025-05-15
+Rating: 7 / 10
+---

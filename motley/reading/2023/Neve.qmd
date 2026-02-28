@@ -1,0 +1,6 @@
+---
+title: "Neve"
+author: Orhan Pamuk
+date: 2023-12-27
+Rating: 8 / 10
+---

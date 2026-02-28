@@ -1,0 +1,7 @@
+---
+title: "MacBeth"
+author: William Shakespeare
+date: 2024-11-20
+Rating: 10 / 10
+---
+

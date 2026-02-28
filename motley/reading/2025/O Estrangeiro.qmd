@@ -1,0 +1,6 @@
+---
+title: "O Estrangeiro"
+author: Albert Camus
+date: 2025-06-22
+Rating: 9 / 10
+---

@@ -1,0 +1,6 @@
+---
+title: "Coisa de Rico"
+author: Michel Alcorofado
+date: 2025-10-17
+Rating: 6 / 10
+---

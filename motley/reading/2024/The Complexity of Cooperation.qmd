@@ -1,0 +1,6 @@
+---
+title: "The Complexity of Cooperation"
+author: Robert Axelrod
+date: 2024-02-21
+Rating: 9 / 10
+---

@@ -1,0 +1,768 @@
+---
+title: "The Diversity Bonus"
+author: Scott Page
+date: 2026-02-02
+Rating: 8 / 10
+---
+
+### Highlights
+
+> This is precisely the three-pronged argument in Page’s volume— beyond equity, diversity in science and engineering provides access to more talent, better solutions to challenging problems, and therefore better science, business, and society.
+> 
+> **Introduction** (Location 174)
+
+---
+
+> All five points— pragmatic benefits; not about social justice; cognitive diversity; mathematics; and a fun time— run counter to expectations for a diversity and inclusion presentation. They lay the groundwork for equally unexpected conclusions. I do not conclude that diversity always improves performance. Instead, I demonstrate the value of cognitive diversity on high-dimensional, complex tasks like engaging in scientific research, developing marketing plans, formulating technical trading strategies, and building a robust supply chain. I make no claim that diversity always helps. In fact, on simpler tasks like packing boxes or serving coffee, it likely has no effect.
+> 
+> **Prologue: The Contrary Assumption** (Location 214)
+
+---
+
+> The first step will be classifying the type of task: are you solving a problem, making a prediction, seeking creative ideas, or trying to discern the truth? The second step will be identifying task-relevant cognitive diversity. Not all diversity will be beneficial. You cannot expect bonuses from a random group of people. The third step involves having a culture that enables successful interactions.
+> 
+> **Prologue: The Contrary Assumption** (Location 233)
+
+---
+
+> I am not talking about just being nice. When making predictions, we have to include less accurate, diverse predictions— because we will do better. When hiring people, we have to see value in difference.
+> 
+> **Prologue: The Contrary Assumption** (Location 286)
+
+---
+
+> Moreover, if we ignore the pragmatic logic and emphasize only equity and social justice, we all but rule out achieving diversity bonuses.
+> 
+> **Prologue: The Contrary Assumption** (Location 297)
+
+---
+
+> I first describe the core logic for how diversity creates bonuses. I then unpack that logic by describing cognitive repertoires and linking those directly to better outcomes. Loosely defined, a person’s cognitive repertoire consists of the different ways in which that person thinks. Having established the logic, I take up the connections between cognitive and identity diversity by presenting three frameworks: icebergs, the timber-framed house, and the cloud.
+> 
+> **Prologue: The Contrary Assumption** (Location 369)
+
+---
+
+> As a result, a policy of hiring the best does not make sense on high-dimensional tasks. The best team will not consist of the “best” individuals. It consists of diverse thinkers.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 409)
+
+---
+
+> This model reduces cognitive repertoires to collections of tools.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 432)
+
+---
+
+> define the diversity of a team as the percentage of the team’s tools known by a single person. 4 Two people with no tool overlap have 100 percent diversity. Two people with the same tools have 0 percent diversity.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 443)
+
+---
+
+> First, a diversity bonus occurs if someone adds a unique tool.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 445)
+
+---
+
+> Assume that a person must first learn a tool on the left edge and then can follow any path. The upper path corresponds to the train ride. Diversity doesn’t matter. The best team consists of the best person. Ability rules.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 483)
+
+---
+
+> The remaining step in the logic connects the value of diversity to complexity. The intuition will be straightforward: Our accumulation of knowledge, representations, techniques, and models produces elaborate networks of what I am calling tools. This allows people to construct distinct tool sets. That need not be the case for less developed bodies of knowledge, which often create linear orders.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 492)
+
+---
+
+> In contrast, the advanced mathematical topics in figure 1.7 connect in multiple ways. This is the first incomprehensible graph.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 501)
+
+---
+
+> Excluding some identity groups from being mathematicians or making the field less attractive to some groups results in a cohort of mathematicians with lower overall capacity. If a woman with a capacity of twenty opts out of mathematics, and a man with capacity sixteen replaces her, then mathematics suffers. The profession loses talent because she has more capacity, and it loses diversity because of her larger capacity.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 565)
+
+---
+
+> Like any model, this tool model oversimplifies. It assumes that everyone trusts and understands one another, that people can recognize improvements, and that no communication costs (or other costs, for that matter) arise when enlarging the team. Without any costs to scaling, the model implies that we should make teams as large as possible. Larger teams would possess more tools and be more likely to excel at a task. In real situations, communication and coordination costs rise with team size, so even though more people would mean more cognitive tools, larger teams need not perform better.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 608)
+
+---
+
+> I have found that the most common explanation that people give for the benefits of identity diversity rests on a portfolio analogy from finance. That analogy is inapt and unfortunate. Diversity bonuses are not at all the same as portfolio effects.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 613)
+
+---
+
+> The portfolio analogy can be stated as follows: Fund managers invest in a variety of diverse stocks to earn robust returns. By analogy, organizations should create identity-diverse and cognitively diverse teams.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 616)
+
+---
+
+> Fund managers select diverse investments to reduce variation in returns— to lessen risk. Organizations want diverse employees for different reasons.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 619)
+
+---
+
+> The analogy that people have different payoffs depending on the state of the world is strained at best. Furthermore, the problem-solving team’s performance does not equal the average of its members. Instead, the team could ignore everything except the best solution.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 639)
+
+---
+
+> Note the difference: the portfolio performs like the average. The problem-solving team performs like the best.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 643)
+
+---
+
+> Models with too many variables can overfit the data. To guard against overfitting, computer scientists divide their data into two sets: a training set and a testing
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 685)
+
+---
+
+> The Netflix Prize story reveals diversity bonuses threefold. The diverse repertoires within the AT& T team produced bonuses, the diverse representations and tools brought to the team by Big Chaos and Pragmatic Theory produced bonuses, and so did the diverse models of the teams in the Ensemble.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 752)
+
+---
+
+> Those two distinctions create four categories of jobs, shown in figure 1.12: manual routine, manual nonroutine, cognitive routine, and cognitive nonroutine.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 788)
+
+---
+
+> Only for nonroutine cognitive work should we expect large diversity bonuses.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 824)
+
+---
+
+> When a task has these two attributes— high dimensionality and indecomposability— diversity bonuses become likely.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 880)
+
+---
+
+> To think that at every moment of every day, every team of cognitive nonroutine workers produces a diversity bonus overstates the likelihood of such bonuses. To quantify their impact, we must think in terms of tasks, not jobs. Any job consists of tasks with bonuses and tasks without them.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 912)
+
+---
+
+> the average of two equally accurate diverse predictive models must be more accurate than either one. The result is not that most of the time the average will be more accurate, but that it will always be more accurate.
+> 
+> **Chapter One: Diversity Bonuses: The Idea** (Location 959)
+
+---
+
+> The focus of this chapter, therefore, will be to define what I call cognitive repertoires. Repertoires consist of five components: information, knowledge, heuristics or tools, representations, and mental models and frameworks.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 974)
+
+---
+
+> Put in mathematical terms, we lack an algebra of IQs. The algebra problem remains even if we decompose intelligence into multiple dimensions,
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 983)
+
+---
+
+> I link those parts to diversity bonuses on six types of tasks: innovating, problem solving, predicting, evaluating, verifying, and strategizing. What constitutes a better outcome, and a bonus, depends on the task. Better predictions are more accurate. Better solutions to problems have higher values.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1023)
+
+---
+
+> Information consists of facts about the world and can be represented as pieces or objects.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1035)
+
+---
+
+> Knowledge of a subject or domain of inquiry consists of a working or practical understanding.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1052)
+
+---
+
+> Knowledge structures information. Recall the diagram of mathematical knowledge from the previous chapter and how different bodies of knowledge depended on other bodies of knowledge. Knowledge also assumes coherence.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1060)
+
+---
+
+> Heuristics are methods or techniques for generating new ideas. That new idea could be a solution to a problem, a strategy, or a psychological experiment to test a theory.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1064)
+
+---
+
+> Three features of heuristics make them a likely source of diversity bonuses. First, any given heuristic fails on a large set of problems. All human problem-solving heuristics have blind spots and biases.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1080)
+
+---
+
+> Second, in well-developed fields, we need not learn heuristics in a specific order. This creates diversity bonuses.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1083)
+
+---
+
+> Third, heuristics can traverse domains. Physician and author Atul Gawande describes how hospitals adopted a checklist heuristic used by airline pilots to reduce medical errors.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1089)
+
+---
+
+> Here, I distinguish between two types of representations: perspectives and categorizations. Perspectives assign a unique name to each object. Categorizations do not. They group the possibilities into disjoint sets. Identifying each element by an atomic number creates a perspective. Partitioning the elements based on their state at room temperature— gas, liquid, or solid— creates a categorization.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1098)
+
+---
+
+> Models are simplifications that identify key features.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1147)
+
+---
+
+> Model thinking outperforms thinking without models. In head-to-head predictive contests, models outperform human experts.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1155)
+
+---
+
+> While model diversity can result from different categorizations, it can also arise from different causal structures applied to the same categories.
+> 
+> **Chapter Two: Cognitive Repertoires** (Location 1180)
+
+---
+
+> My central finding will be that diversity bonuses become more likely and more significant on complex tasks. Complexity increases in a problem’s dimensionality and interdependencies. On complex tasks, no single person’s repertoire will be sufficient, so teams will be needed, and those teams must be diverse.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1213)
+
+---
+
+> In prediction, diversity produces bonuses through negative correlation. In problem solving, heuristics build off one another. Where one person gets stuck, another person can find an improvement. On creative tasks, diverse representations create more possibilities. In knowledge integration, diverse understandings reduce the set of possible truths. In strategic play, diversity means less correlation in mistakes and better choices.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1232)
+
+---
+
+> All else equal, we would prefer to have an explanation and an understanding of a phenomenon.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1258)
+
+---
+
+> The diversity prediction theorem states that collective error equals average error minus predictive diversity
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1281)
+
+---
+
+> In other words, the accuracy of the group depends equally on the average accuracy of its members and their collective diversity. No tradeoff between diversity and ability exists. Accurate collective predictions depend on both.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1282)
+
+---
+
+> The diversity prediction theorem has three corollaries that bear keeping in mind. The first corollary states that crowd error cannot be larger than average error. This holds because diversity cannot be negative.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1312)
+
+---
+
+> The idea behind the second corollary— that the collective will be more accurate because of diversity— is not a new idea. It goes back to at least Aristotle and was echoed and emended by Friedrich A. Hayek in the context of the economy. 11
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1323)
+
+---
+
+> The final corollary reveals two routes to creating a more accurate group prediction: we can add someone more accurate or someone diverse who is not horribly inaccurate.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1333)
+
+---
+
+> The linkage between diverse categorizations and diverse models also reveals why more data implies more potential for diversity bonuses. A group of analysts fed only a small amount of data cannot construct many different models.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1375)
+
+---
+
+> The diversity prediction theorem shows why and how diversity bonuses occur. It also shows why adding diversity without forethought offers no magical bonus.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1417)
+
+---
+
+> The algorithmic ensembles also build in diversity. They do so through bagging and boosting. Bagging trains predictors on randomly drawn subsets of examples. So the predictors learn from different experiences. This all but guarantees diversity.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1445)
+
+---
+
+> The second technique, boosting, engineers diversity by adding predictors that are accurate when the ensemble makes mistakes.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1451)
+
+---
+
+> Prediction markets create incentives for diversity because predictions that disagree with the majority earn higher payoffs if correct.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1470)
+
+---
+
+> Prediction markets suffer from two other potential shortcomings. If the stakes are too small, people may not take them seriously or experiment with manipulating the market to exploit trends. Also, under some conditions the implicit probabilities produced by a prediction market do not align with the participants’ beliefs of those probabilities.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1479)
+
+---
+
+> Creativity involves a mixture of intelligence, perseverance, and serendipity. A group’s creativity will also be enhanced by its cognitive diversity.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1507)
+
+---
+
+> The link between identity diversity and diversity bonuses on creative tasks operates through these knowledge domains. Interests vary by identity group.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1574)
+
+---
+
+> On scientific creative challenges, identity may play less of a role than background.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1600)
+
+---
+
+> The Alphabet of the Famous Test and the FTase inhibitor task capture the two extremes. In the former, identity diversity correlates with variation in interests. In the latter, we would not expect identity diversity to have much of a direct effect. The scientific tasks require diversity among specialists.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1608)
+
+---
+
+> The impossibility of a test undermines the meritocratic idea that choosing according to some objective criteria results in optimal choices. Creativity is defined in isolation. A person’s contribution depends on the group composition. A test cannot measure a person’s diversity unless it knows the group’s composition.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1662)
+
+---
+
+> To show how cognitive diversity can produce bonuses in both breakthroughs and small improvements requires different types of models. To analyze breakthroughs, I return to the toolbox model introduced earlier. 39 To analyze iterative improvements, I apply two models: one based on representations and heuristics and another that characterizes problem solvers as statistical distributions of solutions. 40
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1691)
+
+---
+
+> Figure 3.6 shows that the team of the two lowest-ability people has weakly higher facility on every tool than any other team. Therefore, that team has the highest ability even though it does not contain the two highest-ability problem solvers. A diversity bonus exists.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1736)
+
+---
+
+> A diversity bonus will exist when a lower-ability person has the highest facility with a tool. No diversity bonus can exist if the higher-ability people have greater facility with all tools.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1741)
+
+---
+
+> If the group size equals or exceeds the number of tools, then the optimal group consists of the best person on each tool, and hiring by diversity will be optimal. If the best person on each tool happens to be one of the highest-ability people, then hiring by ability will also be the best thing to do.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1746)
+
+---
+
+> Note the paradox of aggregation: even though high-ability people and high-ability groups have identical characteristics— high facility with many useful tools— high-ability groups need not consist of the highest-ability people. The best group need not consist of the best parts. Once again, a no test exists result will apply. 45
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1786)
+
+---
+
+> Diversity versus Ability If the following conditions hold—( i) individuals possess sets of tools; (ii) no tool solves the problem with certainty; (iii) people master clusters from a larger set of tools; and (iv) the group will be chosen from a larger population— then the best group will generally not consist of the best problem solvers on some tasks.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1801)
+
+---
+
+> The second type of problem solving I consider consists of improvements in existing best practices such as when teams try to improve production processes,
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1808)
+
+---
+
+> It follows that when putting together a group, a person’s ability matters less than the probability that she comes up with a great solution.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1820)
+
+---
+
+> Therefore, we should seek people with the potential to generate great solutions, not people who do well on average. Ability is not the correct criterion for selecting group members. The optimal criterion evaluates people by their likelihood of finding high-value solutions.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1824)
+
+---
+
+> The larger point is that recombination turns combinations of bonuses into more bonuses. The size of those bonuses will depend on the context. We should not expect superadditivity, nor should we rule it out.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1840)
+
+---
+
+> The representation comes from the navigational framework of the Micronesians. They imagine themselves as fixed and think of islands as objects that float past. If they lack islands in the appropriate places, they construct phantom islands defined in relation to their positions with respect to the moving stars overhead. These phantom islands, like the ghost atoms, simplify calculations.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1881)
+
+---
+
+> Make up a ghost atom, create a phantom island, assume a can opener— these build on the same idea: make up what you need so that the math works.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1889)
+
+---
+
+> If we think of innovation as combining a creative task or problem-solving task with a predictive task, and if we recall how diversity bonuses exist for each task, we can therefore conclude that diversity bonuses also exist in innovation. We might even infer a potential triple diversity bonus— one for each part of the task.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1899)
+
+---
+
+> A deeper reading of the literature reveals a more complicated picture, as well as richer insights into the contributions of diversity. The first subtlety arises when we realize that the parts of our repertoires that produce the diversity bonuses differ for creating, problem solving, and prediction.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1902)
+
+---
+
+> We should therefore not expect those people who are good at predicting to be the most creative or the best problem solvers, and they are not. 58
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1905)
+
+---
+
+> Put simply, as innovation consists of distinct tasks, the people who have ability and who add diversity on each of those tasks may differ.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1908)
+
+---
+
+> The literature distinguishes between deep, foundational search within a discipline or paradigm, more like problem solving, and the more creative recombination of ideas.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1913)
+
+---
+
+> Evidence shows that established firms more often generate high-value innovations through broad search.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1917)
+
+---
+
+> When integrating knowledge, a group’s objective is to determine the veracity of a claim or the wisdom of an action. Unlike in creative tasks, where diversity implies more possibilities, in knowledge integration diversity reduces the set of possibilities.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1934)
+
+---
+
+> In problems like this, discerning the truth requires intersecting what each person knows to be possible. Each person’s diverse knowledge reduces the possible orderings. The logic contradicts the intuition that diversity creates bonuses by increasing the number of alternatives. In this example, we assign people different facts. In a real-world setting, people would know different facts. Diverse knowledge therefore can contribute to truth verification.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1978)
+
+---
+
+> Next, I consider strategic contexts that I model as games. In a game, a player’s payoff depends on his or her own actions and on the actions of other players. Payoffs can also depend on random events.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 1987)
+
+---
+
+> Ensembles of diverse Go algorithms outperform ensembles of better similar algorithms.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 2033)
+
+---
+
+> A unanimous vote could mean that one candidate clearly dominates the others, or it could signal a lack of diversity. A mixed vote, on the other hand, reveals the existence of diversity. Paradoxically, that could mean a better decision, as it guarantees that not everyone applied the same model. Pushing this logic further, if you never find yourself on the losing side of a vote, then the group cannot be making better decisions than you would on your own. For the committee to be improving choices, you have to be on the losing side sometimes.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 2049)
+
+---
+
+> A committee that makes decisions can only be more accurate than a member of that committee if that member is sometimes on the losing side of votes. If not, the member could make every decision on her own and be equally accurate.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 2055)
+
+---
+
+> On complex tasks, the best team will not consist of the best individuals. Teams need diversity. Diversity, though, is no panacea. Only rarely will the best team be maximally diverse. Most often, the best team will balance individual ability and collective diversity.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 2228)
+
+---
+
+> Finally, if, on the challenges we face, be they improving educational outcomes or selling running shoes, our identity differences correlate with relevant knowledge bases, understandings, and models, then the logic demonstrates the value of identity diversity.
+> 
+> **Chapter Three: Diversity Bonuses: The Logic** (Location 2239)
+
+---
+
+> A man is like a bit of Labrador spar, which has no lustre as you turn it in your hand, until you come to a particular angle; then it shows deep and beautiful colors.
+> 
+> **Chapter Four: Identity Diversity** (Location 2246)
+
+---
+
+> present three frameworks that can organize our thinking: the icebergs, the timber-framed house, and the cloud. The icebergs (there will be two) highlight the fact that we see some attributes while others lie below the surface. The timber-framed house represents identities as consisting of connected components that combine to form a whole. We cannot decompose a Japanese American woman’s identity into a Japanese part, an American part, and a female part. The cloud emphasizes the variation within identity categories.
+> 
+> **Chapter Four: Identity Diversity** (Location 2261)
+
+---
+
+> On the other hand, identity cannot have superordinate influence in all cases. Teams of materials scientists developing organic solar cells lean more on educational and experiential diversity than on identity diversity.
+> 
+> **Chapter Four: Identity Diversity** (Location 2278)
+
+---
+
+> Evidence that identity diversity correlates with or causes cognitive diversity need not imply that identity-diverse groups always make better choices, come up with more innovative solutions to problems, make more accurate predictions, or elaborate more creative alternatives.
+> 
+> **Chapter Four: Identity Diversity** (Location 2289)
+
+---
+
+> In the past, people thought of identity attributes as essential. 3 Essentialism assumes that identities correspond to innate, unchanging characteristics.
+> 
+> **Chapter Four: Identity Diversity** (Location 2306)
+
+---
+
+> The first framework, the icebergs, distinguishes attributes that compose identity diversity— race, gender, ethnicity, sexual orientation, age, and physical capabilities— by their observability
+> 
+> **Chapter Four: Identity Diversity** (Location 2330)
+
+---
+
+> The second analogy, the timber-framed house, represents a person as possessing multiple, connected identity attributes.
+> 
+> **Chapter Four: Identity Diversity** (Location 2366)
+
+---
+
+> This nonadditivity of attributes arises in intersectionality theory. 13 Intersectionality teaches us that considering the effects of race and gender separately can obscure discrimination and miss forms of oppression.
+> 
+> **Chapter Four: Identity Diversity** (Location 2380)
+
+---
+
+> In thinking through the effects of identity on our cognitive repertoires, in places it will be helpful to distinguish between fluid intelligence and crystallized intelligence. 19 Fluid intelligence corresponds to problem-solving skills and logical reasoning. Tests of fluid intelligence ask subjects to match patterns or solve logic puzzles. Tests of crystallized intelligence ask for the definition of cosine. A person with high fluid intelligence can acquire knowledge quickly. If he does not retain it, then he lacks crystallized intelligence.
+> 
+> **Chapter Four: Identity Diversity** (Location 2415)
+
+---
+
+> Some parts of our cognitive repertoires, namely heuristics and representations, contribute to fluid intelligence. Other parts, like information, knowledge, and models, contribute to our crystallized intelligence.
+> 
+> **Chapter Four: Identity Diversity** (Location 2421)
+
+---
+
+> The pragmatic question remains as to the amount to which identity differences in repertoires map to performance differences.
+> 
+> **Chapter Four: Identity Diversity** (Location 2523)
+
+---
+
+> As a rule, we should expect identity-driven differences to matter in any domain that serves people: education, finance, entertainment, or health. Thus, a strong case can be made for the potential contributions of cognitive diversity correlated with identity diversity to the areas of product design and marketing, to policy creation, and to media production.
+> 
+> **Chapter Four: Identity Diversity** (Location 2537)
+
+---
+
+> The relevance of identity diversity is less obvious on scientific and technical problems.
+> 
+> **Chapter Four: Identity Diversity** (Location 2573)
+
+---
+
+> we must keep in mind that on unsolved problems, where we lack a heuristic or do not know what knowledge, model, or representation might lead to the breakthrough, we want as much relevant cognitive diversity as possible.
+> 
+> **Chapter Four: Identity Diversity** (Location 2624)
+
+---
+
+> In examining the evidence, we should not expect diversity bonuses on all tasks or from all diverse groups. Cognitive diversity does not produce bonuses on all tasks. To add value, cognitive diversity must be germane. Writing computer code requires skills that are different from those required to write hit songs or identify subatomic particles.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2737)
+
+---
+
+> I then look at academic studies of groups and teams. That research leads to more nuanced and modest conclusions. Diversity bonuses appear on some problems and not all. And too much diversity can be a problem.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2746)
+
+---
+
+> As powerful as they may seem, all of these studies can be challenged on the grounds that they only report correlations.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2784)
+
+---
+
+> We cannot manipulate a person’s race or gender and rerun a group problem-solving exercise.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2798)
+
+---
+
+> The 2003 law requiring Norwegian boards of directors to be 40 percent female by 2008 is an example of a natural experiment. By most accounts, the new law was not anticipated.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2806)
+
+---
+
+> The evidence from the Norwegian case reveals a negative effect of gender diversity. The boards that most increased their gender diversity performed less well after the law was implemented. The decrease in return on equity was found to be as high as 20 percent for some firms. 15 That finding has been corroborated in other studies.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2820)
+
+---
+
+> generalities do emerge from the data, and they align with the main theoretical threads developed here. First, as we would expect from the theory, identity diversity does not improve performance on routine tasks. 21 That finding, though negative, aligns with what the logic implies.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2880)
+
+---
+
+> both cognitive and identity diversity increase perspective taking, which correlates with but does not guarantee better group performance.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2882)
+
+---
+
+> Some of the most convincing evidence comes from studies of predictive tasks. Here, I highlight two studies that reveal diversity bonuses. The first study concerns a forecasting contest run by the Intelligence Advanced Research Projects Activity from 2011 to 2014. More than twenty-five thousand forecasters, who collectively made more than a million predictions, participated. Many of the forecasts concerned international politics: Would Vladimir Putin remain in power? Would North Korea test nuclear weapons? Would Scotland leave Great Britain? 29
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2905)
+
+---
+
+> The Good Judgment Project headed by Barb Mellers and Phil Tetlock won the tournament.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2911)
+
+---
+
+> After the first year, the researchers identified a set of sixty superforecasters. The superforecasters were found to have high fluid intelligence. They could recognize patterns, solve logic problems, and reason from data better than most people.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2913)
+
+---
+
+> These studies show substantial benefits to teams and significant contributions to team success attributable to diversity.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2935)
+
+---
+
+> The data leave little doubt that teams are outperforming individuals in the academy, in scientific research, and on Wall Street. The question remains as to whether we can attribute any part of that team success to cognitive diversity.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 2997)
+
+---
+
+> Taken as a whole, the third strand of studies provides powerful evidence of the effectiveness of diverse teams. In evaluating any data, we should consider the possibility of selection bias. Team-based work surely exhibits selection bias. Teams choose people whom they expect to make the team better. They do not select randomly.
+> 
+> **Chapter Five: The Empirical Evidence** (Location 3059)
+
+---
+
+> Diversity bonuses can lead to higher profits, larger market shares, and faster rates of innovation. That potential creates an incentive to hire, support, and promote people with diverse cognitive repertoires.
+> 
+> **Chapter Six: Diversity Bonuses and the Business Case** (Location 3080)
+
+---
+
+> The diversity-bonus logic does not make an unequivocal case for diversity. In some cases, cognitive and identity diversity produce bonuses. In others (see the US Congress), they contribute to conflict.
+> 
+> **Chapter Six: Diversity Bonuses and the Business Case** (Location 3104)
+
+---
+
+> One would hope that the same cultural features that encourage cognitive diversity— openness, tolerance, a commitment to facts, and so on— would also be welcoming to people from diverse identity groups.
+> 
+> **Chapter Six: Diversity Bonuses and the Business Case** (Location 3115)
+
+---
+
+> The three justifications for diversity and inclusion differ: normative arguments for diversity and inclusion policies seek to redress past wrongs or create a more equitable future; the demographic argument frames greater workforce diversity as a necessary market response; and the diversity-bonus logic shows that cognitively diverse teams perform better on complex tasks. 20
+> 
+> **Chapter Six: Diversity Bonuses and the Business Case** (Location 3270)
+
+---
+
+> The evidence showing that teams that position inclusion efforts as normative goals produce worse outcomes only compounds the lack of alignment.
+> 
+> **Chapter Six: Diversity Bonuses and the Business Case** (Location 3318)
+
+---
+
+> to the extent that normative arguments offer incomplete and counterproductive guidance for how to achieve bonuses, they make inclusion appear to be less in our self-interest than it could be.
+> 
+> **Chapter Six: Diversity Bonuses and the Business Case** (Location 3387)
+
+---
+
+> At a minimum, any successful diversity and inclusion policy must include six Ms. Organizations must message from the top and link diversity to mission. The organization must manage teams with the goal of achieving diversity bonuses. That means creating an inclusive culture. It also means applying germane diversity on complex high-value opportunities. Organizations must also measure performance and provide mentors for underrepresented employees. And, last, organizations must tie inclusive behaviors to merit; that is, they must reward people who advance diversity and inclusion.
+> 
+> **Chapter Seven: Practice: D&T + D&I** (Location 3503)
+
+---
+
+> First, Page mentioned that identity diversity’s bonus might emerge not from the direct connection between identity diversity and cognitive diversity but instead from indirect effects of the mere presence of diversity. Empirical research in this area reveals that identity diversity has an effect that is independent of its connection to cognitive diversity.
+> 
+> **Commentary: What Is the Real Value of Diversity in Organizations? Questioning Our Assumptions** (Location 3737)
+
+---
+
+> If diversity bonuses exist and can be captured, as postulated by Page and supported by empirical literature, why is it so hard for organizations to achieve them consistently?
+> 
+> **Commentary: What Is the Real Value of Diversity in Organizations? Questioning Our Assumptions** (Location 3745)
+
+---
+
+> Why is it necessary to prove the benefit of diversity? Is there an equal push to prove the benefits of homogeneity to organizations and society?
+> 
+> **Commentary: What Is the Real Value of Diversity in Organizations? Questioning Our Assumptions** (Location 3761)
+
+---
+
+> The first benefit of identity diversity is that it is a source of cognitive diversity.
+> 
+> **Commentary: What Is the Real Value of Diversity in Organizations? Questioning Our Assumptions** (Location 3811)
+
+---
+
+> A second benefit of identity diversity is simply that seeing differences on the surface makes people assume that there are more cognitive differences there in the group, prompting them to seek out this information.
+> 
+> **Commentary: What Is the Real Value of Diversity in Organizations? Questioning Our Assumptions** (Location 3840)
+
+---
+
+> That is a heavy burden to bear. We should reflect on how seeking evidence of a business case for diversity reifies the status quo and legitimates the idea that some people belong and deserve to be included in organizations, while other people have to go above and beyond to prove their worth.
+> 
+> **Commentary: What Is the Real Value of Diversity in Organizations? Questioning Our Assumptions** (Location 4066)

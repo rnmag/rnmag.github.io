@@ -1,0 +1,6 @@
+---
+title: "Uma Senhora Toma Chá"
+author: David Salsburg
+date: 2025-04-25
+Rating: 8 / 10
+---

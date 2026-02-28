@@ -1,0 +1,144 @@
+---
+title: "Tyrant: Shakespeare on Politics"
+author: Stephen Greenblatt
+date: 2024-11-16
+Rating: 7 / 10
+---
+
+## Highlights
+
+> Shakespeare understood , as well , something that in our own time is revealed when a major event — the fall of the Soviet Union , the collapse of the housing market , a startling election result — manages to throw a garish light on an unnerving fact : even those at the center of the innermost circles of power very often have no idea what is about to happen .
+> 
+> **1. Oblique Angles** (Location 64)
+
+---
+
+> IN DEPICTING THE aspiring tyrant’s strategy , Shakespeare carefully noted among the landed classes of his time the strong current of contempt for the masses and for democracy as a viable political possibility . Populism may look like an embrace of the have - nots , but in reality it is a form of cynical exploitation .
+> 
+> **3. Fraudulent Populism** (Location 433)
+
+---
+
+> The tyrant is obsessed with loyalty from his inner circle , but he can never be entirely confident that he has it .
+> 
+> **6. Tyranny Triumphant** (Location 1047)
+
+---
+
+> “ Yond Cassius has a lean and hungry look , ” Shakespeare’s Julius Caesar famously remarks . “ He thinks too much ; such men are dangerous ” ( Julius Caesar 1.2.194 – 95 ) . Antony attempts to reassure him — “ He’s not dangerous ” — but Caesar is unconvinced : “ He reads much , / He is a great observer , and he looks / Quite through the deeds of men ” ( 1.2.196 , 201 – 3 ) . These are not qualities that men like Caesar want anywhere near them : “ Let me have men about me that are fat , / Sleek - headed men , and such as sleep a - nights ” ( 1.2.192 – 93 ) .
+> 
+> **6. Tyranny Triumphant** (Location 1050)
+
+---
+
+> Drenched in blood from his treacherous assassination of Duncan to his miserable , despairing end , Macbeth is Shakespeare’s most celebrated and memorable tyrant . But now the loneliness , self - loathing , and emptiness at the center of the tyrant’s being have nothing to do with physical deformity . Macbeth does not use power to compensate for his lack of sexual attractiveness ; he does not seethe with barely suppressed rage ; he has not learned from childhood to disguise his actual feelings beneath a fraudulent mask of warmth or piety . And , strangely enough , he does not even wholeheartedly wish to be the king .
+> 
+> **7. The Instigator** (Location 1145)
+
+---
+
+> From the moment the Weird Sisters greeted him , Macbeth has been the embodiment of ambivalence , but his wife ruthlessly insists that he has irrevocably committed himself and cannot now back away :
+> 
+> **7. The Instigator** (Location 1186)
+
+---
+
+> Tyrannical power is more easily exercised when it appears that the old order continues to exist . The reassuring consensual structures may now be hollowed out and merely decorative , but they are all still in place , so that the bystanders , who crave psychological security and a sense of well - being , can persuade themselves that the rule of law is being upheld .
+> 
+> **7. The Instigator** (Location 1210)
+
+---
+
+> Lady Macbeth attempts to stiffen her husband’s resolve , as she had earlier done . “ Are you a man ? ” she asks , rebuking him for his weakness :
+> 
+> **7. The Instigator** (Location 1276)
+
+---
+
+> What follows is Shakespeare’s most mature and considered attempt to understand what it feels like to be a tyrant . Macbeth is aware that he is loathed by his people and that his very name , as Malcolm puts it , “ blisters our tongues ” ( 4.3.12 ) .
+> 
+> **7. The Instigator** (Location 1313)
+
+---
+
+> In Richard III , Shakespeare imagined the beleaguered tyrant torn between self - love and self - hate . In Macbeth , the playwright probes far deeper . What has it all been for , the betrayals , the empty words , the shedding of so much innocent blood ?
+> 
+> **7. The Instigator** (Location 1325)
+
+---
+
+> It is a tale Told by an idiot , full of sound and fury , Signifying nothing . ( 5.5.19 – 28 )
+> 
+> **7. The Instigator** (Location 1333)
+
+---
+
+> Ancient Romans liked to think of themselves as the great figures not of self - reflection but of action . They would conquer the world and leave philosophical investigations and neurotic navel - gazing to the Greeks .
+> 
+> **9. Downfall and Resurgence** (Location 1805)
+
+---
+
+> real - world actions grounded on noble ideals may have unforeseen and ironic consequences . Brutus dreams that such ideals as honor , justice , and liberty can somehow exist in pure form , untouched by base calculations and messy compromises . Yet his staunchest attempt to act from pure principle is his refusal to kill Antony alongside Caesar , and that refusal is a political catastrophe . For Antony is not merely one of Caesar’s loyal followers ; he is a brilliant demagogue whose famous speech over Caesar’s corpse — “ Friends , Romans , countrymen , lend me your ears . . . ” ( 3.2.71 ) — sparks the civil war that brings down the republic , the very institution the conspirators wished to save .
+> 
+> **9. Downfall and Resurgence** (Location 1844)
+
+---
+
+> That refusal bespeaks a certain nobility of spirit that contrasts sharply with the cynical opportunism of Antony and his allies , who immediately seize the occasion to kill their enemies .
+> 
+> **9. Downfall and Resurgence** (Location 1855)
+
+---
+
+> In Coriolanus’s view , two tribunes are two too many . The common people , he thinks , should have no representation at all ; they should simply have their fates dictated to them .
+> 
+> **10. Resistible Rise** (Location 1895)
+
+---
+
+> In civilized states , we expect leaders to have achieved at least a minimal level of adult self - control , and we hope as well for thoughtfulness , decency , respect for others , regard for institutions . Not so Coriolanus : here we are dealing instead with an overgrown child’s narcissism , insecurity , cruelty , and folly , all unchecked by any adult’s supervision and restraint . The adult who should have helped the child achieve maturity has either been completely missing or , if present at all , has reinforced the child’s worst qualities .
+> 
+> **10. Resistible Rise** (Location 1993)
+
+---
+
+> Nothing tempers Coriolanus’s obnoxiousness , and yet the play is oddly sympathetic to him , at least compared with the others of his class . The patricians urge him to set aside his most deeply held convictions for the purpose of getting elected . They want him to lie and to pander and to play the demagogue . Once he is securely in office , there will be plenty of time for him to resume his actual stance and to roll back the concessions that have been made to the poor .
+> 
+> **10. Resistible Rise** (Location 2050)
+
+---
+
+> But for Coriolanus , who cannot abide the hypocrisy and temporizing of his own class , that “ just barely enough ” is far too much . His modest proposal : let the poor starve . Famine will reduce the number of drones , and those who survive will be less inclined to ask for handouts . Those handouts , he thinks , only make the lower classes less self - reliant ; the entire welfare system is a kind of drug .
+> 
+> **10. Resistible Rise** (Location 2084)
+
+---
+
+> The tribunes immediately charge Coriolanus with treason .
+> 
+> **10. Resistible Rise** (Location 2092)
+
+---
+
+> It is in Coriolanus’s power to solve the crisis he has provoked . The price he needs to pay is simply to behave , for once , like a politician . But for him this price is unbearably high . Everything in Coriolanus’s being — the fierce integrity and pride and spirit of command he has imbibed from his mother — rebels against playing so degrading a part .
+> 
+> **10. Resistible Rise** (Location 2112)
+
+---
+
+> The charge of treason is enough to send him back into an uncontrollable rage , and the result is a sentence of banishment from the city .
+> 
+> **10. Resistible Rise** (Location 2129)
+
+---
+
+> Yet in the wake of his banishment , it is precisely to the Volscians that Coriolanus turns . “ My birthplace hate I , ” he says , “ and my love’s upon / This enemy town ” ( 4.4.23 – 24 ) .
+> 
+> **10. Resistible Rise** (Location 2147)
+
+---
+
+> He is dead set against compromise . At the head of the Volscian army , he is encamped at Rome’s gates like an implacable god of destruction , poised to burn the city to the ground , cut the throats of the men , and haul the women and children off to slavery . That he does not do so depends entirely on the intercession of his mother . Volumnia shocks him by kneeling down to him , at once begging and berating him .
+> 
+> **10. Resistible Rise** (Location 2176)
