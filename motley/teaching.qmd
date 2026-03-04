@@ -3,7 +3,7 @@ title: "Teaching"
 ---
 
 #### Programming for the Social Sciences: Analysis & Visualization
-University of São Paulo (USP) \| Instructor (with [Jonathan Phillips](https://www.universiteitleiden.nl/en/staffmembers/jonathan-phillips))\
+University of São Paulo (USP) \| Instructor (with [Jonathan Phillips](https://jonnyphillips.github.io/Website/))\
 *Graduate (2022)*\
 
 <a class="btn btn-outline-primary btn-sm" href="https://rnmag.github.io/FLS-6397-USP/"> <i class="bi bi-mortarboard-fill"></i> Course Website </a>
