@@ -16,7 +16,7 @@ listing:
     - title: "Brasil em Dados"
       image: cases/brdados_logo.png
       path: https://github.com/brdados
-      description: "A collaborative effort born out of a need to counter rising authoritarian sentiment in Brazil, highlighting hard data about policy achievements during the democratic period."
+      description: "A collaborative effort born out of a need to counter rising authoritarian sentiment in Brazil by sharing hard evidence of social progress during the democratic period."
 ---
 
 Sometimes ideas outlast the initial weekend of enthusiasm and accidentally turn into actual projects.
