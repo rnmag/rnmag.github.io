@@ -1,30 +1,26 @@
 ---
-title: Rafael Magalhães
+title: Rafael N. Magalhães
 about:
   template: trestles
   image: assets/profile_rounded.png
   image-width: 18rem
   image-shape: "rectangle"
   links:
-    - icon: envelope-fill 
-      text: Email
-      href: mailto:rnunesmagalhaes@gmail.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/rmagalhães
     - icon: github
       text: Github
       href: https://github.com/rnmag
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rmagalhães
+    - icon: envelope-fill 
+      text: Email
+      href: mailto:rnunesmagalhaes@gmail.com
 ---
 
-Hi! Data scientist and Machine Learning Engineer trained as a quantitative social scientist. I am passionate about telling stories with data, and have a keen interest in statistical modeling and visualization.
+I am an Applied Scientist and statistical modeler specializing in probabilistic programming (Stan, R, Python) and Bayesian inference. I build bespoke mathematical models to extract reliable signals from noisy, observational data.
+   
+My approach to data is grounded in a rigorous academic foundation. I hold a PhD in Political Science from the University of São Paulo, with periods as a visiting researcher at Cambridge and Freie Universität Berlin. This training equipped me with deep expertise in research design, survey methodology, and **causal inference**—the exact tools required to measure true impact when standard A/B testing is impossible and data is inherently biased.
 
-Currently acting as an independent consultant, I have also accumulated experience managing data science teams. Main strengths in this role include strategic advising and facilitating communication between technical talent and decision makers.
+I combine this theoretical rigor with a decade of commercial experience. Since 2018, I have led an independent statistical consulting practice, successfully delivering over 30 end-to-end analytical projects. In this role, I don't just write math; I build systems. My work involves designing scalable data architectures, developing custom R/Python packages for internal teams, and translating complex statistical uncertainty into actionable strategy for C-level executives.
 
-I have taught several courses on quantitative methods for the social sciences. You might be interested in my materials on causal inference, on graduate linear modeling, or on undergraduate data science for the social sciences. 
-
-Every project teaches you something, stretches you more than you expect. They’re smart, hardworking, creative, and genuinely good people. I’m grateful our paths crossed.
-
-questions we ask ourselves all the time in model development and forecast evaluation
-
-consulting create packages for internal use -> incluir Prophet no CV, tb falar que build for teams
+A core part of my philosophy is that good data science is collaborative. I treat code review like academic peer review, and I have been lucky to work with people motivated by genuine curiosity. Ultimately, my goal is to give the business a set of reliable "levers and dials"—tools that are statistically rigorous, computationally efficient, and practically useful for high-stakes forecasting.

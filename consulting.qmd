@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Consulting"
 listing:
-  id: cases
-  contents: motley/cases
+  id: cards
+  contents: motley/cards
   type: grid
   categories: unnumbered
   sort-ui: false
@@ -13,17 +13,23 @@ format:
       margin-width: 0px
 ---
 
-210 x 150 PX
+Since 2018, I have led an independent statistical consulting practice, partnering with organizations to solve complex data challenges. My engagements range from highly targeted analytical deep-dives to multi-year architectural commitments. 
 
+While the tools I use are highly technical—primarily Bayesian inference and probabilistic programming—my fundamental role is to bridge the gap between advanced methodology and business reality. I operate not just as a vendor, but as an embedded partner, helping executive teams translate complex statistical uncertainty into actionable, strategic decisions.
 
-IBRE
-PT
-PROJETO BRASIL
-CONECTAS
+### Systems and Teams
 
-This website is powered by [Quarto](https://www.quarto.org). All pages are written in [Markdown](https://daringfireball.net/projects/markdown/), rendered with [Pandoc](https://www.pandoc.org) and published to the web with [GitHub Pages](https://pages.github.com/) via [VS Code](https://code.visualstudio.com/). This is also the basic workflow I use for all of my note-taking and most of my writing. I'm partial to [files over apps](https://stephango.com/file-over-app), and the Quarto/VS Code combo allows me to follow this tenet while also providing a great [literate programming](https://en.wikipedia.org/wiki/Literate_programming) environment. 
+A recurrent theme in my consulting work is that solving a data problem once is rarely enough; the solution must be scalable, maintainable, and owned by the business. 
 
-During my PhD I spent an inordinate amount of time playing with $\mathrm{\LaTeX}$ font settings and poring over the [`microtype` documentation](https://ctan.math.illinois.edu/macros/latex/contrib/microtype/microtype.pdf). Nothing good came of it, except for a lasting appreciation for the amount of work and finesse behind good typesetting. The font family I use here is [Alegreya Sans](https://huertatipografica.com/en/fonts/alegreya-sans-ht), "*a humanist sans serif family with a calligraphic feeling*". It's beautiful, Latin American and free --- just like myself. For code chunks, my go-to font is [Fira Code](https://firacode.org/), although I seem to have a different favorite every time I run a [blind test](https://www.codingfont.com/).
+Beyond building bespoke models, I specialize in the "zero-to-one" phase of technical infrastructure. This includes:
+*   **Building Custom Tools:** Developing proprietary R and Python packages (like internal forecasting engines) tailored to a company's specific data architecture and business logic.
+*   **Mentoring Technical Talent:** Upskilling in-house data science teams, establishing rigorous code review practices, and fostering a culture of reproducible research.
+*   **Architecting Causal Frameworks:** Designing robust experimental and observational systems to ensure that when a company measures impact, they are capturing true causal effects, not just spurious correlations.
 
-:::{#cases}
-:::
+### The Case for Probabilistic Programming
+
+Standard machine learning often provides a single, highly optimized prediction. But in high-stakes environments—where the cost of being wrong is severe, or where the data is constrained by "long tail" distributions—point estimates are dangerous. 
+
+My work heavily leverages probabilistic programming (Stan, CmdStan) because it allows businesses to quantify uncertainty explicitly. Rather than giving a decision-maker a single number, I build models that provide a full distribution of possible outcomes. This allows organizations to build in regularization where data is sparse, evaluate risk mathematically, and give the business "levers and dials" they can trust.
+
+Below are selected case studies highlighting how I have applied these principles across various industries and organizations.
