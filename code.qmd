@@ -1,0 +1,22 @@
+---
+title: "Code"
+listing:
+  type: grid
+  sort-ui: false
+  filter-ui: false
+  contents:
+    - title: "agregR"
+      image: motley/cards/agregR_logo.png
+      path: https://rnmag.github.io/agregR/
+      description: "Bayesian state-space models to extract latent support in Brazilian elections. Features pollster bias adjustment and automated weighting based on historical performance."
+    - title: "Essential Classical Music"
+      image: motley/cards/usp_logo.png
+      path: https://rnmag.github.io/essential-classical-music/
+      description: "This webapp reviews and summarizes dozens of hours of recording recommendations for several hundreds of classical pieces, with timestamped links to the full discussions."
+    - title: "Brasil em Dados"
+      image: motley/cards/brdados_logo.png
+      path: https://github.com/brdados
+      description: "A collaborative effort to share hard evidence of social progress in Brazil during the democratic period, born out of a need to counter rising authoritarian sentiment."
+---
+
+Sometimes ideas outlast the initial weekend of enthusiasm and accidentally turn into actual projects.
