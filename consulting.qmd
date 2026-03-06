@@ -1,12 +1,12 @@
 ---
 title: "Consulting"
-listing:
-  id: cards
+#listing:
+  #id: cards
   #contents: motley/cards
-  type: grid
-  categories: unnumbered
-  sort-ui: false
-  filter-ui: false
+  #type: grid
+  #categories: unnumbered
+  #sort-ui: false
+  #filter-ui: false
 format:
   html:
     grid:
