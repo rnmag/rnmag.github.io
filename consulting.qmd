@@ -2,7 +2,7 @@
 title: "Consulting"
 listing:
   id: cards
-  contents: motley/cards
+  #contents: motley/cards
   type: grid
   categories: unnumbered
   sort-ui: false
@@ -22,8 +22,11 @@ While the tools I use are highly technical—primarily Bayesian inference and pr
 A recurrent theme in my consulting work is that solving a data problem once is rarely enough; the solution must be scalable, maintainable, and owned by the business. 
 
 Beyond building bespoke models, I specialize in the "zero-to-one" phase of technical infrastructure. This includes:
+
 *   **Building Custom Tools:** Developing proprietary R and Python packages (like internal forecasting engines) tailored to a company's specific data architecture and business logic.
+
 *   **Mentoring Technical Talent:** Upskilling in-house data science teams, establishing rigorous code review practices, and fostering a culture of reproducible research.
+
 *   **Architecting Causal Frameworks:** Designing robust experimental and observational systems to ensure that when a company measures impact, they are capturing true causal effects, not just spurious correlations.
 
 ### The Case for Probabilistic Programming
