@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Anil Ananthaswamy">
+<meta name="dcterms.date" content="2026-02-28">
+
+<title>Why Machines Learn – Rafael N. Magalhães</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<link href="../../../assets/favicon.png" rel="icon" type="image/png">
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-a9d7b282e90c095a59ad05c9343e54dc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-ae59607a08a9d0f2f7a48f59abf3fba2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-V27VSXP3KH"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-V27VSXP3KH', { 'anonymize_ip': true});
+</script>
+
+
+<meta property="og:title" content="Why Machines Learn – Rafael N. Magalhães">
+<meta property="og:site_name" content="Rafael N. Magalhães">
+<meta name="twitter:title" content="Why Machines Learn – Rafael N. Magalhães">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title"><i class="bi bi-house-fill"></i></span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../about.html"> 
+<span class="menu-text">about</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../consulting.html"> 
+<span class="menu-text">consulting</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../code.html"> 
+<span class="menu-text">code</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../teaching.html"> 
+<span class="menu-text">teaching</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-motley" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">motley</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-motley">    
+        <li>
+    <a class="dropdown-item" href="../../../motley/reading.html">
+ <span class="dropdown-text">reading</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../motley/riding.html">
+ <span class="dropdown-text">riding</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../motley/colophon.html">
+ <span class="dropdown-text">colophon</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/rnmag"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/rmagalhães"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:rnunesmagalhaes@gmail.com"> <i class="bi bi-envelope-fill" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Why Machines Learn</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Anil Ananthaswamy </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 28, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="highlights" class="level3">
+<h3 class="anchored" data-anchor-id="highlights">Highlights</h3>
+<blockquote class="blockquote">
+<p>What we just did is a simplistic form of something called supervised learning. We were given samples of data that had hidden in them some correlation between a set of inputs and a set of outputs.</p>
+<p><strong>Chapter 1: Desperately Seeking Patterns</strong> (Location 270)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Each input (x1, x2,…, xn) has a label y attached to it.</p>
+<p><strong>Chapter 1: Desperately Seeking Patterns</strong> (Location 272)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>much of machine learning comes down to minimizing prediction error.</p>
+<p><strong>Chapter 1: Desperately Seeking Patterns</strong> (Location 431)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Hamilton developed some other mathematical ideas that have become central to machine learning. In particular, he introduced the terms “scalar” and “vector.”</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 477)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Geometrically, that’s the same as stretching the arrow (or vector) five times in the same direction.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 536)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Conceptually, the dot product a.b— read that as “a dot b”— is defined as the magnitude of a multiplied by the projection of b onto a, where the projection can be thought of as the “shadow cast” by one vector onto another.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 552)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Another important thing the dot product tells us about two vectors is whether they are at right angles, or orthogonal, to each other.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 577)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The perceptron guarantees only that it’ll find one, and not necessarily the best one.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 647)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Here’s another cool thing about using matrices, rather than arrows, to represent vectors: You can just manipulate the numbers and get a scalar value for the dot product without worrying about the cosine of the angle between them.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 683)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>So, the perceptron iterates over this process, data point by data point, until it settles on an acceptable set of values for the weights and bias that works for all data points.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 807)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>How can we be sure that it will terminate? Why won’t it keep going indefinitely, by always getting at least one data point wrong?</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 811)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>the essence of the proof involves showing that during training, w.w increases less rapidly than w.w*.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 821)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>No straight line you can draw will separate the circles from the triangles.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 841)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>It’s possible to solve the XOR problem if you stack perceptrons, such that the output of one feeds into the input of another.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 847)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Those in the field refer to the years from 1974 to 1980 as the first AI winter.</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 854)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The goal is to prove that if you keep updating w, it will converge to w*</p>
+<p><strong>Chapter 2: We Are All Just Numbers Here…</strong> (Location 909)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The goal is to minimize this “mean squared error” (MSE) with respect to the parameters of the filter.</p>
+<p><strong>Chapter 3: The Bottom of the Bowl</strong> (Location 1028)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>We are now equipped to understand the method of steepest descent, also known as the method of gradient descent.</p>
+<p><strong>Chapter 3: The Bottom of the Bowl</strong> (Location 1076)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Functions like the one depicted above, which have a single, well-defined minimum, are also called convex functions.</p>
+<p><strong>Chapter 3: The Bottom of the Bowl</strong> (Location 1097)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>It’s called a saddle point. One false step, and you’ll tumble down the surface. This function has no global or local minimum. Also, the initial starting point can dictate whether you even come close to the saddle point while descending.</p>
+<p><strong>Chapter 3: The Bottom of the Bowl</strong> (Location 1113)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>If we know how to take the partial derivative of a function with respect to each of its variables, no matter how many variables or how complex the function, we can always express the gradient as a row vector or column vector.</p>
+<p><strong>Chapter 3: The Bottom of the Bowl</strong> (Location 1151)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>To achieve this, the filter must learn the value for w at each time step. Of course, such a filter can update its parameters whenever it gets the prediction wrong— hence the name “adaptive filter.”</p>
+<p><strong>Chapter 3: The Bottom of the Bowl</strong> (Location 1228)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Every deep neural network today— with millions, billions, possibly trillions of weights— uses some form of gradient descent for training. It would be a long road from the LMS algorithm to the modern algorithms that power AI, but Widrow and Hoff had laid one of the first paving stones.</p>
+<p><strong>Chapter 3: The Bottom of the Bowl</strong> (Location 1344)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Encapsulated in this story about the Monty Hall dilemma is the tale of an eternal dispute between two ways of thinking about probability: frequentist and Bayesian.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 1436)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The prediction is probabilistic in the sense that there’s a finite chance that the algorithm will make an error when classifying a new data point. The classification depends entirely upon the hyperplane found by the perceptron. An infinite number of hyperplanes can separate the original data into two. So, one hyperplane might classify a new data point as belonging to class A, while another might classify the same data point as belonging to class B. It’s possible, mathematically, to derive the risk of error inherent in a perceptron’s predictions. That’s what makes the prediction probabilistic, even though the algorithm’s output is rather black and white (or -1 and 1).</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 1541)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>the task of probabilistic ML algorithms, one can say, comes down to estimating the distribution from data.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 1671)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the first method, given data, the ML algorithm figures out the best θ, for some choice of distribution type (Bernoulli or Gaussian or something else), which maximizes the likelihood of seeing the data, D. In other words, you are estimating the best underlying distribution, with parameter θ, such that if you were to sample from that distribution, you would maximize the likelihood of observing the labeled data you already had in hand. Not surprisingly, this method is called maximum likelihood estimation (MLE). It maximizes P (D | θ), the probability of observing D given θ, and is loosely associated with frequentist methodology.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 1693)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the second method, given the sampled data, the ML algorithm maximizes P (θ | D), i.e., it finds the most likely θ, given the data.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 1707)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The idea that you are going to find the most likely θ implies that θ itself follows a distribution, meaning it is being treated as a random variable. This second method now makes assumptions about which θ is most likely, without having seen the data. This is the prior probability distribution. Bayesian statisticians argue that it’s entirely reasonable to have a prior belief for the value of θ.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 1711)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Here’s a trick that statisticians and probability theorists use to make the problem more tractable. They assume that all features are sampled from their own distributions independently of one another.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 1952)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Such a classifier, with the assumption of mutually independent features, is called a naïve Bayes or, somewhat pejoratively, an idiot Bayes classifier.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 1972)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The task of many ML algorithms is to estimate this distribution, implicitly or explicitly, as well as possible and then use that to make predictions about new data.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 1999)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Estimating θ can be done, broadly speaking, in one of two ways. (There are other methods, but these two give us a great sense of how things are done in machine learning.) The first is called maximum likelihood estimation (MLE), which, given the data, tries to find the θ that maximizes the likelihood of the data. What that means is that Pθ( X, y) will give us different probability distributions for different θ, and the algorithm finds the θ that maximizes the probability of observing the data we have in hand. The second method of estimating the probability distribution is called maximum a posteriori (MAP) estimation. This assumes that θ is itself a random variable, which means that you can specify a probability distribution for it. (As we saw earlier, it’s a Bayesian claim that makes frequentists livid.) So, MAP starts with an initial assumption about how θ is distributed. This is also called the prior. For example, if you are modeling a coin toss, you can assume a priori that the coin is fair; or you can assume that it’s biased. Then, given the data and the prior, MAP finds the posterior probability distribution Pθ( X, y), such that if you were to sample several instances of data from this distribution, the probability that the sampled data matched the original data would be maximized.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 2007)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The naïve Bayes (or idiot Bayes) classifier is an example: It first learns the joint probability distribution, albeit with some simplifying assumptions, and then uses Bayes’s theorem to discriminate between different classes of data.</p>
+<p><strong>Chapter 4: In All Probability</strong> (Location 2022)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Most important, Snow drew an inner black dotted line that showed “the various points which have been found by careful measurement to be at an equal distance by the nearest road from the pump in Broad Street and the surrounding pumps.”</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2059)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>No wonder this measure of distance is formally called the Manhattan distance between two points.</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2104)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Their algorithm came to be called the nearest neighbor (NN) rule; it became an extremely important algorithm for pattern recognition, which classifies data as belonging to one category or another.</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2149)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Algorithmically, there’s something very simple one can do. Just plot the new, unlabeled vector as a point. Find the point that’s nearest to it in the 63D space. If the nearest point has the label 2, then the new point is most likely a 2, too.</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2182)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Recall the perceptron algorithm. It will fail to tell apart the circles from the triangles, because this dataset is not linearly separable:</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2216)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The nearest neighbor algorithm, in its simplest form, essentially plots that new data point and calculates its distance to each data point in the initial dataset, which can be thought of as the training</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2221)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Going back to the perceptron algorithm, recall that the linearly separating hyperplane divides the coordinate space into two regions. The nearest neighbor algorithm does the same, except in this case, the boundary between the two regions is not a straight line</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2227)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>What we have seen is an example of what ML researchers call overfitting. Our algorithm has overfit the data. It finds a boundary that doesn’t ignore even a single erroneous outlier.</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2245)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>We can simply increase the number of nearest neighbors against which to compare the new data point.</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2247)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>This is the price you pay if you don’t want to overfit. The classifier— which is characterized by the boundary— can misclassify some data points in the training dataset.</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2266)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The whole idea of measuring distances to determine similarity falls apart. The k-NN algorithm’s central premise, that nearby points are similar, doesn’t hold water anymore. The algorithm works best for low-dimensional data.</p>
+<p><strong>Chapter 5: Birds of a Feather</strong> (Location 2430)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>We’ve just performed a principal component analysis. We took a two-dimensional dataset; found a one-dimensional component, or axis, that captured most of the variation in the data; and projected the data onto that one-dimensional axis.</p>
+<p><strong>Chapter 6: There’s Magic in Them Matrices</strong> (Location 2476)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>the diagonal terms of the XT.X matrix are the variances of the individual features: The larger these values are, the more variance, or spread, there is in the dataset for that aspect of people.</p>
+<p><strong>Chapter 6: There’s Magic in Them Matrices</strong> (Location 2620)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The upshot of all this is that the diagonal elements capture the variance, or spread, in the values of individual features of a dataset, whereas the off-diagonal elements capture the covariance between the features.</p>
+<p><strong>Chapter 6: There’s Magic in Them Matrices</strong> (Location 2638)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The eigenvectors of a covariance matrix are the principal components of the original matrix</p>
+<p><strong>Chapter 6: There’s Magic in Them Matrices</strong> (Location 2643)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The covariance matrix describes how the dimensions relate to one another, and the eigenvectors of the covariance matrix yield the primary dimensions along which the original data vary.</p>
+<p><strong>Chapter 6: There’s Magic in Them Matrices</strong> (Location 2645)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>For example, you might discover— once you calculate the two eigenvectors and their eigenvalues— that almost all the variation in the original data lies in the direction of one of the eigenvectors (the major axis of the ellipse). You can ignore the other direction, for it tells you little.</p>
+<p><strong>Chapter 6: There’s Magic in Them Matrices</strong> (Location 2651)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>One analysis method that might be considered a precursor to unsupervised learning is clustering, an intuitive example of which is called the K-means clustering algorithm.</p>
+<p><strong>Chapter 6: There’s Magic in Them Matrices</strong> (Location 2733)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The task is to minimize the mistakes. The perceptron algorithm, for instance, will never find a solution, because a linearly separating hyperplane doesn’t exist in this case. But a naïve Bayes classifier will find a solution, and of course, so will a k-nearest neighbor algorithm.</p>
+<p><strong>Chapter 6: There’s Magic in Them Matrices</strong> (Location 2791)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Given some linearly separable sets of data points, the algorithm finds a hyperplane (the black line) that maximizes the margins on either side of it.</p>
+<p><strong>Chapter 7: The Great Kernel Rope Trick</strong> (Location 2841)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>what SVMs do: They take datasets that are linearly inseparable in their original, relatively low-dimensional space and project these data into high enough dimensions to find an optimal linearly separating hyperplane, but the calculations for finding the hyperplane rely on kernel functions that keep the algorithm firmly anchored in the more computationally tractable lower-dimensional space.</p>
+<p><strong>Chapter 7: The Great Kernel Rope Trick</strong> (Location 3249)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Neural networks dominated machine learning in the eighties. And in the nineties, all of a sudden, everybody switched to kernel methods.”</p>
+<p><strong>Chapter 7: The Great Kernel Rope Trick</strong> (Location 3277)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>From the perspective of a physicist, the question that comes to mind is this: Why should a ferromagnetic material that has disordered spins in its lattice end up in a state where all the spins are aligned in one direction, creating macroscopic magnetism?</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3369)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>So, if two spins are aligned, they lower the energy of the system; if they are in opposition, they raise it. Even this cursory analysis tells us that if all the spins were to be aligned, the energy of the system would reach a minimum.</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3385)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>By making one more important assumption about how the artificial neurons were connected to each other (and we’ll come to the details), Hopfield could design a network whose dynamics ensured that storing or retrieving the memory was akin to putting the ensemble of neurons, and hence the network, into some stable low-energy state.</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3393)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>But this perturbation would put the system into some high-energy state, and the network would dynamically find its way to the stable state. Because that low-energy, stable state represents the memory, then that memory could be retrieved. The dynamical process restores the memory.</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3398)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>John Hopfield was among the few researchers who did not give up on neural networks, despite the blow dealt to the field by Marvin Minsky and Seymour Papert in their 1969 book, Perceptrons. (We’ll meet other researchers in subsequent chapters, in particular Geoff Hinton and Yann LeCun, who also kept the faith.)</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3403)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Minsky and Papert proved mathematically— and elegantly so— that single-layer perceptrons are ineffective when the data are not linearly separable in some given set of dimensions. They then conjectured that while multi-layer perceptrons, where the output of one layer becomes an input to the next, could solve such problems, there was likely no way to train such networks.</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3410)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the 1970s, researchers were beginning to probe how to train multi-layer perceptrons (or multi-layer neural networks). The outline of an algorithm that would soon be called backpropagation, or backprop, was taking shape.</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3415)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Hopfield’s next intuition was to create networks of neurons bi-directionally connected to each other. In other words, if the output of neuron A goes as input to neuron B, then the output of neuron B forms an input to neuron A.</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3430)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Each magnetic moment is going to react to its nearest neighbors and flip or not flip. In our network, something similar happens. Each neuron is listening to every other neuron.</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3457)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>What Hopfield found is that when you do this, the network is no longer stable, and its dynamics take over: Each neuron flips (or not) until the network reaches a stable state. And if the corrupted state you forced the network into wasn’t very different from the stored memory, the network will reach the stable state that represents the memory.</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3480)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Whether or not the stored memory is the one you intended to retrieve depends on the initial perturbation— if the perturbation is too large, it’s possible that the network’s dynamics take it to a different energy minimum than the one corresponding to the stored memory you wanted to retrieve.</p>
+<p><strong>Chapter 8: With a Little Help from Physics</strong> (Location 3557)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>deep learning— or the process of training neural networks that have three or more layers (one input layer, one output layer, and one or more so-called hidden layers tucked in between the input and output)—</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3714)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>To recap what we know so far, in the late 1950s and early ’60s, Frank Rosenblatt and Bernard Widrow devised single-layer neural networks and the algorithms to train them, making these networks the focus of machine learning for almost a decade. Then, in 1969, Minsky and Papert published their book, Perceptrons, in which they elegantly proved that single-layer neural networks had limitations, while insinuating (without proof) that multi-layer neural networks would likely be similarly useless, effectively killing that field of research and bringing about the first AI winter. Yet, not everyone gave up. In 1981– 82, John Hopfield figured out Hopfield networks. These networks, however, were one-shot learners. They didn’t need the kind of training that multi-layer neural networks required to learn incrementally from data. By the mid-1970s and early ’80s, a handful of researchers had begun elucidating the fundamental elements of an algorithm that could be used to train multi-layer networks. Then, in 1986, David Rumelhart, Geoffrey Hinton, and Ronald Williams published a seminal paper in the journal Nature, showing off the strengths of a training algorithm called backpropagation, thus greasing the wheels of deep learning and setting it in motion. (Though, as we’ll see in the next chapter, they weren’t the first to think of backpropagation; its history goes back to Rosenblatt.)</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3725)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The implication of the backpropagation algorithm, detailed in the 1986 Rumelhart, Hinton, and Williams paper, was that multilayer neural networks could now be trained, while one kept in mind practical concerns such as lack of both computing power and training data.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3744)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>one hidden layer of neurons— hidden because the layer is not directly exposed on the output side.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3771)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>If a network requires more than one weight matrix (one for the output layer and one for each hidden layer), then it’s called a deep neural network: the greater the number of hidden layers, the deeper the network.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3784)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>So, while training a network means finding the optimal values for the weight matrices, it’s also akin to finding the function that best approximates the correlation between the inputs and the outputs.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3793)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The function can also be used for regression, meaning the function is the curve that best fits the training data;</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3796)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Or, in the context of ChatGPT and other instances of generative AI, the function could represent an AI’s ability, first, to learn an extremely complicated probability distribution that models the training data and, then, to sample from it,</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3798)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>What if we designed individual neural units, where each neural unit is made of two or more neurons that each produced an output that equaled the height of a rectangle of a required size and had the necessary width?</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3817)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>the function a( z) is called an activation function.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3834)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The basic idea is that each hidden neuron is generating some sigmoidal curve, where the steepness of the curve is controlled by the neuron’s weight and where the location at which the curve rises along the x-axis is controlled by the neuron’s bias.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3855)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Of all the concepts in this book, the idea of a function as a vector may cause the most head-scratching, but it’s also among the most beautiful and powerful ideas we’ll encounter.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3922)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>We can do this for any function. First map the function on the xy plane, for a certain range of values on the x-axis, and then determine the value of the function for a preselected array of x-axis values. This output array can be thought of as a vector whose dimensionality is determined by the number of points at which you chose to evaluate the function. In our example, it’s 11 locations along the x-axis, ranging from 0 to 10, inclusive.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3934)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Because his proof that neural networks could indeed approximate any function given enough hidden neurons focused on networks with just one hidden layer, it apparently caused some researchers to spend their time building networks with just one hidden layer, rather than go deep by increasing the number of hidden layers.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3964)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The revolution in deep learning that began around 2010 happened because researchers began to take seriously the “deep” in “deep learning”— and started to increase the number of hidden layers to well beyond one.</p>
+<p><strong>Chapter 9: The Man Who Set Back Deep Learning (Not Really)</strong> (Location 3967)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>He proved, using an illustrative example, that a three-layer neural network could not solve a simple problem if it started off with symmetric weights and used a deterministic procedure to update the weights.</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4046)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the most extreme case, we could employ a procedure which randomly varies the value of every connection, independently of the others, as long as errors continue to occur,”</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4049)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>We’ll come to the exact mathematical details, but conceptually, here’s the algorithm’s end game. Think of a three-layer neural network with one hidden layer. You feed it an input, and it produces an output. You calculate the error made by the network, which is the discrepancy between its output and the expected correct value. This error is a function of all the weights of the network. How do you minimize the error? Well, you can do gradient descent— the technique we encountered in chapter 3, with Bernard Widrow’s simple ADALINE network. Find the gradient of the error (as a function of the weights) and take a small step in the opposite direction by updating each weight by a tiny amount.</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4074)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>It’s clear from the loss function’s shape, as plotted, that if we initialize the weight and bias randomly to some values, we’ll most likely land somewhere along the slopes, rather than at the bottom.</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4144)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Adding more neurons to the same layer will simply find more lines. That’s not what we want. We want neurons that can take these lines and combine them into something more complex— in our case, a 2D space separated into two regions, one that lies between the two lines and another that’s the rest of the xy plane.</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4255)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>This means that after the forward pass, not only do we need to keep in memory the results of all the computations, but we also need to remember the old weights.</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4363)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Training eventually comes down to this: Provide the network with some set of inputs, figure out what the expected output should be (either because we humans have annotated the data and know what the output should be or because, in types of learning called self-supervised, the expected output is some known variation of the input itself), calculate the loss, calculate the gradient of the loss, update the weights/ biases, rinse and repeat.</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4378)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>What’s important to note here is that in a fully connected neural network, or multi-layer perceptron, each neuron of each layer receives all the inputs from the previous layer.</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4386)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>And therein lies the import of neural networks. The algorithms we saw in earlier chapters, including support vector machines, all required us to specify beforehand the features in the data.</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4416)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>with a neural network with sufficient neurons, all we would need to do is provide the inputs x1 and x2 and let the network figure out the features needed to classify the data correctly.</p>
+<p><strong>Chapter 10: The Algorithm That Put Paid to a Persistent Myth</strong> (Location 4424)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Yann LeCun, now a young postdoc with Hinton in Toronto, solved the same problem, using a neural network architecture that became one of his signature contributions to AI: the convolutional neural network.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4631)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>For example, one of Chomsky’s basic arguments about language is that most syntactic structures in language are innate, not learned. Piaget thought otherwise.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4643)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>one can add an extra term to the loss function, something called a regularizer. This term is designed to make the ML model avoid overfitting. The loss function and the regularizer taken together constitute the objective function.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4666)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Convolution in the context of an image is the operation performed on the image using another, smaller— say, 2 × 2— image, which is called a kernel or kernel filter.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4702)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>in the first convolved image, the horizontal line of the digit 4 is highlighted; whereas in the second convolved image, the vertical lines are highlighted.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4727)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>These kernels succeed in generating new images, after the convolution, that detect horizontal and vertical edges.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4732)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The weights of the neuron are the values of the individual elements of the kernel. The inputs to the neuron are the pixel values of that part of the main image over which the kernel is hovering. The output of the neuron is simply the weighted sum of those pixels.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4750)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Each neuron is paying attention only to a particular part of the image:</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4754)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>What features should one be looking for that would distinguish one image from another? And how do we design such kernels?</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4787)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>LeCun realized he could train a neural network to learn these kernels; after all, the elements of each kernel matrix are the weights of individual neurons. Training a network using backpropagation to do some task would, in essence, help the network find the appropriate kernels.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4789)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The basic idea behind max pooling is to place a filter (another name for a kernel) over some part of the original image and then simply spit out the largest pixel value in the region below the filter.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4794)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Learning a feature involves learning the values for a kernel, which, as we saw, is the same as learning the weights of a bunch of neurons.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4808)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Calculate the error between what’s expected and what the network does, and then use this error to calculate the gradients, via backpropagation.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4830)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>What’s been left unsaid so far is that a designer of such a network has to make a host of decisions about parameters of the network that are not learned during the training process,</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4836)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Fine-tuning, or finding the right values for, the hyperparameters is an art unto itself. Crucially, these are not learned via backpropagation.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4843)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Despite LeNet, deep neural networks didn’t hit the big time. Part of that was because of the success of support vector machines, which made a splash in the machine learning community at around the same time: SVMs were easy to understand, the software was available, and for small datasets of the time, they were an ideal algorithm.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4848)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The non-neural network systems had barely moved the needle. Deep neural networks had finally lived up to their promise. Sutskever was vindicated, because even before the trio started working on AlexNet, he had been evangelizing.</p>
+<p><strong>Chapter 11: The Eyes of a Machine</strong> (Location 4938)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>“Grokking is meant to be about not just understanding, but kind of internalizing and becoming the information,”</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 4971)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The complex model will make predictions based on the extremely squiggly regression curve it has learned, which is specific to the noise in the training data,</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5011)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>This leads us to the two competing forces at work here. One is called bias: The simpler the model, the greater the bias. The other is called variance: The more complex the model, the greater the variance.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5040)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>High bias (i.e., simpler models) leads to underfitting, a higher risk of training error, and a higher risk of test error, whereas high variance (i.e., more complex models) leads to overfitting, a lower risk of training error, and a higher risk of test error.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5042)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Say we want a linear model. In the 2D case, a linear model is a line defined by its slope and its offset from the origin: So, we need two parameters. But what if your model had only one parameter? Then you’d be forced to find a simpler function in which either the slope was fixed or the offset was fixed, thus limiting your options.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5063)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>This can also be called the hypothesis class: Increase the number of parameters, and you increase the capacity of the hypothesis class.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5070)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>minimizing test error implies minimizing generalization error, or maximizing the ability to generalize.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5079)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Deep nets have way too many parameters relative to the instances of training data: They are said to be over-parameterized; they should overfit and should not generalize well to unseen test data. Yet they do.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5082)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>But then, as the network increased in size and the training error approached zero, as per the bias-variance trade-off curve, the test error (or generalization error) should have started increasing. That’s not what they saw.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5090)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>it’s a process called regularization, which essentially turns a complex model into a simpler one, allowing it to generalize better.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5113)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The problem being posed by deep neural networks had become clearer. These networks had the capacity to interpolate the data (meaning fit the training data perfectly) and yet make accurate predictions on test data.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5123)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Parameters, we know, are those knobs in a model— the weights of a neural network, for example— that get tuned during training. Hyperparameters are knobs that are set by engineers before training begins.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5159)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Finding good or optimal values for hyperparameters is a craft, almost an art.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5163)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>handful of architectures for neural networks: the single-layer perceptron, Hopfield networks (chapter 8), the multi-layer perceptron (chapter 10), and the convolutional neural network (chapter 11).</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5165)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Feedforward neural networks are those in which the information flows one way, from the input layer to the output. So, if a neuron is producing an output, the output serves as input only to neurons that are part of the layers ahead.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5168)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>A recurrent neural network, by contrast, allows for feedback connections so that the outputs of neurons not only influence neurons in the layers ahead, but can also serve as inputs to neurons in the same layer or in the layers that came before.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5170)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Given an input, a neural network will produce an output. We can define a function that calculates the loss, or error, made by the network by comparing the produced output in some predefined manner to the expected output.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5177)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Training a network means minimizing the loss over training data.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5180)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>We have already seen that training a model to achieve zero training cost can result in overfitting. To prevent this, the cost function is often modified with the addition of another term to it, called the regularizer. Think of this as a term that forces the function to take into account the model’s complexity, or capacity; we incur a penalty for making the model overly complex.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5181)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>However, one of the most significant developments over the past five years— one that has led to the enormous explosion of interest in AIs such as ChatGPT— is something called self-supervised learning, a clever method that takes unlabeled data and creates implicit labels without human involvement and then supervises itself.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5197)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The training algorithm takes a small sentence, masks one word, for example, and gives that sentence with the masked word as an input to the network (the details are a little more complicated, but let’s go with masked words as units of information). The network’s task: to predict the missing word and complete the sentence.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5225)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The algorithm takes an unannotated image and masks some pixels. It feeds this masked image to a neural network and asks the network to generate the unmasked image in all its fullness.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5244)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>And in much the same way that an LLM learns the statistical structure of language, a self-supervised image-processing network learns the statistical structure of images.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5248)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>At the point where the test error hits its maximum, the training error touches zero. The model has interpolated: It has overfit the training data.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5269)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>of both kernel machines and deep neural networks begins improving once you increase the capacity of both beyond the point of interpolation, toward lower test risk and better performance.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5272)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Belkin and colleagues dubbed the phenomenon double descent and proposed that it was a unifying principle: The first descent leads to a minimum for the test error, followed by an ascent, and then a subsequent descent to low levels of test error.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5275)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>But the newer, over-parameterized regime, which results in the second descent, is barely understood, mathematically speaking.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5278)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>When it comes to deep learning, this tension between theory and experiment is playing out for all to see.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5292)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>So far, no one knows if the landscape has a global minimum or just lots of good local minima (where “good” means the loss is acceptably low).</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5298)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>One of the most elegant demonstrations of empirical observations in need of theory is grokking.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5311)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The neural network that Power and colleagues were using was called a transformer, a type of architecture that’s especially suited to processing sequential data.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5315)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>If one stops training at the point the network hits zero training loss, the network has most likely interpolated the training data— meaning it has simply memorized them. And that’s usually where the OpenAI researchers stopped the training. No one thought of training further. But then, one day, thanks to the vacation snafu, the network continued training past this point— and learned something completely new.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5337)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>“It seems like the phase change is going from a memorized table of answers to becoming the knowledge in some sense,”</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5354)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>AI winters, Goldstein said, happened in the late 1960s, when Rosenblatt’s perceptrons were, disingenuously, accused of not being able to solve the XOR problem; and then between 1974 and 1980, after Sir James Lighthill published his scathing report on the utter lack of progress in solving problems in language translation and robotics; and then again in the late 1980s, when research into good old-fashioned AI, or symbolic AI, came to a grinding halt as it became clear that expert systems built using carefully designed rule-based “inference engines” that operated on hand-crafted knowledge bases were… well, useless when it came to sophisticated reasoning involving new know-how not already in the knowledge base. These symbolic AIs were brittle; they also couldn’t learn from data.</p>
+<p><strong>Chapter 12: Terra Incognita</strong> (Location 5361)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>There are many ways of sampling from this distribution, but let’s say we greedily sample to get the most likely next word.</p>
+<p><strong>Epilogue</strong> (Location 5444)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>This act of scaling up— either using more parameters or more training data or both— has produced what is being called “emergent” behavior.</p>
+<p><strong>Epilogue</strong> (Location 5462)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>(Emily Bender of the University of Washington and colleagues coined a colorful phrase for LLMs; they called them “stochastic parrots.”)</p>
+<p><strong>Epilogue</strong> (Location 5471)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>ML algorithms assume that the data on which they have been trained are drawn from some underlying distribution and that the unseen data on which they make predictions are also drawn from the same distribution. If an ML system encounters real-world data that falls afoul of this assumption, all bets are off as to the predictions.</p>
+<p><strong>Epilogue</strong> (Location 5496)</p>
+</blockquote>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

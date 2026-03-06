@@ -1,0 +1,1727 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Alex Ross">
+<meta name="dcterms.date" content="2024-05-31">
+
+<title>The Rest is Noise – Rafael N. Magalhães</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<link href="../../../assets/favicon.png" rel="icon" type="image/png">
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-a9d7b282e90c095a59ad05c9343e54dc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-ae59607a08a9d0f2f7a48f59abf3fba2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-V27VSXP3KH"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-V27VSXP3KH', { 'anonymize_ip': true});
+</script>
+
+
+<meta property="og:title" content="The Rest is Noise – Rafael N. Magalhães">
+<meta property="og:site_name" content="Rafael N. Magalhães">
+<meta name="twitter:title" content="The Rest is Noise – Rafael N. Magalhães">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title"><i class="bi bi-house-fill"></i></span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../about.html"> 
+<span class="menu-text">about</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../consulting.html"> 
+<span class="menu-text">consulting</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../code.html"> 
+<span class="menu-text">code</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../teaching.html"> 
+<span class="menu-text">teaching</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-motley" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">motley</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-motley">    
+        <li>
+    <a class="dropdown-item" href="../../../motley/reading.html">
+ <span class="dropdown-text">reading</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../motley/riding.html">
+ <span class="dropdown-text">riding</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../motley/colophon.html">
+ <span class="dropdown-text">colophon</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/rnmag"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/rmagalhães"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:rnunesmagalhaes@gmail.com"> <i class="bi bi-envelope-fill" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">The Rest is Noise</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Alex Ross </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 31, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="highlights" class="level3">
+<h3 class="anchored" data-anchor-id="highlights">Highlights</h3>
+<blockquote class="blockquote">
+<p>Throughout his later writings, most forcefully in the essay The Case of Wagner, Nietzsche declared that music must be liberated from Teutonic heaviness and brought back to popular roots. “Il faut méditerraniser la musique,” he wrote.</p>
+<p><strong>1. The Golden Age: Strauss, Mahler, and the Fin de Siècle</strong> (Location 420)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>he set forth an elaborate teleology of musical history, a theory of irreversible progress, to justify his actions.</p>
+<p><strong>2. Doctor Faust: Schoenberg, Debussy, and Atonality</strong> (Location 804)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The bourgeois worship of art had implanted in artists’ minds an attitude of infallibility, according to which the imagination made its own laws. That mentality made possible the extremes of modern art.</p>
+<p><strong>2. Doctor Faust: Schoenberg, Debussy, and Atonality</strong> (Location 862)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>84 percent of the repertory of the Leipzig Gewandhaus Orchestra consisted of music by living composers. By 1855, the figure had declined to 38 percent, by 1870 to 24 percent.</p>
+<p><strong>2. Doctor Faust: Schoenberg, Debussy, and Atonality</strong> (Location 867)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Schoenberg’s reasoning was this: if the bourgeois audience was losing interest in new music, and if the emerging mass audience had no appetite for classical music new or old, the serious artist should stop flailing his arms in a bid for attention and instead withdraw into a principled solitude.</p>
+<p><strong>2. Doctor Faust: Schoenberg, Debussy, and Atonality</strong> (Location 869)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>After a rehearsal of Schoenberg’s First Chamber Symphony, Mahler asked the musicians to play a C-major triad. “Thank you,” he said, and walked out.</p>
+<p><strong>2. Doctor Faust: Schoenberg, Debussy, and Atonality</strong> (Location 1019)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Just as Beethoven, in his Heiligenstadt Testament, resolved to forge ahead into a life of misery, Schoenberg pressed on.</p>
+<p><strong>2. Doctor Faust: Schoenberg, Debussy, and Atonality</strong> (Location 1071)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Looking at a painting in a gallery is fundamentally different from listening to a new work in a concert hall.</p>
+<p><strong>2. Doctor Faust: Schoenberg, Debussy, and Atonality</strong> (Location 1178)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Instead of separating himself from the titans of the past, from Bach, Mozart, and Beethoven, he presented himself as their heir, and pointed out that many now canonical masterpieces had caused confusion when they first appeared.</p>
+<p><strong>2. Doctor Faust: Schoenberg, Debussy, and Atonality</strong> (Location 1200)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Franco-Prussian War of 1870-71 sounded the alarm among other European nations that the new German empire intended to be more than a major player on the international stage— that it had designs of supremacy. So Debussy and Satie began to seek a way out of the hulking fortresses of Beethovenian symphonism and Wagnerian opera.</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 1533)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The mark of authenticity was not racial but economic; he paid heed mainly to the people on the social margins, those who had lived the toughest lives.</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 1625)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>He saw how phrases were seldom symmetrical in shape, how a beat or two might be added or subtracted. He savored “bent” notes— shadings above or below the given note— and “wrong” notes that added flavor and bite.</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 1632)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Hungarian modernists were not prone to annihilating rage of the Viennese type; instead, they sought higher unities, transcendent reconciliations.</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 1649)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Ravel carried out a kind of velvet revolution, renewing the language of music without disturbing the peace.</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 1675)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>the bebop master spotted Stravinsky at one of the tables and immediately incorporated a motif from Firebird into “Koko,” causing the composer to spill his scotch in ecstasy.</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 1803)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The long-standing resentment of Teutonic hegemony in the classical repertory blossomed into hate.</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 1826)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Taruskin suggests that the confluence of praise abroad and criticism at home essentially impelled Stravinsky to cut his ties to home and to become a Western European composer:</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 1868)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Heitor Villa-Lobos was merging rhythmic ideas from Stravinsky with complex patterns that he had detected in Afro-Brazilian music. In neoprimitivist scores such as Amazonas and Uirapuru, Villa-Lobos wrote percussion parts of riotous intensity;</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 1969)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>“That is no country for old men,” William Butler Yeats cries in “Sailing to Byzantium.”</p>
+<p><strong>3. Dance of the Earth: The Rite, the Folk, le Jazz</strong> (Location 2136)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Cook’s musicals, sophisticated in technique and assertive in tone, anticipated the spirit of the Harlem Renaissance, which came into its own around 1925.</p>
+<p><strong>4. Invisible Men: American Composers from Ives to Ellington</strong> (Location 2428)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The same scenario kept repeating. Middle-class parents would send their sons and daughters to Oberlin or Fisk or the National Conservatory, hoping that they could achieve the wonderful things that Dvořák had forecast for African-American music. Hitting the wall of prejudice, these young creative musicians would turn to popular styles instead— first out of frustration, then out of ambition, finally out of pride.</p>
+<p><strong>4. Invisible Men: American Composers from Ives to Ellington</strong> (Location 2455)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Three Places in New England, begun around 1914 and finished as late as 1929, is Ives’s deepest meditation on American myth. Coincidentally or not, it is also the work in which the black experience matters most.</p>
+<p><strong>4. Invisible Men: American Composers from Ives to Ellington</strong> (Location 2522)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>A gap had opened up between the ideal of modernism as the antithesis of mass culture and the reality of America as a marketplace in which absolutely anything could be bought and sold.</p>
+<p><strong>4. Invisible Men: American Composers from Ives to Ellington</strong> (Location 2625)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Jewish Americans’ identification with black music might have had something to do with inherited memories of European suffering.</p>
+<p><strong>4. Invisible Men: American Composers from Ives to Ellington</strong> (Location 2678)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Harlem Renaissance, insofar as W. E. B. Du Bois and others defined it, aspired to create an African-American version of “high culture.”</p>
+<p><strong>4. Invisible Men: American Composers from Ives to Ellington</strong> (Location 2846)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Dvorak had assumed that American music would come into its own when it succeeded in importing African-American material into European form, but in the end the opposite thing happened: African-American composers appropriated European material into self-invented forms of blues and jazz.</p>
+<p><strong>4. Invisible Men: American Composers from Ives to Ellington</strong> (Location 2871)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Many twentieth-century symphonies, concertos, oratorios, and chamber works of the so-called conservative type were rich in lamentations for a lost world, elegies for the golden age, forebodings of disaster.</p>
+<p><strong>5. Apparition from the Woods: The Loneliness of Jean Sibelius</strong> (Location 2995)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In a certain sense, Finns are strangers in the European family. Belonging to the Finno-Ugrian category, they speak a language largely unrelated to the Indo-European group. For centuries they were governed by the kingdom of Sweden; then, in 1809, they became a semi-autonomous grand duchy of tsarist Russia. In the late nineteenth century, the Swedish influence remained strong, with a minority of Swedish speakers forming the upper crust of society. Sibelius belonged to this Swedish elite;</p>
+<p><strong>5. Apparition from the Woods: The Loneliness of Jean Sibelius</strong> (Location 3020)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>It was in the wake of composing this terse, elusive work that Sibelius got into a debate with Gustav Mahler on the nature of the symphony. Mahler came to Helsinki in 1907 to conduct some concerts, and Sibelius presented his latest ideas about “severity of form,” about the “profound logic” that should connect symphonic themes. “No!” Mahler replied. “The symphony must be like the world. It must be all-embracing.”</p>
+<p><strong>5. Apparition from the Woods: The Loneliness of Jean Sibelius</strong> (Location 3073)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Fifth begins and ends in crystalline major-key tonality, but it is an unconventional and staggeringly original work. The schemata of sonata form dissolve before the listener’s ears; in place of a methodical development of well-defined themes there is a gradual, incremental evolution of material through trancelike repetitions.</p>
+<p><strong>5. Apparition from the Woods: The Loneliness of Jean Sibelius</strong> (Location 3116)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Seventh Symphony expands on the formal innovation of the Fifth, the telescoping of two movements into one. Contrasting episodes are fused into one continuous structure, so that Adagio hymns become Scherzo dances by imperceptible degrees.</p>
+<p><strong>5. Apparition from the Woods: The Loneliness of Jean Sibelius</strong> (Location 3161)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Theodor Adorno prepared a dire analysis of the Sibelius phenomenon for a sociological think tank called the Princeton Radio Research Project: “The work of Sibelius is not only incredibly overrated, but it fundamentally lacks any good qualities</p>
+<p><strong>5. Apparition from the Woods: The Loneliness of Jean Sibelius</strong> (Location 3247)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Adorno é um idiota</p>
+<p><strong>5. Apparition from the Woods: The Loneliness of Jean Sibelius</strong> (Location 3249)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>“All the doctors who wanted to forbid me to smoke and to drink are dead,” he once said.</p>
+<p><strong>5. Apparition from the Woods: The Loneliness of Jean Sibelius</strong> (Location 3282)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Brecht barged into Weill’s life in early 1927. Scholars are still trying to capture the dynamic of their collaboration, which Brecht obfuscated for many years by telling arrogant, self-serving lies; the playwright used to say that he had written all the best tunes of The Threepenny Opera and Mahagonny and that Weill, a “composer of atonal psychological operas,” had merely transcribed them. Subsequent investigations have shown that it was Brecht who relied quite often on the work of others—</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3514)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Brecht loved outlaws, thugs, men of no principles.</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3541)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>“Mack the Knife.” This most famous of Weimar songs takes the form of a “murder ballad,” a catalog of killings. Macheath is revealed not merely as a high-living highwayman but as an apparent psychopath who kills as much for pleasure as for financial gain.</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3555)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Threepenny sits on the border between classical and popular genres, combining “hit” numbers with modernistic textures and socially critical themes.</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3575)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the 1950s, “Mack the Knife” began a second life as an American pop standard, and new variations were rung on the tune. When Louis Armstrong sang it, he warmed up Brecht’s hard-bitten lyrics with the husky humanity of his voice, and jokingly added Lenya’s name to the list of Mackie’s victims:</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3583)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>A particular arrangement of twelve notes is called a series or row. The idea is not to consider the row a theme in itself but to employ it as a kind of fund of notes, or, more precisely, of relationships among notes, or intervals.</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3626)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Nearly all of Schoenberg’s early twelve-tone works are couched in established forms, usually from the Baroque and Classical periods. Formal rules are observed, dance rhythms replicated, ideas clearly spelled out and rigorously developed. Schoenberg has almost entirely abandoned the mystical mind-set of his early atonal period, when he wished to dissolve form and leap into the unknown.</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3635)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Along the way, a peculiar thing happens: the tonal building blocks that Schoenberg formerly disavowed begin popping up on occasion. One may even find that rootless cosmopolitan, the diminished seventh: the Variations starts with one.</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3638)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>There was a nationalistic thrust, too, to Schoenberg’s return to order; at a time when Russian, French, and American composers were seizing headlines with their Jazz Age antics, Schoenberg was reasserting the primacy of Austro-German composition, its ancient arts of counterpoint and thematic development.</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3659)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Curiously, even as Schoenberg vented against the popular styles of the day, he not so subtly assimilated them in his music. The Serenade, for example, originally had movements titled “Jo-Jo-Foxtrot,” “Film Dva,” and “Tenn Ski.”</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3683)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Schoenberg-Weill dispute began in October 1927, when Weill wrote an article drawing a pointed contrast between those composers “who, filled with disdain for the public, work toward the solution of aesthetic problems as if behind closed doors” and those who “open up a connection with any kind of public.”</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3705)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>German music entered a new period of sobriety. Many young composers abandoned notions of entertaining a mass public and instead began writing music of aggressively political character, in anticipation of a coming battle with the right.</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3736)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>That a work conceived like Wozzeck’s apparitions in the field, a work satisfying Berg’s own standards, could please a first-night audience, was incomprehensible to him and struck him as an argument against the opera.”</p>
+<p><strong>6. City of Nets: Berlin in the Twenties</strong> (Location 3843)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Prokofiev died on March 5, 1953, about fifty minutes before Stalin breathed his last.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 3984)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Having long depended on the largesse of the Church, the upper classes, and the high bourgeoisie, composers suddenly found themselves, in the Jazz Age, without obvious means of support. Some fell to dreaming of a political knight in shining armor who would come to their aid.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 3995)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>As in Weimar, artists embraced Communism because it promised to cut the throat of a common enemy, the decadent bourgeoisie.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4023)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Lunacharsky pleaded for multiple perspectives and freedom of expression—“ Let the worker hear and evaluate everything, the old and the new”— but he steadily lost ground as the twenties went on.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4036)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Stalin liked to use the telephone, and had an unnerving habit of calling artists in the middle of the night. Sometimes, like a Roman emperor in an indulgent mood, he would grant his petitioners an extraordinary favor. Others would be told to expect a call that never came, and they would interpret the silence as an omen of disaster.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4045)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The piece was initially titled To October, and later became the Second Symphony.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4088)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Third Symphony, subtitled “The First of May,” follows the same template, redeeming abstraction with bombast.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4093)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>It was after the premiere of The Nose— in concert form, in June 1929— that Shostakovich found himself first accused of “formalism.” The word was Soviet shorthand for any style that smacked too strongly of Western modernism.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4115)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>From the meeting emerged the concept of socialist realism, according to which Soviet artists would depict the people’s lives both realistically and heroically, as if from the standpoint of the socialist utopia to come.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4138)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Seen from one angle, then, Lady Macbeth is nearly an opera in the service of genocide. In other ways, however, it is anything but a propaganda work.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4153)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Many close to Shostakovich or favorable to his cause were disappearing. Elena Konstantinovskaya, the translator who had caused a separation in his marriage in 1934, was arrested and briefly imprisoned in 1935. Galina Serebryakova, who had observed Shostakovich at work on Lady Macbeth, was sent into the gulags the following year, not to return for almost two decades. Shostakovich’s brother-in-law, mother-in-law, sister, and uncle were all imprisoned at around this time. Maxim Gorky died mysteriously in June 1936. Bukharin’s name was mentioned many times during the August show trial— a sign that his days were numbered. Isaac Babel, who had advised that “Muddle Instead of Music” shouldn’t be taken seriously, found in 1937 that his books could no longer be published. He had three years to live, as did Meyerhold. Most ominous of all was the fate of Tukhachevsky. Despite the sterling work that he had done in liquidating the anti-Bolshevik opposition, Stalin saw him as a dangerous rival— too independent, too charismatic. He was arrested in May 1937, and in the torture chamber he confessed his part in a nonexistent conspiracy to overthrow Stalin, evidence of which Hitler’s SS helped to fabricate. When the text of the confession was retrieved decades later, there were bloodstains on several pages.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4243)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Mahler symphony that Shostakovich’s work most resembles is the Sixth— both in the militaristic thrust of its opening and in the drawnout anguish of its close.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4259)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The change in style was dramatic. The Fifth followed an ordinary fourmovement pattern: Moderato, Allegretto, Largo, Allegro non troppo.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4290)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Beethoven’s “hero” symphonies, the Eroica and the Fifth, tell stories of conflict and resolution, of protagonists overcoming obstacles to win victory.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4298)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Shostakovich and Prokofiev, the two giants of Soviet music, never understood each other particularly well. They met only occasionally, and often traded criticisms in front of colleagues and in haphazard correspondence. Prokofiev would comment on Shostakovich’s supposed melodic deficiency, while Shostakovich would chide Prokofiev for his habit of farming out orchestration to colleagues.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4354)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Where Shostakovich was cagey, Prokofiev was forthright, even blatant in his opinions—“ a kind of big baby who must tell the truth on all occasions,” said his friend Nicolas Nabokov.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4360)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The better part of the years 1918 to 1922 was spent in America, where audiences applauded Prokofiev’s virtuosic piano playing but struggled to make sense of his compositions.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4394)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Since socialist-realist ideology was demanding the same, Prokofiev concluded that the Soviet worldview magically coincided with his own. In fact, he had been carefully primed to think so. Stalin placed a priority on bringing illustrious cultural exiles back into the fold, and the project of seducing Prokofiev was supervised by the OGPU, as the secret police were known at the time.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4424)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Prokofiev’s first “official” Soviet work, the dance epic Romeo and Juliet, showed him at his optimistic peak.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4436)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>What Prokofiev could never understand was that these difficulties had nothing to do with the notes he put on paper; they were the ritual of humiliation that every Soviet composer had to undergo.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4444)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In contrast to Shostakovich, who dispatched his official duties as efficiently and soullessly as possible, Prokofiev worked painfully hard at such projects as the Cantata for the Twentieth Anniversary of October, Songs of Our Days, and Zdravitsa (Toast to Stalin).</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4447)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>This quintessentially Shostakovichian utterance exemplifies the composer’s penchant for talking through a mask of Soviet doublespeak. Indeed, he appears to be echoing, for comic effect, Stalin’s own wearyingly repetitive prose style; the threefold use of the word “joy” (radost’) is a typical Stalinist tic.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4500)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Irony, in the standard definition, is saying something other than what one appears to be saying. To talk about musical irony, we first have to agree on what the music appears to be saying, and then we have to agree on what the music is really saying.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4509)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>As The New Yorker reported in a Talk of the Town item, the score was transferred to microfilm, put in a tin can, flown to Tehran, driven by car to Cairo, flown to South America, and finally flown to New York.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4524)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Three members of the orchestra died of starvation before the premiere took place.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4532)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>I am not aiming for the naturalistic depiction of war, the depiction of the clatter of arms, the explosion of shells, and so on. I am trying to convey the image of war emotionally.”</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4539)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Prokofiev was careful to end the opera not with Tolstoy’s meditations on man’s insignificance before the forces of history but with a rousing nationalist pageant.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4579)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>he dashed off a kind of anti-Ninth, an alternately satiric and melancholic fivemovement suite, which occasioned intense debate after its November 1945 premiere.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4631)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>forty-two works by “formalists”— including Shostakovich’s Sixth, Eighth, and Ninth symphonies, Prokofiev’s Sixth and Eighth sonatas, and Popov’s unlucky First Symphony— were banned.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4667)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Shostakovich had reluctantly agreed to travel to the United States the following month as part of a Soviet cultural and scientific delegation, but he had trouble understanding how he could represent Soviet culture abroad when so many of his compositions were forbidden at home.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4712)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The “other Shostakovich” was a gnomic, cryptic, secretly impassioned figure who spoke through chamber music (twelve string quartets from 1948 on), piano music (the epic cycle of Twenty-four Preludes and Fugues), and songs. The string quartet became his favorite medium: it gave him the freedom to write labyrinthine narratives full of blankly winding fugues, near-motionless funeral marches, wry displays of folkish jollity, off-kilter genre exercises, and stretches of deliberate blandness.</p>
+<p><strong>7. The Art of Fear: Music in Stalin’s Russia</strong> (Location 4731)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The trouble was that Toscanini could not make classical music American. As the Times’s list of names suggested, the Maestro’s canon was focused on European composers and stopped short of the present, Sibelius having fallen silent. During his tenure with the New York Philharmonic, from 1926 to 1936, Toscanini had ignored American music week after week, conducting only six native works in ten years.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 4842)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Copland showed an uncommon flair for the lowlier arts of organization and publicity.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 4901)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>According to polls, one quarter of the American people wanted a socialist government and another quarter had an “open mind” about the prospect.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 4938)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Many in the Harlem Renaissance intelligentsia, Duke Ellington included, committed themselves to Communism to a greater or lesser degree.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 4941)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>After Shostakovich was denounced in 1936, the New Masses reporter Joshua Kunitz quoted the soothing words of a young Communist: “Don’t worry. There’ll be no blood, no prisons, no ruin and no darkness. The fellows who deserve it will be criticized— that’s all.” (Kunitz retailed these rationalizations in a lecture to New Yorkers that May: “The Truth About Shostakovich,” followed by refreshments and dancing.)</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 4953)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The New Deal had a mighty impact on the arts for the simple reason that it had a mighty wad of money to spend.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 5084)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The rapid advance of Broadway composers set in relief the fact that their counterparts in the classical world were writing relatively few operas or music-theater pieces, preferring to concentrate on orchestral writing. The Broadway musical was splitting off as a separate genre of American music, with its own language, its own styles of singing, its own schools and subgenres. The distinction between “opera” and “Broadway” was hardening into fact-a missed opportunity for the populist generation.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 5257)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Hollywood may have been hazardous territory for composers, but they at least felt wanted there, as they never did in American concert halls.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 5314)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Like his idol Sergei Eisenstein, Welles possessed exceptional musical instincts. An opera maven in his youth, he understood how music could amplify stage action, draw out hidden moods and emotions, even expose a lie. Kane’s opening two-and-a-half-minute sequence, showing the protagonist’s last moments and death, is propelled entirely by Herrmann’s score, the only nonmusical sound being Kane’s whisper of “Rosebud!”</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 5356)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The most surreal thing about the Los Angeles music scene was that Schoenberg and Stravinsky, the twin giants of modernism, now lived just eight miles apart, each on a side street north of Sunset Boulevard.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 5385)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The twelve-tone method finally reached the silver screen by way of Scott Bradley’s inventive scores for Tom and Jerry cartoons in the forties, notably Puttin’ on the Dog and The Cat That Hated People.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 5426)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Symphony in Three Movements became another peak in a mountain range of an output. It is unusual among Stravinsky’s works in that it follows a quasi-Romantic narrative plan, one of struggle and resolution.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 5467)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Bartók, like Hindemith, apparently believed that Shostakovich was indulging in oversimplified writing for cheap effect. Neither composer seemed to realize that the first movement of the Leningrad was a complicated act of parody, or that Shostakovich had little to gain, financial or otherwise, from American success.</p>
+<p><strong>8. Music for All: Music in FDR’s America</strong> (Location 5487)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>“Thank God,” Richard Strauss said after Hitler came to power, “finally a Reich Chancellor who is interested in art!”</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5574)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Precisely because of its inarticulate nature, it is all too easily imprinted with ideologies and deployed to political ends.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5581)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The melding of German music with reactionary politics goes back to Wagner. The composer’s 1850 pamphlet Das Judentum in der Musik, or Jewry in Music, decried the “Jewification” of German music and demanded that the Jews undergo Untergang and Selbstvernichtung— destruction and self-annihilation.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5604)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The protagonist of Alfred Döblin’s novel Berlin Alexanderplatz, Franz Biberkopf, is a stubborn, tough-minded, self-reliant man who finds himself transformed into a Nazi stooge. In much the same way, Strauss’s philosophy of self—“ The laws of my mind determine my life,” to quote Guntram— left him defenseless before Hitler’s seductions.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5661)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>From the start, classical music blared in the background of Nazi life. Party rallies were so immaculately choreographed to Beethoven, Bruckner, and Wagner that the music seemed to have been written in support of the pageantry;</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5737)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In contrast to Stalin, Hitler turned up his nose at sycophantic propaganda. In 1935, he directed that no more music should be dedicated to him, and three years later he complained that a group of works commissioned for the Reich Party Day paled in comparison to Bruckner.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5746)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Herbert von Karajan, for example, may have joined the Party early on, but Hitler disliked him. Karajan’s habit of conducting from memory was “arrogant,” Hitler thought— Furtwängler would never do such a thing.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5759)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Bruckner apparently represented for Hitler the revenge of the “little” man on an uncomprehending world.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5767)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Atonality and other modernist trends suffered an interesting fate in Nazi Germany. When an exhibition of Degenerate Music opened in Düsseldorf in May 1938, its organizer, Hans Severus Ziegler, decreed that atonal composition was a “product of the Jewish spirit” of Schoenberg. Yet, as Michael Kater points out, a committee led by Strauss had declared that “the Reich Music Chamber cannot forbid works of an atonal character, for it is up to the audience to judge such compositions.” In the end, Ziegler’s exhibition was poorly received, even in official circles. There was some embarrassment over the fact that Stravinsky had been included in the gallery of degenerates, and the German Foreign Affairs Office issued a quasi-apologetic explanation.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5852)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Although Schoenberg opposed the Nazis unstintingly, he was hardly free from authoritarian impulses, as his attack on the egalitarianism of the Weimar Republic shows. In 1931, as Germany was swinging politically rightward, Schoenberg described his music as “a living example of an art able most effectively to oppose Latin and Slav hopes of hegemony and derived through and through from the traditions of German music.”</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5872)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Adorno advised Berg to advertise his pure Aryan origins to the Reich Music Chamber, and also to distance himself from any notion of Jewish solidarity, “about which one can have so few illusions.”</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5885)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>No composer more painfully exhibited the moral collapse of German art than Richard Strauss, who served as president of the Reich Music Chamber from 1933 to 1935.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5891)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The record is dismaying. Strauss appeared at Nazi functions and signed a meretricious denunciation of Thomas Mann. When the anti-fascist Toscanini canceled his Bayreuth engagements in 1933, Strauss replaced him, and in the same year he stepped in as a lastminute replacement for the racially unacceptable Bruno Walter in Berlin.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 5895)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Holocaust accomplished the murder not only of millions of individuals but of entire schools of composition. The energetically middle-of-the-road, eclectic style that had prospered in Berlin, Vienna, and Prague between the wars was effectively wiped out.</p>
+<p><strong>9. Death Fugue: Music in Hitler’s Germany</strong> (Location 6060)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Psychological warfare meant the pursuit of military ends by nonmilitary means, and in the case of music it meant the promotion of jazz,</p>
+<p><strong>German Music, 1945–1949</strong> (Location 6237)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>“German musical life must be influenced by positive rather than by negative means, i.e., by encouraging the music which we think beneficial and crowding out that which we think dangerous.”</p>
+<p><strong>German Music, 1945–1949</strong> (Location 6268)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The extroverted, jazz-tinged music of the Weimar era, as embodied in The Threepenny Opera, had been condemned by the Nazis on political and racial grounds.</p>
+<p><strong>German Music, 1945–1949</strong> (Location 6285)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Americans placed highest confidence in musical progressives who lacked either Nazi or Communist affiliations.</p>
+<p><strong>German Music, 1945–1949</strong> (Location 6293)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>So there was, on the one hand, a classical establishment that eluded denazification, and, on the other, an avant-garde establishment that opposed itself so determinedly to the aesthetics of the Nazi period that it came close to disavowing the idea of the public concert. The middlebrow ideal of a popular modernism withered away, caught between extremes of revolution and reaction.</p>
+<p><strong>German Music, 1945–1949</strong> (Location 6345)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The process of politicization was already under way in the twenties, as composers competed to stay ahead of changing trends and accused one another of complicity in regressive tendencies. In the thirties and forties, the entire Romantic tradition was effectively annexed by the totalitarian state. But nothing could compare to what happened when the Second World War ended and the Cold War began. Music exploded into a pandemonium of revolutions, counterrevolutions, theories, polemics, alliances, and party splits.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6389)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>When Stravinsky shocked his colleagues by giving up neoclassicism in favor of twelve-tone composition, Leonard Bernstein said that “it was like the defection of a general to the enemy camp, taking all his faithful regiments with him.”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6401)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The most formidable proponent of sweeping nothing under the rug was Theodor Adorno—</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6408)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>the very act of preserving tonality in the modern era, Adorno proposed, betrayed symptoms of the Fascist personality.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6412)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Schoenberg, having been denounced by Hitler and Stalin alike, carried no taint from totalitarianism either on the left or on the right, or so it seemed.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6424)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>“The second half of this century will spoil by overestimation, all the good of me that the first half, by underestimation, has left intact.”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6437)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The avant-garde era may be said to have begun a few years early, on a cold winter night in 1941, when Olivier Messiaen’s Quartet for the End of Time had its first performance, at the prisoner-of-war camp Stalag VIII A.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6444)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Pierre Boulez went on to become the perfect avatar of the postwar avant-garde, the one who permitted “no compromise, no concession, no half-way, no consideration of values,” to quote Mann’s story “At the Prophet’s.”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6474)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>When Schoenberg died in the summer of 1951, Boulez penned a breathtakingly pitiless obituary. “The Schoenberg ‘case’ is irritating,” he wrote. The old man had revolutionized the art of harmony while leaving rhythm, structure, and form untouched. He had displayed “the most ostentatious and obsolete romanticism.” It was time to “neutralize the setback,” to rectify the situation. “Therefore,” Boulez concluded, “I do not hesitate to write, not out of any desire to provoke a stupid scandal, but equally without bashful hypocrisy and pointless melancholy: SCHOENBERG IS DEAD.”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6521)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>A particular note is always assigned the same values. Thus, the high E-flat is always a thirty-second note, is always played ppp, and is (almost) always slurred.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6531)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The divide that opened up between Cage and Boulez indicated sociological differences between the avant-garde cultures of America and Europe. Cage’s audience was essentially a bohemian one, including like-minded artists, Greenwich Village eccentrics, and outsiders of every description. Boulez’s audience, on the other hand, overlapped with traditional circles of connoisseurship and art appreciation.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6659)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In this same period, New Deal-style art for the masses began to acquire a dubious reputation. Excesses of populism in the “serious” arts counted as evidence of a politically compromised mind. Modernists, on the other hand, garnered admiring buzzwords such as “unyielding” and “uncompromising,” their contrary stance imbued with political as well as aesthetic implications.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6690)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In a March 1948 essay Greenberg announced that with the rise of Pollock and others “the main premises of Western art have at last migrated to the United States, along with the center of gravity of industrial production and political power.”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6695)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>It was not in Shostakovich’s nature to jump through the window. He read the speeches that were placed in front of him; he answered questions in accordance with instructions that were whispered in his ear. On the final night of the conference, he played a piano arrangement of the Scherzo of his Fifth Symphony at Madison Square Garden before an audience of eighteen thousand while two thousand picketers protested outside. All the while, Shostakovich maintained an indecipherable facade of nervous preoccupation. When Morton Gould sidled up to him in the hope of hearing some candid confession, Shostakovich muttered, “It’s hot in here.”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6725)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The speech attacked Stravinsky for betraying his native Russia and joining the ranks of the reactionary modernists: “His beginnings were promising, but … his moral barrenness reveals itself in his openly nihilistic writings, proclaiming the meaninglessness and absence of content in his creations. Stravinsky has no fear of that gaping abyss which separates him from the spiritual life of the people.”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6748)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Nabokov kept his gaze fixed on Shostakovich. The “culture generalissimo,” as Stravinsky called him, had for many years been nursing a hatred of his Soviet counterpart.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6766)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The knowledge that Shostakovich lacked freedom of speech did not prevent Nabokov from forcing him to speak. The émigré rose from his seat to ask whether Shostakovich really endorsed Zhdanov’s condemnation of composers such as Stravinsky, Schoenberg, and Hindemith. Shostakovich had no choice but to say, “I fully agree with the statements made in Pravda.”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6775)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Igor Stravinsky, who had long dismissed twelve-tone composition as so much Teutonic obscurantism, watched and brooded as Schoenberg’s method spread across Europe and America in the late forties and early fifties.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6891)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Commentators have periodically proposed that the Stravinsky of the late forties had run creatively aground, that twelve-tone writing saved him from obsolescence. In fact, between 1945 and 1951, the composer was at the very height of his abilities.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6901)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>When Schoenberg died, Stravinsky’s attitude toward his old rival changed almost overnight.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6914)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Nabokov was trying to counter the spread of Communism in Western Europe by producing model festivals of democratic culture.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6938)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Once more the creator of the Rite was being booed on the avenue Montaigne, only now, instead of being too radical, he was considered not radical enough.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6956)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Yet as the years went by Stravinsky found it increasingly difficult to ignore Boulez’s ill-concealed contempt for everything he had written after Les Noces, whether neoclassical or twelve-tone.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 6981)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Once the avatar of a primitivist-modernist Russia, Stravinsky ended up as the perfect cosmopolitan, everywhere and nowhere at home.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7030)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>By the time Stravinsky began writing twelve-tone music, most of the younger composers considered the method out of date. Yesterday’s revolt was today’s status quo: music had entered a state of perpetual revolution.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7037)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The former Fascist nations could thus demonstrate how far they had evolved from the days when Schoenberg’s work had been labeled “degenerate music.”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7045)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Composers dressed like scientists, wearing thick black glasses and short-sleeve button-down shirts with pens in the pocket.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7050)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The advent of a pseudoscientific mentality is evident in the titles of works that were performed at Darmstadt from 1946 on.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7053)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The watchword at Darmstadt, as at Nabokov’s festivals, was “freedom.” After centuries of subservience to the Church, the aristocracy, the bourgeoisie, and the mass public, composers could finally do as they pleased— even embrace styles that took away freedom of choice.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7059)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>As Adorno decreed, the job of a composer was to write music that would repel, shock, and be the vehicle for ‘unmitigated cruelty.’”</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7070)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>By common consent, Stockhausen was the crown prince of the new-music kingdom. No composer was more tireless in inventing or appropriating new ideas, more ambitious in articulating the avant-garde’s historical and spiritual mission, more adept at assembling the latest sounds into jaw-dropping spectacles.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7076)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Behind Darmstadt’s hypermodern facade lurked some thoroughly traditional twentieth-century or even nineteenth-century obsessions: the revolutionary impulse, the urge to overthrow the bourgeois order, the age-old longing for sublimity and transcendence.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7126)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the end, the notion of musical progress proved to be contingent and subjective, its definition changing with the seasons. The philosophy of modern music was unmasked as the rhetoric of taste. All the same, Boulez adroitly maintained the illusion of being out in front— the signature of a master politician.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7178)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>New music played a very limited role in the Cold War arts bonanza. All the same, many American composers found themselves in a relatively happy situation. Money was plentiful, whether in the form of grants, prizes, commissions, or faculty salaries.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7207)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Of the multifarious strands of American music, one in particular began to prosper in the university environment: composition informed by twelve-tone technique.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7213)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Milton Babbitt, the emblematic Cold War composer, produced music so byzantine in construction that one practically needed a security clearance to understand it.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7224)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>These composers thrived on campus because of the undeniable intellectual solidity of their project: behind the modernity of the language was a traditional emphasis on the arts of variation and counterpoint.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7296)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In 1958, Babbitt enlivened the pages of High Fidelity magazine with an essay notoriously headlined “Who Cares If You Listen?”— the original title was “The Composer as Specialist”— that sounded the signal for strategic withdrawal:</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7302)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Bernstein lived to a relatively grand old age, an aura of disappointment settling around him. Experts agreed that he had frittered away his gift amid glitzy conducting dates, media appearances, and “radical chic” parties at his apartment in Manhattan.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7317)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Bernstein’s most dazzling transmutation of tradition took place in “Somewhere,” from West Side Story, where the main theme of the slow movement of Beethoven’s Emperor Concerto becomes the love song of a white boy in love with a Puerto Rican girl in the gang-ridden neighborhoods of Manhattan’s West Side.</p>
+<p><strong>the Avant-Garde of the Fifties</strong> (Location 7335)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Britten provocatively compared the regimentation of culture in totalitarian states to the self-imposed regimentation of the avant-garde in democratic countries.</p>
+<p><strong>12. “Grimes! Grimes!”: The Passion of Benjamin Britten</strong> (Location 7413)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Everything about Britten’s style— his deliberate parochialism, his tonal orientation, his preference for classical forms— went against the grain of the postwar era.</p>
+<p><strong>12. “Grimes! Grimes!”: The Passion of Benjamin Britten</strong> (Location 7415)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Intellectual precocity often goes hand in hand with emotional immaturity.</p>
+<p><strong>12. “Grimes! Grimes!”: The Passion of Benjamin Britten</strong> (Location 7464)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Shostakovich met Britten only one week after he had experienced yet another in his seemingly endless series of political humiliations.</p>
+<p><strong>12. “Grimes! Grimes!”: The Passion of Benjamin Britten</strong> (Location 7826)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Shostakovich had sworn to friends that he would never join an organization that used terror to carry out its aims. He now gave conflicting accounts of the train of events that led him to go back on this resolution, one being that he was drunk. “They’ve been pursuing me for years, hunting me down,” he told Glikman, tears streaming down his face. Lev Lebedinsky claimed to have heard him say such things as “I am scared to death of them,” “I’m a wretched alcoholic,” and “I’ve been a whore, I am and always will be a whore.”</p>
+<p><strong>12. “Grimes! Grimes!”: The Passion of Benjamin Britten</strong> (Location 7828)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>They were aghast at Shostakovich’s gesture of conformity. “Our disappointment knew no bounds,” said the young composer Sofia Gubaidulina. “We were left wondering why, just at the time when the political situation had relaxed somewhat, when at last it seemed possible to preserve one’s integrity, Shostakovich fell victim to official flattery.”</p>
+<p><strong>12. “Grimes! Grimes!”: The Passion of Benjamin Britten</strong> (Location 7834)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>This latest crisis prompted Shostakovich to write his scathing, self-punishing Eighth Quartet, one of the most extraordinary autobiographical pieces in musical history.</p>
+<p><strong>12. “Grimes! Grimes!”: The Passion of Benjamin Britten</strong> (Location 7837)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Shostakovich’s boldest political statement of the Khrushchev Thaw came in the Thirteenth Symphony, based on anti-Stalinist poems by Yevgeny Yevtushenko. The first movement, “Babi Yar,” is ostensibly a lament for Jewish suffering under the Nazis, but it also remembers life under Stalin.</p>
+<p><strong>12. “Grimes! Grimes!”: The Passion of Benjamin Britten</strong> (Location 7859)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Leverkühn’s aesthetic of denial and negation captures in somewhat exaggerated form one of the dominant strains of twentieth-century music.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 7973)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>After the war, composers took up what might be called catastrophe style with a vengeance, history having justified their instinctive attraction to the dreadful and the dire.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 7981)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Georg Lukács, in a critique of Adorno, remarked that the philosopher resided in a “Grand Hotel Abyss,” from whose aestheticized security he gazed on the agony of man as if it were an Alpine vista.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 7989)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>As the fearful fifties gave way to the antic sixties, many European composers looked for a way out of the labyrinth of progress.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 7993)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>While Messiaen took on a markedly more aggressive, even at times abrasive voice in the Quartet for the End of Time, he did not lose his flair for the simple, astounding gesture.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8050)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Messiaen’s early sacred pieces, the Quartet included, are like Christian surrealism. They have something in common with those later paintings of Salvador Dalí in which Christ floats above the earth like an astronaut or superhero.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8063)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Messiaen served as a mentor to many of the chief innovators of the postwar era. Boulez, Xenakis, and Stockhausen all studied with him at one time or another.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8096)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>For the remainder of the fifties, Messiaen modeled nearly all of his instrumental lines on the contours of bird melodies, and they would reign over his music to the end.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8112)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Messiaen, like his teacher Dukas, identified certain harmonies with certain colors; E major is red, and the final chords evoke not only the red-orange rock formations of Bryce Canyon but also the geology of the book of Revelation— the sardius, topaz, and amethyst stones embedded in the foundation of the celestial Jerusalem.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8175)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>a second wave of avant-gardists rejected the previous generation’s obsession with purity and abstraction. Chance, indeterminacy, graphic notation, and other forms of unconventionally notated music enjoyed a European vogue.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8189)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Cage’s Darmstadt lectures had episodes of coherence, but chance operations progressively took over, and by the third lecture he was lighting cigarettes at intervals specified by the I Ching.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8200)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>By the early sixties, the fascination with behind-the-scenes process— whether twelve-tone or chance-produced— had given way to a new appreciation of surfaces. The most-talked-about works of the period resembled a bubbling flow of timbres and textures, a sonic stream of consciousness.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8233)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>When Penderecki produced a floridly experimental piece called 8’37”— an affair of shrieking cluster chords, sputtering streams of pizzicato, siren-like glissandos, and other Xenakis-like sounds— officialdom took a favorable view only when someone suggested that the work be retitled Threnody for the Victims of Hiroshima. It went on to have a successful career in the West.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8253)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the central scene of Doctor Faustus, Leverkühn conducts a hallucinatory dialogue with the devil, who keeps changing guises and at one point assumes the form of “an intellectualist, who writes of art, of music, for vulgar newspapers, a theorist and critic, who is himself a composer, in so far as thinking allows”— Mann’s wry portrait of Theodor Adorno. The critic-devil hands down judgments on the state of contemporary music, eliminating all possibilities except the Schoenbergian path, the one that follows “an implacable imperative of density.”</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8277)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>in the sixties games of parody and play caught on everywhere.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8289)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>When you are accepted in a club, without willing or without noticing you take over certain habits of what is in and what is out. Tonality was definitely out. To write melodies, even non-tonal melodies, was absolutely taboo. Periodic rhythm, pulsation, was taboo, not possible. Music has to be a priori … It worked when it was new, but it became stale. Now there is no taboo; everything is allowed. But one cannot simply go back to tonality, it’s not the way. We must find a way of neither going back nor continuing the avant-garde. I am in a prison: one wall is the avant-garde, the other wall is the past, and I want to escape.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8351)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Calculating the likelihood of his being either killed in action, shot by the SS, or sent to the camps, Ligeti deserted from the front line. He immediately fell into the hands of Soviet troops, but once again managed to slip away. After a long walk home, he found that the Russians were now in control and that strangers were living in his parents’ house. When the war ended, he learned of his family’s fate: his father had been killed in BergenBelsen, his brother in Mauthausen, and his aunt and uncle in Auschwitz. His mother somehow survived.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8364)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>an American friend wrote to Ligeti with the news that the film director Stanley Kubrick had released a science-fiction epic titled 2001: A Space Odyssey, in which no fewer than four Ligeti scores— Requiem, Lux aeterna, Atmosphères, and Aventures— were heard. Although the director had not asked permission, and paid a fee only after a protracted legal squabble, Ligeti expressed admiration for Kubrick’s achievement.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8421)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Among other things, the film neatly brackets the entire arc of twentieth-century musical history. It begins with Strauss’s Thus Spake Zarathustra, the music of nature’s original majesty. In the final section, the movie is subsumed into Ligeti’s alternate universe, spiraling through the outer limits of expression before returning to the point of origin. As the august Zarathustra chords sound again at the end, the cycle is ready to begin anew.</p>
+<p><strong>the Avant-Garde of the Sixties</strong> (Location 8426)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>several younger Americans— Terry Riley, Steve Reich, and Philip Glass— made a different kind of breakthrough. They simplified their harmonic language and rediscovered the pleasure of a steady pulse, devising a modern tonality that had nothing nostalgic about it.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8512)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Riley, Reich, and Glass came to be called minimalists, although they are better understood as the continuation of a circuitous, difficult-to-name development in American music that dated back to the early years of the century, and more often than not took root on the West Coast.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8515)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Minimalist influence radiated outward in the eighties and nineties, to the point where you could walk into any hip boutique or hotel lounge and sooner or later hear some distant, burbling cousin of Reich’s Music for 18 Musicians.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8528)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>During the two-decade stretch from 1945 to 1965, when the minimalist composers were growing from childhood to maturity, American popular music exploded with creative energy. Jazz, blues, country, and gospel evolved into rhythm and blues, rock ‘n’ roll, soul, and funk.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8536)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The history of minimalism can’t be written without a cursory look at postwar jazz.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8546)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>It was at the end of the Second World War that many young jazz players began to think of themselves as “serious musicians,”</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8547)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>“We had some fundamental background training in European harmony and music theory superimposed on our own knowledge from Afro-American musical tradition,” Gillespie wrote. “We invented our own way of getting from one place to the next.”</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8552)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Miles Davis released Kind of Blue, which put the brakes on bop’s forward drive. “So What,” the nine-minute opening track, is a proto-minimalist piece, defined by the dreamlike slowness of the harmonic rhythm. As the melodies drift by and change color, the underlying harmony stays fixed on a D-minor seventh chord, with periodic sidesteps into E-flat minor.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8557)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Jazz had entered its high-modern era, and assumed a modernist contempt for convention.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8563)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Miles Davis, in performance, turned his back to the crowd in Schoenbergian fashion.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8565)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>He liked the idea that Coltrane could walk out with a saxophone, play freewheeling improvisations on just one or two harmonies, and then disappear into the night. “The music just comes out,” Reich later said. “There’s no argument. There it is. This presented me with a human choice, almost an ethical, moral choice.”</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8574)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>instead of begging for assistance from patrons or the WPA bureaucracy, he dropped out of civilization entirely, and became a hobo. For several years he crisscrossed the country, riding trains, doing manual labor, sleeping in shelters or in the wild, contracting syphilis, working occasionally as a proofreader, and, all the while, rethinking every parameter of music.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8633)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>he scandalized a crowd at Black Mountain College by saying that Beethoven had misled generations of composers by structuring music in goal-oriented harmonic narratives instead of letting it unfold moment by moment.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8667)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the late sixties and early seventies, twelve-tone composers were reaching the height of their influence. By some accounts, they effectively took control of university composition departments across the country.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8775)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>No matter who was running the show, young composers with tonal yearnings found little happiness in academia, as colorful testimonials from composers and musicians in Michael Broyles’s book Mavericks and Other Traditions in American Music suggest.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8779)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Gann lumps both “modernists” and “New Romantics” together in the “uptown” category, named for the Upper West Side of New York City, home of Lincoln Center, the Juilliard School, Carnegie Hall, Columbia University, and other richly endowed institutions. Downtown composers are those who, in Harry Partch’s words, look for “a way outside”— anti-European, anti-symphonic, anti-operatic. They descend from the free spirits who had long gone their own way on the West Coast. In New York such composers have tended to congregate in loft spaces, art galleries, and rock clubs below Fourteenth Street.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8799)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Michael Nyman, in his book Experimental Music, dubbed minimalism a subspecies of “process” music, classifying it alongside the chance processes of Cage, the “people processes” of Frederic Rzewski (players going through their parts at their own speeds), and the electronic processes of Lucier and Ashley. But minimalism was a different kind of process from the start.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8974)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>This philosophy differs starkly from the thinking inherent in Boulez’s total serialism and Cage’s I Ching pieces, where process works behind the scenes, like a spy network employing front organizations.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 8995)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the last years of the twentieth century, minimalism acquired a degree of popularity with mainstream audiences, saturating American music with its influence. But in the early years it caused a fair amount of distress.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 9013)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The European avant-garde did nothing for Glass. He later called it “a wasteland, dominated by these maniacs, these creeps, who were trying to make everyone write this crazy creepy music.”</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 9035)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Glass introduced constant rhythmic change, adding or subtracting notes in the style of Indian music.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 9042)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Like Reich, Glass made his living outside academia, driving taxis and doing odd jobs.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 9044)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Glass also worked as a plumber, and one day installed a dishwasher in the apartment of the art critic Robert Hughes, who could not understand why SoHo’s composer laureate was crawling around the floor of his kitchen.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 9046)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Downtown music had entered a phase that might be called grand minimalism. Large-scale structures and modulatory schemes ascended toward moments of transcendence. Perhaps Beethoven wasn’t so wrong after all.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 9077)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In the seventies the downtown Manhattan scene reached an apex of cool. Composers from around the country converged on the city to take part in it. Loft apartments were cheap, alternative performance spaces imposed no creative restrictions, audiences sat through the most far-out occurrences with an attitude of jaded calm.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 9095)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Minimalism is the story not so much of a single sound as of a chain of connections. Schoenberg invented the twelve-tone row; Webern found a secret stillness in its patterns; Cage and Feldman abandoned the row and accentuated the stillness; Young slowed down the row and rendered it hypnotic; Riley pulled the long tones toward tonality; Reich systematized the process and gave it depth of field; Glass gave it motorized momentum.</p>
+<p><strong>14. Beethoven Was Wrong: Bop, Rock, and the Minimalists</strong> (Location 9109)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>One way to describe his work is to say that it sounds like Highway 1. It is a cut-up paradise, a stream of familiar sounds arranged in unfamiliar ways.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9189)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>This has been a book about the fate of composition in the twentieth century. The temptation is strong to see the overall trajectory as one of steep decline. From 1900 to 2000, the art experienced what can only be described as a fall from a great height.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9210)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>To the cynical onlooker, orchestras and opera houses are stuck in a museum culture, playing to a dwindling cohort of aging subscribers and would-be elitists who take satisfaction from technically expert if soulless renditions of Hitler’s favorite works.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9219)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Seen from a more sympathetic angle, the picture is quite different.Classical music is reaching far larger audiences than it has at any time in history.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9223)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Living composers such as Adams, Glass, Reich, and Arvo Pärt have acquired a semblance of a mass following.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9229)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>There is little hope of giving a tidy account of composition in the second fin de siècle.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9234)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>In retrospect, modernism, in the sense of a unified vanguard, never existed. The twentieth century was always a time of “many streams,” a “delta,” in the wise words of John Cage.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9238)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The majority make a living by teaching composition, and their students usually become teachers themselves.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9244)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>For now, the art is like the “sunken cathedral” that Debussy depicts in his Preludes for Piano— a city that chants beneath the waves.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9251)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>When Mao Zedong and the Communists took power in 1949, composers found themselves in a recognizable predicament. Like Hitler and Stalin, Mao fancied himself a patron of the arts, and he meddled incessantly in the cultural sphere, zigzagging between liberalization and repression.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9281)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>To be “classical,” in this sense, is to protect tradition from the ravages of passing time, to perpetuate the musical past.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9313)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>To track the disparate activities of downtown composers, Kyle Gann has coined the term “postminimalism.” He describes it as a tonal, steady-pulsing kind of music that avoids defining itself through a controlling process,</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9341)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Downtown and midtown composers are alike in rejecting the prophet-in-the-wilderness, who-cares-if-you-listen mentality that prevailed after the Second World War.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9363)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Boulez’s recent music has a cool, silvery sheen.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9394)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>When Terry Riley’s In C was played at Darmstadt in 1969, it elicited lusty boos from the rank and file of the avant-garde.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9413)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>If minimalism made hardly a dent on mainstream European music— its reliance on consonances and steady pulses broke all the modernist taboos at once— the younger generation of composers, those who came of age in the era of the student revolutions of May 1968, did find their own direction, distinct from that of Boulez.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9426)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>The Soviet era, for all its ravaging effects on the spirit, preserved prewar musical culture as if in amber. As late as the 1980s, composers were still lionized, opera houses and orchestras were generously funded, and an imposing music-education system funneled major talents from the provinces to the center.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9470)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Schnittke, a man of haunted, sallow visage, Russian-Jewish and Volga German in origin, was Shostakovich’s heir apparent.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9484)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Minimalism gave Adams his individual voice. His defining move was to combine Reich-Glass repetition with the sprawling forms and grandiose orchestration of Wagner, Mahler, and Sibelius. In 1985 he finished a forty-minute symphonic work called Harmonielehre, its title taken from the famous textbook in which Schoenberg first declared that tonality was dead.</p>
+<p><strong>15. Sunken Cathedrals: Music at Century’s End</strong> (Location 9613)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>At the beginning of the twenty-first century, the impulse to pit classical music against pop culture no longer makes intellectual or emotional sense.</p>
+<p><strong>Epilogue</strong> (Location 9680)</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Björk is a modern pop artist deeply affected by the twentieth-century classical repertory that she absorbed in music school— Stockhausen’s electronic pieces, the organ music of Messiaen, the spiritual minimalism of Arvo Pärt.</p>
+<p><strong>Epilogue</strong> (Location 9686)</p>
+</blockquote>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
