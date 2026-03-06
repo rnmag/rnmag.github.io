@@ -7,4 +7,6 @@ about:
   image-shape: "rectangle"
 ---
 
-I'm a data scientist with [experience](about.html) in predictive modeling, causal inference and analytics. Here you will find information on some of my [projects](projects.html) and material for my [courses](teaching.html).
+I am an [applied scientist](about.html) employing probabilistic models, machine learning, and causal inference to measure impact and quantify uncertainty in strategic decision-making.
+
+Explore my [consulting](consulting.html) work, [open-source](code.html) projects, and [teaching](teaching.html) materials.
