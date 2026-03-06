@@ -9,4 +9,4 @@ about:
 
 I am an [applied scientist](about.html) employing probabilistic models, machine learning, and causal inference to measure impact and quantify uncertainty in strategic decision-making.
 
-Explore my [consulting](consulting.html) work, [open-source](code.html) projects, and [teaching](teaching.html) materials.
+Explore my [consulting work](consulting.html), [open-source](code.html) projects, and [teaching materials](teaching.html).
