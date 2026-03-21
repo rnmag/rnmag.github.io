@@ -1,7 +1,7 @@
 ---
 title: "Why Machines Learn"
 author: Anil Ananthaswamy
-date: 2026-02-28
+date: 2026-03-09
 Rating: 9 / 10
 ---
 

@@ -20,10 +20,10 @@ website:
         href: about.qmd
       - text: consulting
         href: consulting.qmd
-      - text: code
-        href: code.qmd
       - text: teaching
         href: teaching.qmd
+      - text: code
+        href: code.qmd
       - text: motley
         menu:
           - text: reading
