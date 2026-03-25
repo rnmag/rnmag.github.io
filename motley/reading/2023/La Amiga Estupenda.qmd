@@ -2,7 +2,7 @@
 title: "La Amiga Estupenda"
 author: Elena Ferrante
 date: 2023-11-5
-Rating: 9 / 10
+Rating: 10 / 10
 ---
 
 ### Highlights
