@@ -6,3 +6,696 @@ Rating: 8 / 10
 ---
 
 ### Highlights
+> Our topic is human error. Bias and noise— systematic deviation and random scatter— are different components of error.
+> 
+> **Introduction: Two Kinds of Error** (Location 75)
+
+---
+
+> Some judgments are biased; they are systematically off target. Other judgments are noisy, as people who are expected to agree end up at very different points around the target.
+> 
+> **Introduction: Two Kinds of Error** (Location 78)
+
+---
+
+> A general property of noise is that you can recognize and measure it while knowing nothing about the target or bias.
+> 
+> **Introduction: Two Kinds of Error** (Location 83)
+
+---
+
+> The general property of noise just mentioned is essential for our purposes in this book, because many of our conclusions are drawn from judgments whose true answer is unknown or even unknowable.
+> 
+> **Introduction: Two Kinds of Error** (Location 86)
+
+---
+
+> All we have to do to measure noise is look at the back of the target.
+> 
+> **Introduction: Two Kinds of Error** (Location 90)
+
+---
+
+> But in public conversations about human error and in organizations all over the world, noise is rarely recognized. Bias is the star of the show. Noise is a bit player, usually offstage. The topic of bias has been discussed in thousands of scientific articles and dozens of popular books, few of which even mention the issue of noise. This book is our attempt to redress the balance.
+> 
+> **Introduction: Two Kinds of Error** (Location 91)
+
+---
+
+> when the same software developers were asked on two separate days to estimate the completion time for the same task, the hours they projected differed by 71%, on average.
+> 
+> **Introduction: Two Kinds of Error** (Location 105)
+
+---
+
+> we introduce the idea of a noise audit, designed to measure how much disagreement there is among professionals considering the same cases within an organization.
+> 
+> **Introduction: Two Kinds of Error** (Location 126)
+
+---
+
+> We explore the key advantage of rules, formulas, and algorithms over humans when it comes to making predictions: contrary to popular belief, it is not so much the superior insight of rules but their noiselessness.
+> 
+> **Introduction: Two Kinds of Error** (Location 132)
+
+---
+
+> (Readers who are primarily interested in practical applications of noise reduction might skip the discussion of the challenges of prediction and of the psychology of judgment in parts 3 and 4 and move directly to this part.)
+> 
+> **Introduction: Two Kinds of Error** (Location 139)
+
+---
+
+> We conclude by offering a system we call the mediating assessments protocol: a general-purpose approach to the evaluation of options that incorporates several key practices of decision hygiene and aims to produce less noisy and more reliable judgments.
+> 
+> **Introduction: Two Kinds of Error** (Location 144)
+
+---
+
+> The judgment that you make, even in a seemingly unique situation, is one in a cloud of possibilities. You will find a lot of noise there as well.
+> 
+> **Part I: Finding Noise** (Location 174)
+
+---
+
+> The theme that emerges from these three chapters can be summarized in one sentence, which will be a key theme of this book: wherever there is judgment, there is noise— and more of it than you think.
+> 
+> **Part I: Finding Noise** (Location 175)
+
+---
+
+> We use the word lottery to emphasize the role of chance in the selection of one underwriter or adjuster. In the normal operation of the company, a single professional is assigned to a case, and no one can ever know what would have happened if another colleague had been selected instead.
+> 
+> **Part I: Finding Noise** (Location 353)
+
+---
+
+> The lottery that picks a particular judge to establish a criminal sentence or a single shooter to represent a team creates variability, but this variability remains unseen.
+> 
+> **Part I: Finding Noise** (Location 361)
+
+---
+
+> A noise audit— like the one conducted on federal judges with respect to sentencing— is a way to reveal noise. In such an audit, the same case is evaluated by many individuals, and the variability of their responses is made visible.
+> 
+> **Part I: Finding Noise** (Location 362)
+
+---
+
+> Our noise audit found much greater differences. By our measure, the median difference in underwriting was 55%, about five times as large as was expected by most people, including the company’s executives.
+> 
+> **Part I: Finding Noise** (Location 376)
+
+---
+
+> variability in judgments is not always unwanted. Consider matters of preference or taste. If ten film critics watch the same movie, if ten wine tasters rate the same wine, or if ten people read the same novel, we do not expect them to have the same opinion.
+> 
+> **Part I: Finding Noise** (Location 389)
+
+---
+
+> Variability in judgments is also expected and welcome in a competitive situation in which the best judgments will be rewarded. When several companies (or several teams in the same organization) compete to generate innovative solutions to the same customer problem, we don’t want them to focus on the same approach.
+> 
+> **Part I: Finding Noise** (Location 394)
+
+---
+
+> Even forecasters sometimes behave like competitive players. The analyst who correctly calls a recession that no one else has anticipated is sure to gain fame, whereas the one who never strays from the consensus remains obscure.
+> 
+> **Part I: Finding Noise** (Location 397)
+
+---
+
+> A frequent misconception about unwanted variability in judgments is that it doesn’t matter, because random errors supposedly cancel one another out. Certainly, positive and negative errors in a judgment about the same case will tend to cancel one another out, and we will discuss in detail how this property can be used to reduce noise. But noisy systems do not make multiple judgments of the same case.
+> 
+> **Part I: Finding Noise** (Location 415)
+
+---
+
+> In noisy systems, errors do not cancel out. They add up.
+> 
+> **Part I: Finding Noise** (Location 420)
+
+---
+
+> Noise was like a leak in the basement. It was tolerated not because it was thought acceptable but because it had remained unnoticed.
+> 
+> **Part I: Finding Noise** (Location 425)
+
+---
+
+> Most of us, most of the time, live with the unquestioned belief that the world looks as it does because that’s the way it is. There is one small step from this belief to another: “Other people view the world much the way I do.”
+> 
+> **Part I: Finding Noise** (Location 438)
+
+---
+
+> In the case of professional judgments, the belief that others see the world much as we do is reinforced every day in multiple ways.
+> 
+> **Part I: Finding Noise** (Location 443)
+
+---
+
+> First, we share with our colleagues a common language and set of rules about the considerations that should matter in our decisions. We also have the reassuring experience of agreeing with others on the absurdity of judgments that violate these rules.
+> 
+> **Part I: Finding Noise** (Location 444)
+
+---
+
+> We have little opportunity to notice that our agreed-on rules are vague, sufficient to eliminate some possibilities but not to specify a shared positive response to a particular case.
+> 
+> **Part I: Finding Noise** (Location 446)
+
+---
+
+> The psychology of this process is well understood. Confidence is nurtured by the subjective experience of judgments that are made with increasing fluency and ease, in part because they resemble judgments made in similar cases in the past. Over time, as this underwriter learned to agree with her past self, her confidence in her judgments increased.
+> 
+> **Part I: Finding Noise** (Location 451)
+
+---
+
+> one that seems to play a large role in many settings is simply the discomfort of disagreement. Most organizations prefer consensus and harmony over dissent and conflict. The procedures in place often seem expressly designed to minimize the frequency of exposure to actual disagreements and, when such disagreements happen, to explain them away.
+> 
+> **Part I: Finding Noise** (Location 457)
+
+---
+
+> Noise in recurrent decisions is demonstrated by a noise audit, such as those we introduced in the previous chapter. Unwanted variability is easy to define and measure when interchangeable professionals make decisions in similar cases. It seems much harder, or perhaps even impossible, to apply the idea of noise to a category of judgments that we call singular decisions.
+> 
+> **Part I: Finding Noise** (Location 485)
+
+---
+
+> In other words, we cannot measure noise in a singular decision, but if we think counterfactually, we know for sure that noise is there.
+> 
+> **Part I: Finding Noise** (Location 525)
+
+---
+
+> Judgment can therefore be described as measurement in which the instrument is a human mind. Implicit in the notion of measurement is the goal of accuracy— to approach truth and minimize error.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 554)
+
+---
+
+> A simple conclusion emerges from these chapters: like a measuring instrument, the human mind is imperfect— it is both biased and noisy.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 591)
+
+---
+
+> The variability of judgments over successive trials with the stopwatch is noise within a single judge (yourself), whereas the variability of judgments of the Gambardi case is noise between different judges. In measurement terms, the first problem illustrates within-person reliability, and the second illustrates between-person reliability.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 648)
+
+---
+
+> It consists in evaluating the process of judgment. When we speak of good or bad judgments, we may be speaking either about the output (e.g., the number you produced in the Gambardi case) or about the process— what you did to arrive at that number.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 688)
+
+---
+
+> We have contrasted two ways of evaluating a judgment: by comparing it to an outcome and by assessing the quality of the process that led to it. Note that when the judgment is verifiable, the two ways of evaluating it may reach different conclusions in a single case. A skilled and careful forecaster using the best possible tools and techniques will often miss the correct number in making a quarterly inflation forecast. Meanwhile, in a single quarter, a dart-throwing chimpanzee will sometimes be right.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 701)
+
+---
+
+> Scholars of decision-making offer clear advice to resolve this tension: focus on the process, not on the outcome of a single case.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 705)
+
+---
+
+> This difference between bias and noise is essential for the practical purpose of improving judgments. It may seem paradoxical to claim that we can improve judgments when we cannot verify whether they are right. But we can— if we start by measuring noise. Regardless of whether the goal of judgment is just accuracy or a more complex trade-off between values, noise is undesirable and often measurable. And once noise is measured, as we will discuss in part 5, it is often possible to reduce it.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 749)
+
+---
+
+> An important question, therefore, is how, and how much, bias and noise contribute to error. This chapter aims to answer that question. Its basic message is straightforward: in professional judgments of all kinds, whenever accuracy is the goal, bias and noise play the same role in the calculation of overall error.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 764)
+
+---
+
+> we need a “scoring rule” for errors, a way to weight and combine individual errors into a single measure of overall error. Fortunately, such a tool exists. It is the method of least squares, invented in 1795 by Carl Friedrich Gauss,
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 809)
+
+---
+
+> Gauss proposed a rule for scoring the contribution of individual errors to overall error. His measure of overall error— called mean squared error (MSE)— is the average of the squares of the individual errors of measurement.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 812)
+
+---
+
+> The mean contains more information; it is affected by the size of the numbers, while the median is affected only by their order.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 824)
+
+---
+
+> This is a key feature of MSE: squaring gives large errors a far greater weight than it gives small ones.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 837)
+
+---
+
+> The squaring of errors is its central idea, and no other formula would be compatible with your intuition that the mean is the best estimate.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 839)
+
+---
+
+> The role of bias and noise in error is easily summarized in two expressions that we will call the error equations. The first of these equations decomposes the error in a single measurement into the two components with which you are now familiar: bias— the average error— and a residual “noisy error.”
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 849)
+
+---
+
+> Despite appearances, however, overall error has been reduced just as much in panel B as in panel A. The illusion of deterioration in panel B arises from an erroneous intuition about bias.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 883)
+
+---
+
+> The error equation is the intellectual foundation of this book. It provides the rationale for the goal of reducing system noise in predictive judgments, a goal that is in principle as important as the reduction of statistical bias.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 908)
+
+---
+
+> This difference indicates that there is more to system noise than differences in average severity across individual judges. We will call this other component of noise pattern noise.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 1021)
+
+---
+
+> We call these residual deviations pattern errors. If you wrote down these pattern errors in each cell of the table, you would find that they add up to zero for every judge (row) and that they also add up to zero for every case (column). However, the pattern errors do not cancel out in their contribution to noise, because the values in all cells are squared for the computation of noise.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 1029)
+
+---
+
+> You may have noticed that the decomposition of system noise into level noise and pattern noise follows the same logic as the error equation in the previous chapter, which decomposed error into bias and noise. This time, the equation can be written as follows: System Noise2 = Level Noise2 + Pattern Noise2
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 1047)
+
+---
+
+> To summarize, we discussed several types of noise. System noise is undesirable variability in the judgments of the same case by multiple individuals. We have identified its two major components, which can be separated when the same individuals evaluate multiple cases: Level noise is variability in the average level of judgments by different judges. Pattern noise is variability in judges’ responses to particular cases.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 1070)
+
+---
+
+> One review of research on variability in professional judgment (technically known as test-retest reliability, or reliability for short) included many studies in which the experts made the same judgment twice in the same session. Not surprisingly, they tended to agree with themselves.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 1124)
+
+---
+
+> The data proved them right. In general, the first guess was closer to the truth than the second, but the best estimate came from averaging the two guesses.
+> 
+> **Part II: Your Mind Is a Measuring Instrument** (Location 1143)
+
+---
+
+> This technique, called multiple regression, produces a predictive score that is a weighted average of the predictors. It finds the optimal set of weights, chosen to maximize the correlation between the composite prediction and the target variable. The optimal weights minimize the MSE (mean squared error) of the predictions— a prime example of the dominant role of the least squares principle in statistics.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1569)
+
+---
+
+> In fact, many types of mechanical approaches, from almost laughably simple rules to the most sophisticated and impenetrable machine algorithms, can outperform human judgment. And one key reason for this outperformance— albeit not the only one— is that all mechanical approaches are noise-free.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1730)
+
+---
+
+> Dawes labeled the equal-weight formula an improper linear model. His surprising discovery was that these equal-weight models are about as accurate as “proper” regression models, and far superior to clinical judgments.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1740)
+
+---
+
+> Today, many years after Dawes’s breakthrough, the statistical phenomenon that so surprised his contemporaries is well understood. As explained earlier in this book, multiple regression computes “optimal” weights that minimize squared errors. But multiple regression minimizes error in the original data. The formula therefore adjusts itself to predict every random fluke in the data.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1747)
+
+---
+
+> The challenge is that when the formula is applied out of sample— that is, when it is used to predict outcomes in a different data set— the weights will no longer be optimal.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1752)
+
+---
+
+> The correct measure of a model’s predictive accuracy is its performance in a new sample, called its cross-validated correlation. In effect, a regression model is too successful in the original sample, and a cross-validated correlation is almost always lower than it was in the original data.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1754)
+
+---
+
+> The problem Dawes pointed out is that the samples used in social science research are generally so small that the advantage of so-called optimal weighting disappears.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1763)
+
+---
+
+> in Dawes’s words, “we do not need models more precise than our measurements.” Equal-weight models do well because they are not susceptible to accidents of sampling.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1765)
+
+---
+
+> To use Dawes’s phrase, which has become a meme among students of judgment, there is a “robust beauty” in equal weights.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1775)
+
+---
+
+> all mechanical prediction techniques, not just the most recent and more sophisticated ones, represent significant improvements on human judgment.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1879)
+
+---
+
+> people are willing to give an algorithm a chance but stop trusting it as soon as they see that it makes mistakes.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1904)
+
+---
+
+> A good friend of ours, the psychologist Philip Tetlock, is armed with a fierce commitment to truth and a mischievous sense of humor. In 2005, he published a book titled Expert Political Judgment. Despite that neutral-sounding title, the book amounted to a devastating attack on the ability of experts to make accurate predictions about political events.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1973)
+
+---
+
+> Tetlock reached this conclusion by cutting through the storytelling. For each issue, he asked the experts to assign probabilities to three possible outcomes: status quo, more of something, or less of it.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 1984)
+
+---
+
+> Knowing what they know, how well can social scientists predict events in a family’s life? Specifically, what level of accuracy can experts achieve when predicting life events, using the information that sociologists normally collect and apply in their research? In our terms, the aim of the study was to measure the level of objective ignorance that remains in these life events after sociologists have done their work.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2082)
+
+---
+
+> The main conclusion of the challenge is that a large mass of predictive information does not suffice for the prediction of single events in people’s lives— and even the prediction of aggregates is quite limited.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2115)
+
+---
+
+> if you say you understand a mathematical concept or you understand what love is, you are probably not suggesting an ability to make any specific predictions.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2135)
+
+---
+
+> in the discourse of social science, and in most everyday conversations, a claim to understand something is a claim to understand what causes that thing.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2137)
+
+---
+
+> In the valley of the normal, events unfold just like the Joneses’ eviction: they appear normal in hindsight, although they were not expected, and although we could not have predicted them. This is because the process of understanding reality is backward-looking. An occurrence that was not actively anticipated (the eviction of the Jones family) triggers a search of memory for a candidate cause (the tough job market, the inflexible manager). The search stops when a good narrative is found. Given the opposite outcome, the search would have produced equally compelling causes (Jessica Jones’s tenacity, the understanding manager).
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2180)
+
+---
+
+> When you explain an unexpected but unsurprising outcome in this way, the destination that is eventually reached always makes sense. This is what we mean by understanding a story, and this is what makes reality appear predictable— in hindsight. Because the event explains itself as it occurs, we are under the illusion that it could have been anticipated.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2188)
+
+---
+
+> Causal thinking avoids unnecessary effort while retaining the vigilance needed to detect abnormal events.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2208)
+
+---
+
+> In contrast, statistical thinking is effortful. It requires the attention resources that only System 2, the mode of thinking associated with slow, deliberate thought, can bring to bear. Beyond an elementary level, statistical thinking also demands specialized training.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2209)
+
+---
+
+> The distinction between these two views is a recurring theme of this book. Relying on causal thinking about a single case is a source of predictable errors. Taking the statistical view, which we will also call the outside view, is a way to avoid these errors.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2214)
+
+---
+
+> Causal thinking helps us make sense of a world that is far less predictable than we think. It also explains why we view the world as far more predictable than it really is. In the valley of the normal, there are no surprises and no inconsistencies. The future seems as predictable as the past. And noise is neither heard nor seen.
+> 
+> **Part III: Noise in Predictive Judgments** (Location 2224)
+
+---
+
+> First, we describe how some of the operations of fast, System 1 thinking are responsible for many judgment errors.
+> 
+> **Part IV: How Noise Happens** (Location 2235)
+
+---
+
+> This book extends half a century of research on intuitive human judgment, the so-called heuristics and biases program. The first four decades of this research program were reviewed in Thinking, Fast and Slow, which explored the psychological mechanisms that explain both the marvels and the flaws of intuitive thinking. The central idea of the program was that people who are asked a difficult question use simplifying operations, called heuristics.
+> 
+> **Part IV: How Noise Happens** (Location 2247)
+
+---
+
+> For instance, when people forecast how long it will take them to complete a project, the mean of their estimates is usually much lower than the time they will actually need. This familiar psychological bias is known as the planning fallacy.
+> 
+> **Part IV: How Noise Happens** (Location 2260)
+
+---
+
+> In spite of the absence of a target, both panels provide evidence of systematic bias. In panel 1, the shots of the two teams differ, although they should be identical. This pattern resembles what you would see in an experiment in which two groups of investors read business plans that are substantively identical but printed in a different font and on a different paper. If these irrelevant details make a difference in the investors’ judgment, there is psychological bias.
+> 
+> **Part IV: How Noise Happens** (Location 2269)
+
+---
+
+> Panel 2 illustrates the opposite phenomenon. Since the teams were aiming at different targets, the clusters of shots should be distinct, but they are centered on the same spot.
+> 
+> **Part IV: How Noise Happens** (Location 2276)
+
+---
+
+> the essential idea of the heuristics and biases program: a heuristic for answering a difficult question is to find the answer to an easier one. The substitution of one question for the other causes predictable errors, called psychological biases.
+> 
+> **Part IV: How Noise Happens** (Location 2326)
+
+---
+
+> because of confirmation bias and desirability bias, we will tend to collect and interpret evidence selectively to favor a judgment that, respectively, we already believe or wish to be true.
+> 
+> **Part IV: How Noise Happens** (Location 2379)
+
+---
+
+> People often come up with plausible rationalizations for their judgments and will actually think that they are the cause of their beliefs.
+> 
+> **Part IV: How Noise Happens** (Location 2380)
+
+---
+
+> subtler example of a conclusion bias is the anchoring effect, which is the effect that an arbitrary number has on people who must make a quantitative judgment.
+> 
+> **Part IV: How Noise Happens** (Location 2393)
+
+---
+
+> This experiment illustrates excessive coherence: we form coherent impressions quickly and are slow to change them.
+> 
+> **Part IV: How Noise Happens** (Location 2418)
+
+---
+
+> We have briefly presented three types of biases that operate in different ways: substitution biases, which lead to a misweighting of the evidence; conclusion biases, which lead us either to bypass the evidence or to consider it in a distorted way; and excessive coherence, which magnifies the effect of initial impressions and reduces the impact of contradictory information. All three types of biases can, of course, produce statistical bias. They can also produce noise.
+> 
+> **Part IV: How Noise Happens** (Location 2439)
+
+---
+
+> This chapter focuses on the role of the response scale as a pervasive source of noise.
+> 
+> **Part IV: How Noise Happens** (Location 2669)
+
+---
+
+> These findings highlight a key feature of the process of judgment: the subtle effect of the judgment task on the weighting of different aspects of the evidence. The participants who rated punitive intent and outrage were not aware that they were taking a stand on the philosophical issue of whether justice should be retributive.
+> 
+> **Part IV: How Noise Happens** (Location 2715)
+
+---
+
+> The assumption implicit in the law is that jurors’ sense of justice will lead them directly from a consideration of an offense to the correct punishment. This assumption is psychological nonsense— it assumes an ability that humans do not have. The institutions of justice should acknowledge the limitations of the people who administer it.
+> 
+> **Part IV: How Noise Happens** (Location 2809)
+
+---
+
+> When do you feel confident in a judgment? Two conditions must be satisfied: the story you believe must be comprehensively coherent, and there must be no attractive alternatives.
+> 
+> **Part IV: How Noise Happens** (Location 2850)
+
+---
+
+> The main implication of this view of confidence is that subjective confidence in one’s judgment by no means guarantees accuracy.
+> 
+> **Part IV: How Noise Happens** (Location 2855)
+
+---
+
+> We have defined a pattern error as an error in an individual’s judgment of a case that cannot be explained by the sum of the separate effects of the case and the judge. An extreme example may be the normally lenient judge who is unusually severe in sentencing a particular kind of defendant
+> 
+> **Part IV: How Noise Happens** (Location 2862)
+
+---
+
+> Pattern errors arise from a combination of transient and permanent factors. The transient factors include those we have described as sources of occasion noise, such as a judge’s good mood at the relevant moment or some unfortunate recent occurrence that is currently on the judge’s mind. Other factors are more permanent— for example, an employer’s unusual enthusiasm for people who attended certain universities
+> 
+> **Part IV: How Noise Happens** (Location 2867)
+
+---
+
+> Figure 16 offers a combined graphical representation of the three equations we introduced in chapters 5, 6, and 16. The figure illustrates three successive breakdowns of error: error into bias and system noise, system noise into level noise and pattern noise, pattern noise into stable pattern noise and occasion noise.
+> 
+> **Part IV: How Noise Happens** (Location 2962)
+
+---
+
+> When we began our research, we were focusing on the relative weights of bias and noise in total error. We soon concluded that noise is often a larger component of error than bias is, and certainly well worth exploring in more detail.
+> 
+> **Part IV: How Noise Happens** (Location 2968)
+
+---
+
+> The evidence gradually led us to realize that the noisy judgments that different people make are largely determined by something that is neither a general bias of the individual nor transient and random: the persistent personal reactions of particular individuals to a multitude of features, which determine their reactions to specific cases. We eventually concluded that our default assumption about the transient nature of pattern noise should be abandoned.
+> 
+> **Part IV: How Noise Happens** (Location 2978)
+
+---
+
+> Why do we never invoke noise to explain bad judgments, whereas we routinely blame biases? Why is it so unusual to give much thought to noise as a source of error, despite its ubiquity?
+> 
+> **Part IV: How Noise Happens** (Location 3055)
+
+---
+
+> we easily make sense of events in hindsight, although we could not have predicted them before they happened. In the valley of the normal, events are unsurprising and easily explained.
+> 
+> **Part IV: How Noise Happens** (Location 3059)
+
+---
+
+> We do, however, feel a need to explain abnormal outcomes: the bad ones and, occasionally, the surprisingly good ones— such as the shocking business gamble that pays off. Explanations that appeal to error or to special flair are far more popular than they deserve to be, because important gambles of the past easily become acts of genius or folly when their outcome is known.
+> 
+> **Part IV: How Noise Happens** (Location 3064)
+
+---
+
+> the fundamental attribution error is a strong tendency to assign blame or credit to agents for actions and outcomes that are better explained by luck or by objective circumstances.
+> 
+> **Part IV: How Noise Happens** (Location 3067)
+
+---
+
+> As we noted in chapter 12, our normal way of thinking is causal. We naturally attend to the particular, following and creating causally coherent stories about individual cases, in which failures are often attributed to errors, and errors to biases. The ease with which bad judgments can be explained leaves no space for noise in our accounts of errors.
+> 
+> **Part IV: How Noise Happens** (Location 3084)
+
+---
+
+> Noise is inherently statistical: it becomes visible only when we think statistically about an ensemble of similar judgments.
+> 
+> **Part IV: How Noise Happens** (Location 3087)
+
+---
+
+> Causally, noise is nowhere; statistically, it is everywhere.
+> 
+> **Part IV: How Noise Happens** (Location 3090)
+
+---
+
+> bias is a compelling figure, while noise is the background to which we pay no attention.
+> 
+> **Part IV: How Noise Happens** (Location 3095)
+
+---
+
+> a noise audit, multiple individuals judge the same problems. Noise is the variability of these judgments.
+> 
+> **Part V: Improving Judgments** (Location 3106)
+
+---
+
+> If the amount of system noise is worth addressing, replacing judgment with rules or algorithms is an option that you should consider, as it will eliminate noise entirely. But rules have their own problems (as we will see in part 6), and even the most enthusiastic proponents of AI agree that algorithms are not, and will not soon be, a universal substitute for human judgment.
+> 
+> **Part V: Improving Judgments** (Location 3109)
+
+---
+
+> In chapter 21, we turn to the case of forecasting, which illustrates the value of one of the most important noise-reduction strategies: aggregating multiple independent judgments. The “wisdom of crowds” principle is based on the averaging of multiple independent judgments, which is guaranteed to reduce noise. Beyond straight averaging, there are other methods for aggregating judgments, also illustrated by the example of forecasting.
+> 
+> **Part V: Improving Judgments** (Location 3128)
+
+---
+
+> in chapter 25, a general approach to option evaluation called the mediating assessments protocol, or MAP for short. MAP starts from the premise that “options are like candidates” and describes schematically how structured decision making, along with the other decision hygiene strategies mentioned above, can be introduced in a typical decision process for both recurring and singular decisions.
+> 
+> **Part V: Improving Judgments** (Location 3141)
+
+---
+
+> Highly skilled people are less noisy, and they also show less bias.
+> 
+> **Part V: Improving Judgments** (Location 3166)
+
+---
+
+> many judgments are not verifiable. Within certain boundaries, we cannot easily know or uncontroversially define the true value at which judgments are aiming. Underwriting and criminal sentencing fall in this category, as do wine tasting, essay grading, book and movie reviewing, and innumerable other judgments.
+> 
+> **Part V: Improving Judgments** (Location 3170)
+
+---
+
+> The confidence we have in these experts’ judgment is entirely based on the respect they enjoy from their peers. We call them respect-experts.
+> 
+> **Part V: Improving Judgments** (Location 3172)
+
+---
+
+> The fact that some experts are not subject to an evaluation of the accuracy of their judgments is not a criticism; it is a fact of life in many domains. Many professors, scholars, and management consultants are respect-experts. Their credibility depends on the respect of their students, peers, or clients.
+> 
+> **Part V: Improving Judgments** (Location 3174)
+
+---
+
+> Another characteristic of respect-experts is their ability to make and explain their judgments with confidence.
+> 
+> **Part V: Improving Judgments** (Location 3200)
+
+---
+
+> Respect-experts excel at constructing coherent stories. Their experience enables them to recognize patterns, to reason by analogy with previous cases, and to form and confirm hypotheses quickly. They easily fit the facts they see into a coherent story that inspires confidence.
+> 
+> **Part V: Improving Judgments** (Location 3203)
+
+---
+
+> Training, experience, and confidence enable respect-experts to command trust. But these attributes do not guarantee the quality of their judgments. How can we know which experts are likely to make good judgments?
+> 
+> **Part V: Improving Judgments** (Location 3205)
