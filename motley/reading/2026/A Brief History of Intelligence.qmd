@@ -1,0 +1,2778 @@
+---
+title: "A Brief History of Intelligence"
+author: Max Bennett
+date: 2026-04-17
+Rating: 9 / 10
+---
+
+### Highlights
+
+> Unlike the electrical connections in your computer, where wires all communicate using the same signal— electrons— across each of these neural connections, hundreds of different chemicals are passed, each with completely different effects. The simple fact that two neurons connect to each other tells us little about what they are communicating.
+> 
+> **Introduction** (Location 155)
+
+---
+
+> What is most striking when we examine the brains of other animals is how remarkably similar their brains are to our own.
+> 
+> **Introduction** (Location 177)
+
+---
+
+> The first brain— the first collection of neurons in the head of an animal— appeared six hundred million years ago in a worm the size of a grain of rice. This worm was the ancestor of all modern brain-endowed animals.
+> 
+> **Introduction** (Location 184)
+
+---
+
+> MacLean hypothesized that the human brain was made of three layers (hence triune), each built on top of another: the neocortex, which evolved most recently, on top of the limbic system, which evolved earlier, on top of the reptile brain, which evolved first.
+> 
+> **Introduction** (Location 205)
+
+---
+
+> AI can also teach us about the brain. If we think some part of the brain uses some specific algorithm but that algorithm doesn’t work when we implement it in machines, this gives us evidence that the brain might not work this way.
+> 
+> **Introduction** (Location 227)
+
+---
+
+> LIFE EXISTED ON Earth for a long time— and I mean a long time, over three billion years— before the first brain made an appearance.
+> 
+> **1: The World Before Brains** (Location 321)
+
+---
+
+> After countless random nucleotide chains were constructed and destroyed, a lucky sequence was stumbled upon, one that marked, at least on Earth, the first true rebellion against the seemingly inexorable onslaught of entropy.
+> 
+> **1: The World Before Brains** (Location 331)
+
+---
+
+> a gene is simply the section of DNA that codes for the construction of a specific and singular protein. This was the invention of protein synthesis, and it is here that the first sparks of intelligence made their appearance.
+> 
+> **1: The World Before Brains** (Location 344)
+
+---
+
+> DNA is relatively inert, effective for self-duplication but otherwise limited in its ability to manipulate the microscopic world around it. Proteins, however, are far more flexible and powerful. In many ways, proteins are more machine than molecule. Proteins can be constructed and folded into many shapes— sporting tunnels, latches, and other robotic moving parts— and can thereby subserve endless cellular functions, including “intelligence.”
+> 
+> **1: The World Before Brains** (Location 346)
+
+---
+
+> Armed with proteins for movement and perception, early life could monitor and respond to the outside world.
+> 
+> **1: The World Before Brains** (Location 353)
+
+---
+
+> The development of protein synthesis not only begot the seeds of intelligence but also transformed DNA from mere matter to a medium for storing information. Instead of being the self-replicating stuff of life itself, DNA was transformed into the informational foundation from which the stuff of life is constructed. DNA had officially become life’s blueprint, ribosomes its factory, and proteins its product.
+> 
+> **1: The World Before Brains** (Location 357)
+
+---
+
+> Photosynthesis was more efficient than prior cellular systems for extracting and storing energy. It provided cyanobacteria with an abundance of fuel with which to finance their duplication.
+> 
+> **1: The World Before Brains** (Location 384)
+
+---
+
+> It was the cyanobacteria, with their newfound photosynthesis, that constructed Earth’s oxygen-rich atmosphere and began to terraform the planet from a gray volcanic rock to the oasis we know today.
+> 
+> **1: The World Before Brains** (Location 390)
+
+---
+
+> Oxygen is an incredibly reactive element, which makes it dangerous in the carefully orchestrated chemical reactions of a cell. Unless special intracellular protective measures are taken, oxygen compounds will interfere with cellular processes, including the maintenance of DNA.
+> 
+> **1: The World Before Brains** (Location 395)
+
+---
+
+> The photosynthetic life-forms became victims of their own success, slowly suffocating in a cloud of their own waste.
+> 
+> **1: The World Before Brains** (Location 398)
+
+---
+
+> Respiring microbes began gobbling up the ocean’s excess oxygen and replenishing its depleted supply of carbon dioxide. What began as a pollutant to one form of life became fuel for another.
+> 
+> **1: The World Before Brains** (Location 404)
+
+---
+
+> Life on Earth fell into perhaps the greatest symbiosis ever found between two competing but complementary systems of life, one that lasts to this day. One category of life was photosynthetic, converting water and carbon dioxide into sugar and oxygen. The other was respiratory, converting sugar and oxygen back into carbon dioxide.
+> 
+> **1: The World Before Brains** (Location 405)
+
+---
+
+> Cellular respiration requires sugar to produce energy, and this basic need provided the energetic foundation for the eventual intelligence explosion that occurred uniquely within the descendants of respiratory life.
+> 
+> **1: The World Before Brains** (Location 412)
+
+---
+
+> Respiratory microbes differed in one crucial way from their photosynthetic cousins: they needed to hunt. And hunting required a whole new degree of smarts.
+> 
+> **1: The World Before Brains** (Location 415)
+
+---
+
+> As such, before the introduction of oxygen, hunting was not a viable survival strategy. It was better to just find a good spot, sit tight, and bask in the sunlight.
+> 
+> **1: The World Before Brains** (Location 422)
+
+---
+
+> the world’s utopic peace ended quite abruptly with the arrival of aerobic respiration. It was here that microbes began to actively eat other microbes.
+> 
+> **1: The World Before Brains** (Location 426)
+
+---
+
+> By about eight hundred million years ago, life would have fallen into three broad levels of complexity. At level one, there was single-celled life, made up of microscopic bacteria and single-celled eukaryotes. At level two, there was small multicellular life, large enough to engulf single-celled organisms but small enough to move around using basic cellular propellers. At level three, there was large multicellular life; too big to move with cellular propellers, and therefore forming immobile structures.
+> 
+> **1: The World Before Brains** (Location 447)
+
+---
+
+> These early animals probably wouldn’t resemble what you think of as animals. But they contained something that made them different from all other life at the time: neurons.
+> 
+> **1: The World Before Brains** (Location 453)
+
+---
+
+> This is the most shocking observation when comparing neurons across species— they are all, for the most part, fundamentally identical.
+> 
+> **1: The World Before Brains** (Location 462)
+
+---
+
+> What separates you from an earthworm is not the unit of intelligence itself— neurons— but how these units are wired together.
+> 
+> **1: The World Before Brains** (Location 464)
+
+---
+
+> Early in the fungi-animal divergence, they each settled into opposing feeding strategies. Fungi chose the strategy of waiting, and animals chose the strategy of killing.[
+> 
+> **1: The World Before Brains** (Location 479)
+
+---
+
+> it is usually the worse strategy, the harder strategy, from which innovation emerges.
+> 
+> **1: The World Before Brains** (Location 484)
+
+---
+
+> This is why mold always shows up in old food. Fungal spores are all around us, patiently waiting for something to die. Fungi are currently, and likely have always been, Earth’s garbage collectors.
+> 
+> **1: The World Before Brains** (Location 487)
+
+---
+
+> Gastrulation, neurons, and muscles are the three inseparable features that bind all animals together and separate animals from all other kingdoms of life.
+> 
+> **1: The World Before Brains** (Location 499)
+
+---
+
+> The original purpose of neurons and muscles may have been the simple and inglorious task of swallowing.
+> 
+> **1: The World Before Brains** (Location 524)
+
+---
+
+> The first discovery was that neurons don’t send electrical signals in the form of a continuous ebbing and flowing but rather in all-or-nothing responses, also called spikes or action potentials.[
+> 
+> **1: The World Before Brains** (Location 551)
+
+---
+
+> The heavier the weight, the higher the frequency of spikes (figure 1.9). This was Adrian’s second discovery, what is now known as rate coding. The idea is that neurons encode information in the rate that they fire spikes, not in the shape or magnitude of the spike itself.[
+> 
+> **1: The World Before Brains** (Location 568)
+
+---
+
+> all sensory modalities, from smell to touch to sound, require the discrimination of hugely varying natural variables. This wouldn’t necessarily be a problem except for a big limitation of neurons— for a variety of biochemical reasons, it is simply impossible for a neuron to fire faster than around five hundred spikes per second.[
+> 
+> **1: The World Before Brains** (Location 589)
+
+---
+
+> This could be reasonably called the “squishing problem”: neurons have to squish this huge range of natural variables into a comparably minuscule range of firing rates.
+> 
+> **1: The World Before Brains** (Location 593)
+
+---
+
+> neurons are always adapting their firing rates to their environment; they are constantly remapping the relationship between variables in the natural world and the language of firing rates. The term neuroscientists use to describe this observation is adaptation; this was Adrian’s third discovery.
+> 
+> **1: The World Before Brains** (Location 598)
+
+---
+
+> In some sense, neurons are more a measurement of relative changes in stimulus strengths, signaling how much the strength of a stimulus changed relative to its baseline as opposed to signaling the absolute value of the stimulus.
+> 
+> **1: The World Before Brains** (Location 603)
+
+---
+
+> While neural communication within a neuron is electrical, across neurons, it is chemical.[
+> 
+> **1: The World Before Brains** (Location 615)
+
+---
+
+> In other words, excitatory neurons trigger spikes in other neurons, while inhibitory neurons suppress spikes in other neurons.
+> 
+> **1: The World Before Brains** (Location 619)
+
+---
+
+> The existence of both excitatory and inhibitory neurons enabled the first neural circuits to implement a form of logic required for reflexes to work.
+> 
+> **1: The World Before Brains** (Location 632)
+
+---
+
+> The most obvious difference between these two categories is how the animals eat. Bilaterians eat by putting food in their mouths and then pooping out waste products from their butts. Radially symmetrical animals have only one opening— a mouth-butt if you will— which swallows food into their stomachs and spits it out.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 660)
+
+---
+
+> Why, within this single lineage of ancient animals, did body plans change from radial symmetry to bilateral symmetry?
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 669)
+
+---
+
+> Radially symmetrical body plans work fine with the coral strategy of waiting for food. But they work horribly for the hunting strategy of navigating toward food.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 670)
+
+---
+
+> Bilaterally symmetrical bodies make movement much simpler. Instead of needing a motor system to move in any direction, they simply need one motor system to move forward and one to turn.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 674)
+
+---
+
+> Even modern human engineers have yet to find a better structure for navigation. Cars, planes, boats, submarines, and almost every human-built navigation machine is bilaterally symmetric.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 676)
+
+---
+
+> There is another observation about bilaterians, perhaps the more important one: They are the only animals that have brains. This is not a coincidence. The first brain and the bilaterian body share the same initial evolutionary purpose: They enable animals to navigate by steering. Steering was breakthrough #1.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 681)
+
+---
+
+> The most well-studied nematode, Caenorhabditis elegans, has only 302 neurons, a minuscule number compared to a human’s 85 billion.[
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 698)
+
+---
+
+> And so the breakthrough that came with the first brain was not steering per se, but steering on the scale of multicellular organisms.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 726)
+
+---
+
+> In the 1980s and 1990s a schism emerged in the artificial intelligence community. On one side were those in the symbolic AI camp, who were focused on decomposing human intelligence into its constituent parts in an attempt to imbue AI systems with our most cherished skills: reasoning, language, problem solving, and logic. In opposition were those in the behavioral AI camp, led by the roboticist Rodney Brooks at MIT, who believed the symbolic approach was doomed to fail because “we will never understand how to decompose human level intelligence until we’ve had a lot of practice with simpler level intelligences.”
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 730)
+
+---
+
+> The navigational strategies of the Roomba and first bilaterians were not identical. But it may not be a coincidence that the first successful domestic robot contained an intelligence not so unlike the intelligence of the first brains.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 771)
+
+---
+
+> But the market, like evolution, rewards three things above all: things that are cheap, things that work, and things that are simple enough to be discovered in the first place.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 776)
+
+---
+
+> The breakthrough of steering required bilaterians to categorize the world into things to approach (“ good things”) and things to avoid (“ bad things”).
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 782)
+
+---
+
+> When animals categorize stimuli into good and bad, psychologists and neuroscientists say they are imbuing stimuli with valence. Valence is the goodness or badness of a stimulus.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 785)
+
+---
+
+> it seems that the first brains began with sensory neurons that didn’t care to measure objective features of the world and instead cast the entirety of perception through the simple binary lens of valence.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 796)
+
+---
+
+> This requirement of integrating input across sensory modalities was likely one reason why steering required a brain and could not have been implemented in a distributed web of reflexes like those in a coral polyp.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 834)
+
+---
+
+> Steering requires at least four things: a bilateral body plan for turning, valence neurons for detecting and categorizing stimuli into good and bad, a brain for integrating input into a single steering decision, and the ability to modulate valence based on internal states.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 868)
+
+---
+
+> Our internal states are not only imbued with a level of valence, but also a degree of arousal. Blood-boiling fury is not only a bad mood but an aroused bad mood.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 877)
+
+---
+
+> The defining feature of these affective states is that, although often triggered by external stimuli, they persist for long after the stimuli are gone.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 936)
+
+---
+
+> disrupting a worm’s ability to steer toward food or away from predators. These persistent affective states are a trick to overcome this challenge: If I detect a passing sniff of food that quickly fades, it is likely that there is food nearby even if I no longer smell it.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 945)
+
+---
+
+> Two of the most famous neuromodulators are dopamine and serotonin.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 961)
+
+---
+
+> dopamine is released when food is detected around the worm, whereas serotonin is released when food is detected inside the worm. If dopamine is the something-good-is-nearby chemical, then serotonin is the something-good-is-actually-happening chemical. Dopamine drives the hunt for food; serotonin drives the enjoyment of it once it is being eaten.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 979)
+
+---
+
+> What happens when you see something you want, like food when you’re hungry, a sexy mate, the finish line at the end of a race? In all cases, your brain releases a burst of dopamine. What happens when you get something you want, like when you’re orgasming, eating delicious food, or just finishing a task on your to-do list? Your brain releases serotonin.[
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 989)
+
+---
+
+> If you raise dopamine levels in the brain of a rat, they begin impulsively exploiting any nearby reward they can find: gorging on food and trying to mate with whomever they see.[ 14] If instead you raise their serotonin levels, they stop eating and become less impulsive and more willing to delay gratification.[ 15] Serotonin shifts behavior from a focused pursuit of goals to a contented satiety by turning off dopamine responses and by dulling the responses of valence neurons.[
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 992)
+
+---
+
+> Dopamine is not a signal for pleasure itself; it is a signal for the anticipation of future pleasure.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1023)
+
+---
+
+> Berridge proved that dopamine is less about liking things and more about wanting things.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1026)
+
+---
+
+> While dopamine has no impact on liking reactions, serotonin decreases both liking and disliking reactions.[
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1030)
+
+---
+
+> Why would evolution have created brains with such a catastrophic and seemingly ridiculous flaw? The point of brains, as with all evolutionary adaptations, is to improve survival. Why, then, do brains generate such obviously self-destructive behaviors?
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1045)
+
+---
+
+> Adrenaline not only triggers the behavioral repertoire of escape; it also turns off a swath of energy-consuming activities to divert energetic resources to muscles.[
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1056)
+
+---
+
+> Opioids also inhibit negative-valence neurons, which helps an animal recover and rest despite any injuries. This, of course, is why opioids are such potent painkillers across all bilaterians.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1068)
+
+---
+
+> While dopamine had no impact on liking reactions, giving opioids to a rat did, in fact, substantially increase their liking reactions to food. This makes sense given what we now know about the evolutionary origin of opioids. Opioids are the relief-and-recover chemical after experiencing stress: stress hormones turn positive-valence responses off (decreasing liking), but when a stressor is gone, the leftover opioids turn these valence responses back on (increasing liking).
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1083)
+
+---
+
+> This surprising behavior is, in fact, quite clever: spending energy escaping is worth the cost only if the stimulus is in fact escapable. Otherwise, the worm is more likely to survive if it conserves energy by waiting.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1097)
+
+---
+
+> chronic stress differs from acute stress in at least one important way: it turns off arousal and motivation.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1104)
+
+---
+
+> Psychologists call this canonical symptom of depression anhedonia— the lack (an) of pleasure (hedonia).
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1113)
+
+---
+
+> Repeatedly flooding the brain with opioids creates a state of chronic stress when the drug wears off— adaptation is unavoidable. This then traps opioid users in a vicious cycle of relief, adaptation, chronic stress requiring more drugs to get back to baseline, which causes more adaptation and thereby more chronic stress. Evolutionary constraints cast a long shadow on modern humanity.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1122)
+
+---
+
+> The basic template of affect seems to have emerged from two fundamental questions in steering. The first was the arousal question: Do I want to expend energy moving or not? The second was the valence question: Do I want to stay in this location or leave this location?
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1132)
+
+---
+
+> Only much later, after bringing psychologists into his lab, did Pavlov begin to view psychic stimulation not as a confound to be eliminated but as a variable worthy of analysis. Ironically, it was a digestive physiologist with the goal of eliminating psychic stimulation who became the first to understand it.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1165)
+
+---
+
+> Dogs would salivate in response to any stimuli— metronomes, lights, buzzers— that had been previously associated with food.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1168)
+
+---
+
+> The dog had developed a conditional reflex— the reflex to salivate in response to the buzzer was conditional on the prior association between the buzzer and food.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1170)
+
+---
+
+> The defining feature of Pavlov’s conditional reflexes is that they are involuntary associations;
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1178)
+
+---
+
+> The involuntary nature of Pavlov’s conditional reflexes, the fact that associative learning occurs automatically without conscious involvement, was the first clue that learning and memory might be more ancient than previously thought.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1181)
+
+---
+
+> Indeed, Pavlov had unintentionally stumbled on the evolutionary origin of learning itself.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1187)
+
+---
+
+> old associations are primed to reemerge whenever the world provides hints that old contingencies are newly reestablished.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1260)
+
+---
+
+> In machine learning, this is called the credit assignment problem: When something happens, what previous cue do you give credit for predicting it?
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1270)
+
+---
+
+> The first trick used what are called eligibility traces. A slug will associate a tap with a subsequent shock only if the tap occurs one second before the shock.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1274)
+
+---
+
+> The second trick was overshadowing. When animals have multiple predictive cues to use, their brains tend to pick the cues that are the strongest—
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1278)
+
+---
+
+> The third trick was latent inhibition— stimuli that animals regularly experienced in the past are inhibited from making future associations. In other words, frequent stimuli are flagged as irrelevant background noise.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1280)
+
+---
+
+> The fourth and final trick for navigating the credit assignment problem was blocking.[ 13] Once an animal has established an association between a predictive cue and a response, all further cues that overlap with the predictive cue are blocked from association with that response.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1284)
+
+---
+
+> Along with acquisition, extinction, spontaneous recovery, and reacquisition, this portfolio of tricks make up the foundation of the neural mechanisms of associative learning, mechanisms that are embedded deep into the inner workings of neurons, neural circuits, and brains themselves.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1300)
+
+---
+
+> Learning occurs when synapses change their strength or when new synapses are formed or old synapses are removed.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1324)
+
+---
+
+> Hebbian learning is often referred to as the rule that “neurons that fire together wire together.”
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1336)
+
+---
+
+> Learning had humble beginnings. While early bilaterians were the first to learn associations, they were still unable to learn most things. They could not learn to associate events separated by more than a few seconds; they could not learn to predict the exact timing of things; they could not learn to recognize objects; they could not recognize patterns in the world; and they could not learn to recognize locations or directions.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1349)
+
+---
+
+> Learning was not the core function of the first brain; it was merely a feature, a trick to optimize steering decisions. Association, prediction, and learning emerged for tweaking the goodness and badness of things.
+> 
+> **BREAKTHROUGH #1: Steering and the First Bilaterians** (Location 1357)
+
+---
+
+> The discovery of steering in our nematode-like ancestor accelerated the evolutionary arms race of predation. This triggered what is now known as the Cambrian explosion, the most dramatic expansion in the diversity of animal life Earth has ever seen.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1389)
+
+---
+
+> During the Cambrian period, however, animals with brains began their reign over the animal kingdom.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1393)
+
+---
+
+> The brains of invertebrates (nematodes, ants, bees, earthworms) have no recognizably similar structures to the brains of humans.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1406)
+
+---
+
+> But when we peer into the brain of even the most distant vertebrates, such as the jawless lamprey fish— with whom our most recent common ancestor was the first vertebrate over five hundred million years ago— we see a brain that shares not only some of the same structures but most of them.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1408)
+
+---
+
+> If you want a crash course in how the human brain works, learning how the fish brain works will get you half of the way there.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1414)
+
+---
+
+> This results in the six main structures found in all vertebrate brains: the cortex, basal ganglia, thalamus, hypothalamus, midbrain, and hindbrain.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1418)
+
+---
+
+> The first animals gifted us neurons. Then early bilaterians gifted us brains, clustering these neurons into centralized circuits, wiring up the first system for valence, affect, and association. But it was early vertebrates who transformed this simple proto-brain of early bilaterians into a true machine, one with subunits, layers, and processing systems.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1425)
+
+---
+
+> What was most surprising was how much intelligent behavior emerged from something as simple as trial-and-error learning. After enough trials, these animals could effortlessly perform incredibly complex sequences of actions.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1469)
+
+---
+
+> Animals learn by first performing random exploratory actions and then adjusting future actions based on valence outcomes— positive valence reinforces recently performed actions, and negative valence un-reinforces previously performed actions.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1476)
+
+---
+
+> The second breakthrough was reinforcement learning: the ability to learn arbitrary sequences of actions through trial and error.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1508)
+
+---
+
+> Minsky was one of the first to realize that training algorithms the way that Thorndike believed animals learned— by directly reinforcing positive outcomes and punishing negative outcomes— was not going to work.[
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1526)
+
+---
+
+> A game can consist of hundreds of moves. If you win, which moves should get credit for being good? If you lose, which moves should get credit for being bad?
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1531)
+
+---
+
+> Minsky identified the temporal credit assignment problem as far back as 1961, but it was left unsolved for decades. The problem was so severe that it rendered reinforcement learning algorithms impotent to solve real-world problems, let alone play a simple game of checkers.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1552)
+
+---
+
+> Sutton proposed a simple but radical idea. Instead of reinforcing behaviors using actual rewards, what if you reinforced behaviors using predicted rewards?[ 2] Put another way: Instead of rewarding an AI system when it wins, what if you reward it when the AI system thinks it is winning?
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1565)
+
+---
+
+> In fact, if given the choice between a dopamine-releasing lever and eating food, rats will choose the lever. Rats will ignore food and starve themselves in favor of dopamine stimulation.[
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1620)
+
+---
+
+> Dopamine was undeniably related to reinforcement, but how exactly was not so clear. The original interpretation was that dopamine was the brain’s pleasure signal;
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1627)
+
+---
+
+> But we already saw in chapter 3 that dopamine does not produce pleasure. It is less about liking and more about wanting. So then why was dopamine so reinforcing?
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1630)
+
+---
+
+> The dopamine responses that Schultz found in monkeys aligned exactly with Sutton’s temporal difference learning signal.[ 9] Dopamine neurons in Schultz’s monkeys got excited by predictive cues because these cues led to an increase in predicted future rewards (a positive temporal difference); dopamine neurons were unaffected by the delivery of an expected reward because there was no change in predicted future reward (no temporal difference); and dopamine-neuron activity decreased when expected rewards were omitted because there was a decrease in predicted future rewards (a negative temporal difference).
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1654)
+
+---
+
+> Dopamine is not a signal for reward but for reinforcement.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1664)
+
+---
+
+> To solve the temporal credit assignment problem, brains must reinforce behaviors based on changes in predicted future rewards, not actual rewards.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1665)
+
+---
+
+> In early bilaterians, dopamine was a signal for good things nearby— a primitive version of wanting.[ fn3] In the transition to vertebrates, however, this good-things-are-nearby signal was elaborated to not only trigger a state of wanting but also to communicate a precisely computed temporal difference learning signal.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1677)
+
+---
+
+> And so, dopamine was transformed from a good-things-are-nearby signal to a there-is-a-35 percent-chance-of-something-awesome-happening-in-exactly-ten-seconds signal.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1682)
+
+---
+
+> Both disappointment and relief are emergent properties of a brain designed to learn by predicting future rewards.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1687)
+
+---
+
+> How can the absence of something be reinforcing? The answer is that the omission of an expected punishment is itself reinforcing; it is relieving. And the omission of an expected reward is itself punishing; it is disappointing.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1695)
+
+---
+
+> vertebrates are unique in the precision with which they can measure time. A verterbate can remember that one event occurs precisely five seconds after another event.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1712)
+
+---
+
+> For most brain structures, the more one learns about them, the less one understands them— simplified frameworks crumble under the weight of messy complexity, the hallmark of biological systems. But the basal ganglia is different. Its inner wiring reveals a mesmerizing and beautiful design, exposing an orderly computation and function.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1723)
+
+---
+
+> The basal ganglia is thereby in a perpetual state of gating and ungating specific actions, operating as a global puppeteer of an animal’s behavior.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1733)
+
+---
+
+> The basal ganglia learns to repeat actions that maximize dopamine release.[
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1744)
+
+---
+
+> In other words, the hypothalamus is, in principle, just a more sophisticated version of the steering brain of early bilaterians; it reduces external stimuli to good and bad and triggers reflexive responses to each.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1760)
+
+---
+
+> Despite how little effort it takes for you to distinguish the scent of a sunflower from that of a salmon, it is, in fact, a remarkably complicated intellectual feat, one inherited from the first vertebrates.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1806)
+
+---
+
+> Early vertebrates could recognize things using brain structures that decoded patterns of neurons. This dramatically expanded the scope of what animals could perceive. Within the small mosaic of only fifty types of olfactory neurons lived a universe of different patterns that could be recognized. Fifty cells can represent over one hundred trillion patterns.[
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1827)
+
+---
+
+> This was the first problem of pattern recognition, that of discrimination: how to recognize overlapping patterns as distinct.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1836)
+
+---
+
+> This is the second challenge of pattern recognition: how to generalize a previous pattern to recognize novel patterns that are similar but not the same.[
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1843)
+
+---
+
+> Clearly, modern AI systems successfully navigate these two challenges of pattern recognition. How? The standard approach is the following: Create a network of neurons like in figure 7.4 where you provide an input pattern on one side that flows through layers of neurons until they are transformed into an output on the other end of the network. By adjusting the weights of the connections between neurons, you can make the network perform a variety of operations on its input.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1853)
+
+---
+
+> The hard part is teaching the network how to learn the right weights. The state-of-the-art mechanism for doing this was popularized by Geoffrey Hinton, David Rumelhart, and Ronald Williams in the 1980s. Their method is as follows: If you were training a neural network to categorize smell patterns into egg smells or flower smells, you would show it a bunch of smell patterns and simultaneously tell the network whether each pattern is from an egg or a flower (as measured by the activation of a specific neuron at the end of the network). In other words, you tell the network the correct answer. You then compare the actual output with the desired output and nudge the weights across the entire network in the direction that makes the actual output closer to the desired output.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1861)
+
+---
+
+> They called this learning mechanism backpropagation: they propagate the error at the end back throughout the entire network, calculate the exact error contribution of each synapse, and nudge that synapse accordingly.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1868)
+
+---
+
+> The above type of learning, in which a network is trained by providing examples alongside the correct answer, is called supervised learning
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1870)
+
+---
+
+> But even one of the inventors of backpropagation, Geoffrey Hinton, realized that his creation, although effective, was a poor model of how the brain actually works. First, the brain does not do supervised learning— you are not given labeled data when you learn that one smell is an egg and another is a strawberry. Even before children learn the words egg and strawberry, they can clearly recognize that they are different. Second, backpropagation is biologically implausible. Backpropagation works by magically nudging millions of synapses simultaneously and in exactly the right amount to move the output of the network in the right direction. There is no conceivable way the brain could do this. So then how does the brain recognize patterns?
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1874)
+
+---
+
+> This network of olfactory input to the cortex has two interesting properties. First, there is a large dimensionality expansion— a small number of olfactory neurons connect to a much larger number of cortical neurons. Second, they connected sparsely; a given olfactory cell will connect to only a subset of these cortical cells. These two seemingly innocuous features of wiring may solve the discrimination problem.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1888)
+
+---
+
+> Using figure 7.6 you can intuit why expansion and sparsity achieve this. Even though the predator-smell and food-smell patterns are overlapping, the cortical neurons that get input from all the activated neurons will be different. As such, the pattern that gets activated in the cortex will be different despite the fact that the input is overlapping. This operation is sometimes called pattern separation, decorrelation, or orthogonalization.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1893)
+
+---
+
+> The next time a pattern shows up, even if it is incomplete, the full pattern can be reactivated in the cortex. This trick is called auto-association; neurons in the cortex automatically learn associations with themselves. This offers a solution to the generalization problem— the cortex can recognize a pattern that is similar but not the same.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1900)
+
+---
+
+> Auto-association reveals an important way in which vertebrate memory differs from computer memory. Auto-association suggests that vertebrate brains use content-addressable memory— memories are recalled by providing subsets of the original experience, which reactivate the original pattern. If I tell you the beginning of a story you’ve heard before, you can recall the rest; if I show you half a picture of your car, you can draw the rest. However, computers use register-addressable memory— memories that can be recalled only if you have the unique memory address for them. If you lose the address, you lose the memory.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1903)
+
+---
+
+> Auto-associative memory does not have this challenge of losing memory addresses, but it does struggle with a different form of forgetfulness. Register-addressable memory enables computers to segregate where information is stored, ensuring that new information does not overwrite old information. In contrast, auto-associative information is stored in a shared population of neurons, which exposes it to the risk of accidentally overwriting old memories.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1907)
+
+---
+
+> But then they noticed a problem. After they taught the network to add twos, it forgot how to add ones. When they propagated errors back through the network and updated the weights to teach it to add twos, the network had simply overridden the memories of how to add ones. It successfully learned the new task at the expense of the previous task.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1919)
+
+---
+
+> when you train a neural network to recognize a new pattern or perform a new task, you risk interfering with the network’s previously learned patterns.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1923)
+
+---
+
+> How do modern AI systems overcome this problem? Well, they don’t yet. Programmers merely avoid the problem by freezing their AI systems after they are trained. We don’t let AI systems learn things sequentially; they learn things all at once and then stop learning.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1924)
+
+---
+
+> It is only when knowledge is represented in a pattern of neurons, like in artificial neural networks or in the cortex of vertebrates, that learning new things risks interfering with the memory of old things.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1938)
+
+---
+
+> The same visual object can activate different patterns depending on its rotation, distance, or location in your visual field. This creates what is called the invariance problem: how to recognize a pattern as the same despite large variances in its inputs.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1975)
+
+---
+
+> The auto-associative networks we described cannot identify an object you have never seen before from completely different angles. An auto-associative network would treat these as different objects because the input neurons are completely different.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 1978)
+
+---
+
+> In the late 1970s, well over twenty years after Hubel and Wiesel’s initial work, a computer scientist by the name of Kunihiko Fukushima was trying to get computers to recognize objects in pictures. Despite his best attempts, he couldn’t get standard neural networks, like those depicted earlier in the chapter, to successfully do it;
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2002)
+
+---
+
+> His architecture departed from the standard approach of taking a picture and throwing it into a fully connected neural network. His architecture first decomposed input pictures into multiple feature maps, like V1 seemed to do.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2014)
+
+---
+
+> This process is called a convolution, hence the name applied to the type of network that Fukushima had invented: convolutional neural networks.[
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2017)
+
+---
+
+> Despite being inspired by the brain, convolutional neural networks (CNNs) are, in fact, a poor approximation of how brains recognize visual patterns.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2031)
+
+---
+
+> Indeed, while CNNs may not capture exactly how the brain works, they reveal the power of a good inductive bias. In pattern recognition, it is good assumptions that make learning fast and efficient.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2054)
+
+---
+
+> In the predatory arms race of the Cambrian, evolution shifted from arming animals with new sensory neurons for detecting specific things to arming animals with general mechanisms for recognizing anything.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2058)
+
+---
+
+> The elaboration of pattern recognition and sensory organs, in turn, also found themselves in a feedback loop with reinforcement learning itself. It is also not a coincidence that pattern recognition and reinforcement learning evolved simultaneously in evolution. The greater the brain’s ability to learn arbitrary actions in response to things in the world, the greater the benefit to be gained from recognizing more things in the world.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2066)
+
+---
+
+> And yet there was one Atari game that was perplexingly out of reach: Montezuma’s Revenge.[
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2077)
+
+---
+
+> It wasn’t until 2018 when an algorithm was developed that finally completed level one of Montezuma’s Revenge. This new algorithm, developed by Google’s DeepMind, accomplished this feat by adding something familiar that was missing from Sutton’s original TD learning algorithm: curiosity.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2082)
+
+---
+
+> a problem with any reinforcement learning system is something called the exploitation-exploration dilemma. For trial-and-error learning to work, agents need to, well, have lots of trials from which to learn. This means that reinforcement learning can’t work by just exploiting behaviors they predict lead to rewards; it must also explore new behaviors.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2084)
+
+---
+
+> reinforcement learning requires two opponent processes— one for behaviors that were previously reinforced (exploitation) and the other for behaviors that are new (exploration).
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2087)
+
+---
+
+> In early TD learning algorithms, this trade-off was implemented in a crude way: these AI systems spontaneously— say, 5 percent of the time— did something totally random. This worked okay if you were playing a constrained game with only so many next moves, but it worked terribly in a game like Montezuma’s Revenge, where there were practically an infinite number of directions and places you could go.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2089)
+
+---
+
+> There is an alternative approach to tackling the exploitation-exploration dilemma, one that is both beautifully simple and refreshingly familiar. The approach is to make AI systems explicitly curious, to reward them for exploring new places and doing new things, to make surprise itself reinforcing. The greater the novelty, the larger the compulsion to explore it.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2092)
+
+---
+
+> They were motivated on their own. Simply finding their way to a new room was valuable in and of itself. Armed with curiosity, suddenly these models started making progress, and they eventually beat level one.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2099)
+
+---
+
+> B. F. Skinner was the first to realize that rats will gamble. The best way to get a rat to obsessively push a lever for food is not to have the lever release food pellets every time it is pressed; instead, it is to have the lever randomly release food pellets.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2109)
+
+---
+
+> One explanation for this is that vertebrates get an extra boost of reinforcement when something is surprising.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2115)
+
+---
+
+> Here’s another test you can do on yourself: Sit in one of those swivel chairs, close your eyes, ask someone to turn the chair, and then guess what direction of the room you are facing before opening your eyes. You will be amazingly accurate. How did your brain do this?
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2165)
+
+---
+
+> The fluid in each of these canals moves only when you move in that specific dimension. Thus, the ensemble of activated sensory cells signal the direction of head movement. This creates a unique sense— the vestibular sense.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2169)
+
+---
+
+> The vestibular sense is a necessary feature of building a spatial map. An animal needs to be able to tell the difference between something swimming toward it and it swimming toward something.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2178)
+
+---
+
+> The medial cortex is the part of cortex that later became the hippocampus in mammals. If you record neurons in the hippocampus of fish as they navigate around, you will find some neurons that activate only when the fish are at a specific location in space, others only when the fish are at a border of a tank, and others only when the fish are facing specific directions.[
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2195)
+
+---
+
+> Visual, vestibular, and head-direction signals propagate to the medial cortex, where they are all mixed together and converted into a spatial map.[
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2198)
+
+---
+
+> Reinforcement learning in early vertebrates was possible only because the mechanisms of valence and associative learning had already evolved in early bilaterians. Reinforcement learning is bootstrapped on simpler valence signals of good and bad.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2232)
+
+---
+
+> Without steering, there is no starting point for trial and error, no foundation on which to measure what to reinforce or un-reinforce.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2234)
+
+---
+
+> It was early mammals who first figured out how to engage in a different flavor of trial and error: learning not by doing but by imagining.
+> 
+> **BREAKTHROUGH #2: Reinforcing and the First Vertebrates** (Location 2239)
+
+---
+
+> One and a half billion years ago, the explosion of cyanobacteria suffocated the Earth with carbon dioxide and polluted it with oxygen. Over a billion years later, the explosion of plants on land seems to have committed a similar crime.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2267)
+
+---
+
+> The inland march of plants was too rapid for evolution to accommodate and rebalance carbon dioxide levels through the expansion of more CO2-producing animals. Carbon dioxide levels plummeted, which caused the climate to cool. The oceans froze over and gradually became inhospitable to life. This was the Late Devonian Extinction,[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2268)
+
+---
+
+> Living on land presented unique challenges to the amniotes that their fish cousins never faced. One such challenge was temperature fluctuations. Cycles of the day and season create only muted temperature changes deep in the oceans. In contrast, temperatures can fluctuate dramatically on the surface.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2289)
+
+---
+
+> The therapsids differed from reptiles at the time in one important way: they developed warm-bloodedness. Therapsids were the first vertebrates to evolve the ability to use energy to generate their own internal heat.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2297)
+
+---
+
+> They would require far more food to survive, but in return they had the ability to hunt at any time, including the cold nights when their reptile cousins lay immobile—
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2299)
+
+---
+
+> During a period of reduced access to food, the therapsids, with their need for huge amounts of calories, died first. The reptiles and their comparatively scant diets were much better suited to weather this storm.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2310)
+
+---
+
+> From the end of this extinction event and for the next one hundred fifty million years, reptiles would rule.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2320)
+
+---
+
+> Equipped with warm-bloodedness and miniaturization, they survived by hiding in burrows during the day and emerging during the cold night when archosaurs were relatively blind and immobile.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2324)
+
+---
+
+> They became the first mammals.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2327)
+
+---
+
+> But the burrowing and arboreal lifestyle did indeed give early mammals a singular advantage: they got to make the first move.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2335)
+
+---
+
+> hundreds of millions of years. But eventually a neural innovation emerged to exploit it: a region of the cortex transformed, through a currently unknown series of events, into a new region called the neocortex
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2337)
+
+---
+
+> The neocortex gave this small mouse a superpower— the ability to simulate actions before they occurred.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2339)
+
+---
+
+> If the reinforcement-learning early vertebrates got the power of learning by doing, then early mammals got the even more impressive power of learning before doing— of learning by imagining.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2342)
+
+---
+
+> It has been speculated that there were two requirements for simulating to evolve. First, you need far-ranging vision— you need to be able to see a lot of your surroundings in order for simulating paths to be fruitful.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2345)
+
+---
+
+> The second speculated requirement is warm-bloodedness. For reasons we will see in the next few chapters, simulating actions is astronomically more computationally expensive and time-consuming than the reinforcement-learning mechanisms in the cortex-basal-ganglia system.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2349)
+
+---
+
+> a side effect of warm-bloodedness was that mammal brains could operate much faster than fish or reptile brains.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2352)
+
+---
+
+> The only nonmammals that have shown evidence of the ability to simulate actions and plan are birds.[ 5] And birds are, conspicuously, the only nonmammal species alive today that independently evolved warm-bloodedness.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2354)
+
+---
+
+> From the early vertebrates to the first tetrapods to reptiles and therapsids, brains were largely stuck in a neural dark age. Evolution settled for, or at least was resigned to, the reinforcement-learning brain of the early vertebrates,
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2359)
+
+---
+
+> It was only in early mammals that a spark of innovation emerged from the eternity of neural stagnation.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2364)
+
+---
+
+> Other than the emergence of the neocortex, the brain of early mammals was largely the same as that of early vertebrates.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2372)
+
+---
+
+> In the human brain, the neocortex takes up 70 percent of brain volume.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2382)
+
+---
+
+> there were many connections vertically within a column and comparatively fewer connections between columns.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2415)
+
+---
+
+> These three facts— vertically aligned activity, vertically aligned connectivity, and observed similarity between all areas of neocortex— led Mountcastle to a remarkable conclusion: the neocortex was made up of a repeating and duplicated microcircuit, what he called the neocortical column. The cortical sheet was just a bunch of neocortical columns packed densely together.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2419)
+
+---
+
+> According to Mountcastle, the neocortex does not do different things; each neocortical column does exactly the same thing. The only difference between regions of neocortex is the input they receive and where they send their output; the actual computations of the neocortex itself are identical. The only difference between, for example, the visual cortex and the auditory cortex is that the visual cortex gets input from the retina, and the auditory cortex gets input from the ear.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2422)
+
+---
+
+> The auditory and visual cortices are interchangeable.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2434)
+
+---
+
+> if you record the activity of neurons in the visual cortex of congenitally blind humans, you find that the visual cortex has not been rendered a functionally useless region. Instead, it becomes responsive to a multitude of other sensory input, such as sounds and touch. This puts meat on the bone of the idea that people who are blind do, in fact, have superior hearing—
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2436)
+
+---
+
+> To those in the AI community, Mountcastle’s hypothesis is a scientific gift like no other.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2443)
+
+---
+
+> Instead of understanding the trillions of connections in the entire neocortex, perhaps we only have to understand the million or so connections within the neocortical column.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2448)
+
+---
+
+> if Mountcastle’s theory is correct, it suggests that the neocortical column implements some algorithm that is so general and universal that it can be applied to extremely diverse functions such as movement, language, and perception across every sensory modality.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2449)
+
+---
+
+> The neocortex contains six layers of neurons
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2452)
+
+---
+
+> It is not just a soup of randomly connected neurons; the microcircuit is prewired in a specific way to perform some specific computation.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2455)
+
+---
+
+> The first thing that became clear to these nineteenth-century scientists was that the human mind automatically and unconsciously fills in missing things.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2464)
+
+---
+
+> What is interesting about all these ambiguous pictures is that your brain can see only one interpretation at a time. You cannot see a duck and a rabbit simultaneously, even though the sensory evidence is equally suggestive of both. The mechanisms of perception in the brain, for some reason, require it to pick only one.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2483)
+
+---
+
+> This is what might be called the can’t-unsee property of perception. Your mind likes to have an interpretation that explains sensory input. Once I give you a good explanation, your mind sticks to it. You now perceive a frog.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2494)
+
+---
+
+> a process Helmholtz called inference. Put another way: you don’t perceive what you actually see, you perceive a simulated reality that you have inferred from what you see.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2501)
+
+---
+
+> In 1995, Hinton and Dayan came up with a proof of concept for Helmholtz’s idea of perception by inference; they named it the Helmholtz machine.[ 7] The Helmholtz machine was, in principle, similar to other neural networks; it received inputs that flowed from one end to the other. But unlike other neural networks, it also had backward connections that flowed the opposite way— from the end to the beginning.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2520)
+
+---
+
+> Hinton designed this network to learn with two separate modes: recognition mode and generative mode. When in recognition mode, information flows up the network (starting from an input picture of a 7 to some neurons at the top), and the backward weights are nudged to make the neurons activated at the top of the network better reproduce the input sensory data (make a good simulated 7).
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2529)
+
+---
+
+> when in generative mode, information flows down the network (starting from the goal to produce an imagined picture of a 7), and the forward weights are nudged so that the neurons activated at the bottom of the network are correctly recognized at the top
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2531)
+
+---
+
+> There are three attributes of this network that are groundbreaking. First, the top of this network now reliably “recognizes” imperfectly handwritten letters without any supervision. Second, it generalizes impressively well; it can tell that two differently handwritten pictures of 7s are both a 7— they will activate a similar set of neurons at the top of the network. And third, and most important, this network can now generate novel pictures of handwritten numbers.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2544)
+
+---
+
+> Most modern generative models are more complicated than the Helmholtz machine, but they share the essential property that they learn to recognize things in the world by generating their own data and comparing the generated data to the actual data.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2552)
+
+---
+
+> It turns out that there is, in fact, an abundance of evidence that the neocortical microcircuit is implementing such a generative model.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2573)
+
+---
+
+> Indeed, the neocortex as a generative model explains more than just visual illusions— it also explains why humans succumb to hallucinations, why we dream and sleep, and even the inner workings of imagination itself.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2580)
+
+---
+
+> You would think that when someone’s eyes are disconnected from their brain, they would no longer see. But the opposite happens— for several months after going blind, people start seeing a lot. They begin to hallucinate. This phenomenon is consistent with a generative model: cutting off sensory input to the neocortex makes it unstable. It gets stuck in a drifting generative process in which visual scenes are simulated without being constrained to actual sensory input— thus you hallucinate.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2584)
+
+---
+
+> Generative models may also explain why we dream and why we need sleep. Most animals sleep, and it has numerous benefits, such as saving energy; but only mammals and birds show unequivocal evidence of dreaming as measured by the presence of REM sleep.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2594)
+
+---
+
+> And it is only mammals and birds who exhibit hallucinations and disordered perception if deprived of sleep.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2596)
+
+---
+
+> The neocortex (and presumably the bird equivalent) is always in an unstable balance between recognition and generation, and during our waking life, humans spend an unbalanced amount of time recognizing and comparatively less time generating. Perhaps dreams are a counterbalance to this, a way to stabilize the generative model through a process of forced generation.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2597)
+
+---
+
+> If we are deprived of sleep, this imbalance of too much recognition and not enough generation eventually becomes so severe that the generative model in the neocortex becomes unstable.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2600)
+
+---
+
+> Recognition step was when the model was “awake”; the generation step was when the model was “asleep.”
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2603)
+
+---
+
+> The most obvious feature of imagination is that you cannot imagine things and recognize things simultaneously.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2607)
+
+---
+
+> In fact, you can tell when someone is imagining something by looking at that person’s pupils— when people are imagining things, their pupils dilate as their brains stop processing actual visual data.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2609)
+
+---
+
+> Further, if you record neocortical neurons that become active during recognition (say, neurons that respond to faces or houses), those exact same neurons become active when you simply imagine the same thing.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2612)
+
+---
+
+> One way to think about the generative model in the neocortex is that it renders a simulation of your environment so that it can predict things before they happen. The neocortex is continuously comparing the actual sensory data with the data predicted by its simulation.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2625)
+
+---
+
+> This is why the neocortex looks the same everywhere. Different subregions of neocortex simulate different aspects of the external world based on the input they receive. Put all these neocortical columns together, and they make a symphony of simulations that render a rich three-dimensional world filled with objects that can be seen, touched, and heard.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2641)
+
+---
+
+> How the neocortex does this is still a mystery.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2643)
+
+---
+
+> One of the reasons why the neocortex is so good at what it does may be that, in some ways, it is far less general than our current artificial neural networks. The neocortex may make explicit narrow assumptions about the world, and it may be exactly these assumptions that enable it to be so general.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2647)
+
+---
+
+> This is also why generative models are said to try to explain their input— your neocortex attempts to render a state of the world that could produce the picture that you are seeing
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2656)
+
+---
+
+> What they do have is an ability to learn powerful “world models” that allow them to predict the consequences of their actions and to search for and plan actions to achieve a goal. The ability to learn such world models is what’s missing from AI systems today.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2664)
+
+---
+
+> It is when the simulation in your neocortex becomes decoupled from the real external world around you— when it imagines things that are not there— that its power becomes most evident.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2673)
+
+---
+
+> Instead, the first neocortex gifted early mammals something more foundational: the ability to imagine the world as it is not.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2685)
+
+---
+
+> How groundbreaking this was cannot be overstated— neuroscientists were peering directly into the brain of a rat, and directly observing the rat considering alternative futures. Tolman was right: the head toggling behavior he observed was indeed rats planning their future actions.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2728)
+
+---
+
+> Both rats and fish will initially run up to the transparent barrier to try and get food. But rats are much better at figuring out how to navigate around a barrier.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2748)
+
+---
+
+> This reveals one of the benefits of vicarious trial and error: once a rat has a world model of their environment, they can rapidly mentally explore it until they find a way to get around obstacles to get what they want.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2751)
+
+---
+
+> The type of reinforcement learning we saw in early vertebrates has a flaw: It can only reinforce the specific action actually taken. The problem with this strategy is that the paths that were actually taken are a small subset of all the possible paths that could have been taken. What are the chances that an animal’s first attempt picked the best path?
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2768)
+
+---
+
+> What fish are missing is the ability to learn from counterfactuals. A counterfactual is what the world would be now if you had made a different choice in the past.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2773)
+
+---
+
+> When rats chose to forgo quick access to a banana treat to try the cherry door and the next tone signaled a long wait of forty-five seconds, rats showed all the signs of regretting their choice. They paused and looked back toward the corridor that they had passed and could no longer go back to.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2787)
+
+---
+
+> The perception of causation may be intricately tied to the notion of counterfactual learning. What we mean when we say “X caused Y” is that in the counterfactual case where X did not occur, then Y did not occur either.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2801)
+
+---
+
+> Counterfactual learning represented a major advancement in how ancestral brains solved the credit assignment problem.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2808)
+
+---
+
+> Causation itself may live more in psychology than in physics. There is no experiment that can definitively prove the presence of causality; it is entirely immeasurable. Controlled experiments we run may suggest causation, but they always fall short of proof because you can, in fact, never run a perfectly controlled experiment. Causation, even if real, is always empirically out of reach. In fact, modern experiments in the field of quantum mechanics suggest that causation may not even exist, at least not everywhere.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2816)
+
+---
+
+> Causation is constructed by our brains to enable us to learn vicariously from alternative past choices.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2822)
+
+---
+
+> This form of memory, in which we recall specific past episodes of our lives, is called “episodic memory.” This is distinct from, say, procedural memory, where we remember how to do various movements, such as speaking, typing, or throwing a baseball.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2836)
+
+---
+
+> When imagining future events, you are simulating a future reality; when remembering past events, you are simulating a past reality. Both are simulations.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2839)
+
+---
+
+> studies show that repeatedly imagining a past event that did not occur falsely increases a person’s confidence that the event did occur.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2852)
+
+---
+
+> In mammal brains, episodic memory emerges from a partnership between the older hippocampus and the newer neocortex. The hippocampus can quickly learn patterns, but cannot render a simulation of the world; the neocortex can simulate detailed aspects of the world, but cannot learn new patterns quickly.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2863)
+
+---
+
+> This is why the hippocampus is necessary for creating new memories, but not for retrieving old ones; the neocortex can retrieve memories on its own after a sufficient amount of replay.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2873)
+
+---
+
+> All this simulating of futures and pasts has a larger analog in machine learning. The type of reinforcement learning— temporal difference learning— that we saw with breakthrough #2 is a form of model-free reinforcement learning. In this type of reinforcement learning, AI systems learn by making direct associations between stimuli, actions, and rewards. These systems are called “model-free” because they do not require a model to play out possible future actions before making a decision. While this makes TD learning systems efficient, it also makes them less flexible.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2875)
+
+---
+
+> There is another category of reinforcement learning called model-based reinforcement learning. These systems must learn something more complicated: a model of how their actions affect the world. Once such a model is constructed, these systems then play out sequences of possible actions before making choices. These systems are more flexible but are burdened with the difficult task of building and exploring an inner world model when making decisions.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2879)
+
+---
+
+> Most of the reinforcement learning models employed in modern technology are model-free.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2882)
+
+---
+
+> Model-based reinforcement learning has proven to be more difficult to implement for two reasons. First, building a model of the world is hard—
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2886)
+
+---
+
+> The second reason model-based reinforcement learning is hard is that choosing what to simulate is hard. In the same paper that Marvin Minsky identified the temporal credit assignment problem as an impediment to artificial intelligence, he also identified what he called the “search problem”: In most real-world situations, it is impossible to search through all possible options. Consider chess. Building a world model of the game of chess is relatively trivial (the rules are deterministic, you know all the pieces, all their moves, and all the squares of the board). But in chess, you cannot search through all the possible future moves; the tree of possibilities in chess has more branching paths than there are atoms in the universe. So the problem is not just constructing an inner model of the external world but also figuring out how to explore it.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2889)
+
+---
+
+> While model-free approaches like temporal difference learning can do well in backgammon and certain video games, they do not perform well in more complex games like chess.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2900)
+
+---
+
+> The key difference was that AlphaZero simulated future possibilities. Like TD-Gammon, AlphaZero was a reinforcement learning system— its strategies were not programmed into it with expert rules but learned through trial and error. But unlike TD-Gammon, AlphaZero was a model-based reinforcement learning algorithm; AlphaZero searched through possible future moves before deciding what to do next.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2908)
+
+---
+
+> It didn’t simulate the trillions of possible futures; it simulated only a thousand futures. In other words, it prioritized.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2921)
+
+---
+
+> the search strategy used by AlphaZero was different and offered unique insight into how real brains might work.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2923)
+
+---
+
+> Instead of picking the single move its actor believed was the best next move, it picked multiple top moves that its actor believed were the best. Instead of just assuming its actor was correct (which it would not always be), AlphaZero used search to verify the actor’s hunches.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2926)
+
+---
+
+> It used search not to logically consider all future possibilities (something that is impossible in most situations) but to simply verify and expand on the hunches that an actor-critic system was already producing.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2932)
+
+---
+
+> The neocortex of all mammals can be separated into two halves. The back half is the sensory neocortex, containing visual, auditory, and somatosensory areas.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2967)
+
+---
+
+> It seems that in early mammals, the sensory neocortex was where simulations were rendered, and the frontal neocortex was where simulations were controlled— it is the frontal neocortex that decided when and what to imagine.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 2988)
+
+---
+
+> In other words, the aPFC learns to model the animal itself, inferring the intent of behavior it observes, and uses this intent to predict what the animal will do next.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3019)
+
+---
+
+> What is the evolutionary usefulness of this model of self in the frontal cortex? Why try to “explain” one’s own behavior by constructing “intent”? It turns out, this might be how mammals choose when to simulate things and how to select what to simulate. Explaining one’s own behavior might solve the search problem.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3030)
+
+---
+
+> The degree of disagreement of predictions is a measure of uncertainty. This is, in principle, how many state-of-the-art machine learning models measure uncertainty: An ensemble of different models makes predictions, and the more divergent such predictions, the more uncertainty there is reported to be.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3046)
+
+---
+
+> If events are unfolding as one would expect, there is no reason to waste time and energy simulating options, and it is easier just to let the basal ganglia drive decisions (model-free learning), but when uncertainty emerges (something new appears, some contingency is broken, or costs are close to the benefits), then simulation is triggered.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3055)
+
+---
+
+> We saw how AlphaZero solved this problem: It played out the top moves it was already predicting were the best.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3060)
+
+---
+
+> And specifically when rats engage in this vicarious trial and error behavior, the activity in the aPFC and the sensory cortex become uniquely synchronized.[ 24] One speculation is that the aPFC is triggering the sensory neocortex to render a specific simulation of the world. The aPFC first asks, “What happens if we go to the left?” The sensory neocortex then renders a simulation of turning left, which then passes back to the aPFC. The aPFC then says, “Okay, and then what happens if we keep going forward?” which the sensory neocortex renders again, and so on and so forth all the way to the imagined goal modeled in the aPFC.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3069)
+
+---
+
+> Alternatively, it could be the basal ganglia that determines the actions taken during these simulations. This would be even closer to how AlphaZero worked— it selected simulated actions based on the actions its model-free actor predicted were best. In this case, it would be the aPFC that selects which of the divergent action predictions of the basal ganglia to simulate, but the basal ganglia would continue to decide which actions it wants to take in the imagined world rendered by the sensory neocortex.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3074)
+
+---
+
+> The emergent effect of all this is that the aPFC vicariously trained the basal ganglia that left was the better option. The basal ganglia doesn’t know whether the sensory neocortex is simulating the current world or an imagined world. All the basal ganglia knows is that when it turned left, it got reinforced.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3086)
+
+---
+
+> Some rats became what he called “insensitive to devaluation.” The difference, he found, was merely a consequence of how many times the rats had pushed the lever to get a reward. Rats that had done the task one hundred times did the smart thing— they no longer wanted to push the lever once the food was devalued.[ 27] But rats that had done the task five hundred times ran up to the lever and just started pushing it like crazy, even if the food was devalued.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3106)
+
+---
+
+> Dickinson had discovered habits. By engaging in the behavior five hundred times, rats had developed an automated motor response that was triggered by a sensory cue and completely detached from the higher-level goal of the behavior.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3111)
+
+---
+
+> The duality between model-based and model-free decision-making methods shows up in different forms across different fields. In AI, the terms model-based and model-free are used. In animal psychology, this same duality is described as goal-driven behavior and habitual behavior. And in behavioral economics, as in Daniel Kahneman’s famous book Thinking, Fast and Slow, this same duality is described as “system 2” (thinking slow) versus “system 1” (thinking fast).
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3122)
+
+---
+
+> Just as the explanations of sensory information are not real (i.e., you don’t perceive what you see), so intent is not real; rather, it is a computational trick for making predictions about what an animal will do next. This is important: The basal ganglia has no intent or goals. A model-free reinforcement learning system like the basal ganglia is intent-free; it is a system that simply learns to repeat behaviors that have previously been reinforced.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3131)
+
+---
+
+> This is one reason why model-free reinforcement learning systems are painfully hard to interpret— when we ask, “Why did the AI system do that?,” we are asking a question to which there is really no answer. Or at least, the answer will always be the same: because it thought that was the choice with the most predicted reward.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3137)
+
+---
+
+> In contrast, the aPFC does have explicit goals— it wants to go to the fridge to eat strawberries or go to the water fountain to drink water.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3139)
+
+---
+
+> The sensory cortex engages in passive inference— merely explaining and predicting sensory input. The aPFC engages in active inference— explaining one’s own behavior and then using its predictions to actively change that behavior. By pausing to play out what the aPFC predicts will happen and thereby vicariously training the basal ganglia, the aPFC is repurposing the neocortical generative model for prediction to create volition.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3146)
+
+---
+
+> In a typical neuroscience textbook, the four functions ascribed to the frontal neocortex are attention, working memory, executive control, and, as we have already seen, planning. The connecting theme of these functions has always been confusing; it seems odd that one structure would subserve all these distinct roles. But through the lens of evolution, it makes sense that these functions are all intimately related— they are all different applications of controlling the neocortical simulation.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3175)
+
+---
+
+> The aPFC’s triggering of simulation is called imagination when it is unconstrained by current sensory input and attention when it is constrained by current sensory input. But in both cases, the aPFC is, in principle, doing the same thing.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3184)
+
+---
+
+> What is the point of attention? When a mouse selects an action sequence after its imagined simulation, it must stick to its plan as it runs down its path. This is harder than it sounds.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3186)
+
+---
+
+> In addition to planning, attention, and working memory, the aPFC can also control ongoing behavior more directly: It can inhibit the amygdala.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3200)
+
+---
+
+> In moments of willpower, you can inhibit your amygdala-driven cravings. In moments of weakness, the amygdala wins. This is why people become more impulsive when tired or stressed— the aPFC is energetically expensive to run, so if you are tired or stressed, the aPFC will be much less effective at inhibiting the amygdala.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3204)
+
+---
+
+> To summarize: Planning, attention, and working memory are all controlled by the aPFC because all three are, in principle, the same thing. They are all different manifestations of brains trying to select what simulation to render.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3207)
+
+---
+
+> The motor cortex is a thin band of neocortex on the edge of the frontal cortex. Motor cortex makes up a map of the entire body, with each area controlling movements of specific muscles.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3229)
+
+---
+
+> All this leads to the conclusion that the motor cortex is the locus of motor commands; it is the controller of movement.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3241)
+
+---
+
+> But there are three problems with this idea. First, the neocortical columns in the motor cortex have the same microcircuitry as other areas of the neocortex.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3242)
+
+---
+
+> Second, some mammals don’t have a motor cortex, and they can clearly move around normally.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3245)
+
+---
+
+> The third problem with the “motor cortex equals motor commands” idea is that the paralysis caused by motor cortex damage is unique to primates; most mammals with motor cortex damage do not suffer from such paralysis.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3252)
+
+---
+
+> So why did the motor cortex evolve? What was its original function? What changed with primates?
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3256)
+
+---
+
+> While the prevailing view has always been that the motor cortex generates motor commands, telling muscles exactly what to do, Friston flips this idea on its head: Perhaps the motor cortex doesn’t generate motor commands but rather motor predictions.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3259)
+
+---
+
+> This suggests that the motor cortex was originally not the locus of motor commands but of motor planning. When an animal must perform careful movements— placing a paw on a small platform or stepping over an out-of-sight obstacle— it must mentally plan and simulate its body movements ahead of time. This explains why the motor cortex is necessary for learning new complex movements but not for executing well-learned ones.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3278)
+
+---
+
+> In humans there is plenty of evidence that the premotor and motor cortices are activated both by doing movements and by imagining movements: For example, have someone think about walking, and the leg area of the motor cortex becomes activated.[
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3291)
+
+---
+
+> The frontal neocortex of early placental mammals was organized into a hierarchy. At the top of the hierarchy was the agranular prefrontal cortex, where high-level goals are constructed based on amygdala and hypothalamus activation.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3311)
+
+---
+
+> The aPFC doesn’t have to worry about the specific movements necessary to achieve its goals; it must worry only about high-level navigational paths.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3319)
+
+---
+
+> The leading view among neuroscientists is that these are subsystems designed to manage different levels of the motor hierarchy. The front part of the basal ganglia automatically associates stimuli with high-level goals. It is what generates cravings: You come home and smell rigatoni, and suddenly you are on a mission to eat some.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3325)
+
+---
+
+> There is also plenty of evidence for the idea that the frontal neocortex is the locus of simulation, while the basal ganglia is the locus of automation.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3352)
+
+---
+
+> The secret to dishwashing robots lives somewhere in the motor cortex and the broader motor system of mammals. Just as we do not yet understand how the neocortical microcircuit renders an accurate simulation of sensory input, we also do not yet understand how the motor cortex simulates and plans fine body movements with such flexibility and accuracy and how it continuously learns as it goes.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3367)
+
+---
+
+> Our mammalian ancestors from a hundred million years ago weaponized the imaginarium to survive. They engaged in vicarious trial and error, counterfactual learning, and episodic memory to outplan dinosaurs.
+> 
+> **BREAKTHROUGH #3: Simulating and the First Mammals** (Location 3396)
+
+---
+
+> Many of the other extinction events in the history of Earth seem to have been self-imposed— the Great Oxygenation Event was caused by cyanobacteria, and the Late Devonian Extinction was possibly caused by overproliferation of plants on land. But this one was not a fault of life but a fluke of an ambivalent universe.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3429)
+
+---
+
+> Indeed, why primates have such big brains— and specifically such large neocortices— is a question that has perplexed scientists since the days of Darwin.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3447)
+
+---
+
+> They argued that these primates had stable mini-societies: Groups of individuals that stuck together for long periods. Scientists hypothesized that to maintain these uniquely large social groups, these individuals needed unique cognitive abilities. This created pressure, they argued, for bigger brains.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3452)
+
+---
+
+> These early mammals uniquely gave birth to helpless children. This dynamic would have been tenable only if mothers built a strong bond to help, nurture, and physically protect their children.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3467)
+
+---
+
+> However, group living is not a freely gained survival benefit— it comes at a high cost. In the presence of food constraints or limited numbers of eligible mates, a herd of animals creates dangerous competition.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3478)
+
+---
+
+> Thus, animals who fell into the strategy of group living evolved tools to resolve disputes while minimizing the energetic cost of such disputes. This led to the development of mechanisms to signal strength and submission without having to actually engage in a physical altercation.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3482)
+
+---
+
+> How is the hierarchy decided in these social groups? It’s simple— the strongest, biggest, and toughest become dominant. The locking of horns and baring of teeth are all designed to demonstrate who would win in a fight while avoiding the fight itself.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3503)
+
+---
+
+> Since Menzel’s work, numerous other experiments have similarly found that apes can, in fact, understand the intentions of others.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3536)
+
+---
+
+> While there is meaningful evidence that many primates (especially apes) have this ability, the evidence in other animals is less clear.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3556)
+
+---
+
+> This act of inferring someone’s intent and knowledge is called “theory of mind”— so named because it requires us to have a theory about the minds of others. It is a cognitive feat that evidence suggests emerged in early primates. And as we will see, theory of mind might explain why primates have such big brains and why their brain size correlates with group size.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3564)
+
+---
+
+> The most obvious social behavior of nonhuman primates is grooming— a pair of monkeys will take turns picking dirt and mites from each other’s backs where they can’t reach themselves. In the first half of the twentieth century, this behavior was believed to be primarily for hygienic purposes. But it is now undisputed that this grooming behavior serves more of a social purpose than a hygienic purpose.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3568)
+
+---
+
+> These signals of dominance and submission are not one-off displays; they represent an explicit social hierarchy.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3588)
+
+---
+
+> What makes these monkey societies unique is not the presence of a social hierarchy (many animal groups have social hierarchies), but how the hierarchy is constructed. If you examined the social hierarchy of different monkey groups, you would notice that it often isn’t the strongest, biggest, or most aggressive monkey who sits at the top. Unlike most other social animals, for primates, it is not only physical power that determines one’s social ranking but also political power.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3596)
+
+---
+
+> As was the case in many early human civilizations (and unfortunately still many today), one thing that determines a monkey’s place in its group is the family it is born into.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3600)
+
+---
+
+> And as it goes with human societies— with endless oscillations of dynastic power struggles of families rising and collapsing— monkey dynasties rise and fall too.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3609)
+
+---
+
+> And so if a high-ranking family sufficiently dwindles in number, a lower-ranking family will wage a coordinated mutiny; the lower-ranking family will make persistent aggressive challenges until the higher-ranking family submits, at which point a new hierarchy has been established.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3613)
+
+---
+
+> Allyships and grooming partnerships represent a common relationship, what we would call a friendship: monkeys most often rescue those whom they have previously formed grooming partnerships with.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3623)
+
+---
+
+> Much of monkey social behavior suggests an incredible degree of political forethought. Monkeys prefer to invest in relationships with those ranked higher than themselves.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3638)
+
+---
+
+> Free time is extremely rare in the animal kingdom; most animals have no choice but to fill every moment of their daily calendar with eating, resting, and mating.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3662)
+
+---
+
+> So primates seemed to have filled their open calendars with politicking. Today’s primates spend up to 20 percent of their day socializing, a much larger amount of time than most other mammals.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3666)
+
+---
+
+> While many aspects of these behavioral changes did not require any particularly clever new brain systems, there was indeed an intellectual feat underlying this politicking: the ability to engage in theory of mind.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3675)
+
+---
+
+> Most evidence suggests that despite the dramatic expansion in size, the brain of our primate ancestor, and of primates today, was largely the same as that of the early mammals.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3705)
+
+---
+
+> We can categorize these new neocortical areas that emerged within the primate lineage into two groups. The first is the granular prefrontal cortex (gPFC), which was a new addition to the frontal cortex.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3716)
+
+---
+
+> The second new area of neocortex, which I will call the primate sensory cortex (PSC), is an amalgamation of several new areas of sensory cortex that emerged in primates.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3719)
+
+---
+
+> What makes these areas “new”? It isn’t their microcircuitry; all these areas are still neocortex and have the same general columnar microcircuitry as other areas of neocortex across mammals. It is their input and output connectivity that renders them new; it is what these areas construct a generative model of that unlocked fundamentally new cognitive abilities.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3723)
+
+---
+
+> The granular prefrontal cortex becomes uniquely active during tasks that require self-reference, such as evaluating your own personality traits, general self-related mind wandering, considering your own feelings, thinking about your own intentions, and thinking about yourself in general.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3743)
+
+---
+
+> This suggests that the granular prefrontal cortex plays a key role in your ability to project yourself— your intentions, feelings, thoughts, personality, and knowledge— into your rendered simulations, whether they are about the past or some imagined future.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3754)
+
+---
+
+> One interpretation of this is that these new primate areas are constructing a generative model of the older mammalian aPFC and sensory cortex itself. Just as aPFC constructs explanations of amygdala and hippocampus activity (invents “intent”), perhaps the gPFC constructs explanations of the aPFC’s model of intent— possibly inventing what one might call a mind. Perhaps the gPFC and PSC construct a model of one’s own inner simulation to explain one’s intentions in the aPFC given knowledge in the sensory neocortex.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3766)
+
+---
+
+> In other words, the gPFC constructs explanations of the simulation itself, of what the animal wants and knows and thinks. Psychologists and philosophers call this metacognition: the ability to think about thinking.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3775)
+
+---
+
+> These new primate areas try to explain why the sensory neocortex believes food is over there, why an animal’s inner simulation of the external world is the way it is.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3781)
+
+---
+
+> The mammalian first-order model has a clear evolutionary benefit: It enables the animal to vicariously play out choices before acting. But what is the evolutionary benefit of going through the trouble of developing a second-order model? Why model your own intent and knowledge?
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3794)
+
+---
+
+> If we revisit our mysterious patients with granular prefrontal damage and test them for theory-of-mind tasks, we begin to see a common theme emerge from their seemingly disparate, subtle, and bizarre symptoms. Such patients are worse at solving false-belief tests like the Sally-Ann test; they are much worse at recognizing emotions in other people;[ 21] they struggle to empathize with other people’s emotions,[ 22] struggle to distinguish lies from jokes,[ 23] struggle to identify a faux pas that would offend someone,[ 24] struggle to take someone else’s visual perspective,[ 25] and struggle to deceive others.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3823)
+
+---
+
+> the thicker a human’s granular prefrontal areas, the larger his or her social network, and the better that person’s performance on theory-of-mind tasks.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3839)
+
+---
+
+> The best evidence for social projection theory is the fact that tasks that require understanding yourself and tasks that require understanding others both activate and require the same uniquely primate neural structures. Reasoning about your own mind and reasoning about other minds is, in the brain, the same process.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3852)
+
+---
+
+> To our original question: How might theory of mind work? One possibility, conceptually at least, might be that the uniquely primate neocortical areas first build a generative model of your own inner simulation (in other words, of your mind) and then use this model to try to simulate the minds of others.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3876)
+
+---
+
+> It was long assumed that tool use was uniquely human, but tool use has now been found across many primates.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3910)
+
+---
+
+> Further, with the possible exception of birds and elephants, only primates have been shown to actively manufacture their tools.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3920)
+
+---
+
+> they had, in fact, discovered something more general: when their monkey observed a human perform a motor skill— whether picking up a peanut with two fingers, grasping an apple with their full hand, or grasping a snack with their mouth— the monkey’s own motor neurons for performing that same skill would often activate.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3942)
+
+---
+
+> When a primate watches another primate do an action, its premotor cortex often mirrors the actions it is observing.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3950)
+
+---
+
+> One reason it is useful to simulate other people’s movements is that doing this helps us understand their intentions.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 3978)
+
+---
+
+> What benefit does it provide to realize the tool someone is trying to hold or the weight of a box? The main benefit is that it helps us, as it helped early primates, learn new skills through observation.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4006)
+
+---
+
+> Without transmission from others, most chimps never figure tool use out on their own; in fact, a young chimp that doesn’t learn, through observing others, to crack nuts by the age of five will not acquire the skill later in life.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4028)
+
+---
+
+> The ability to use tools is less about ingenuity and more about transmissibility. Ingenuity must occur only once if transmissibility occurs frequently; if at least one member of a group figures out how to manufacture and use a termite-catching stick, the entire group can acquire this skill and continuously pass it down throughout generations.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4043)
+
+---
+
+> animals aren’t using observational learning to acquire novel skills; they are merely selecting a known behavior based on seeing another do the same thing.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4060)
+
+---
+
+> But acquiring an entirely novel motor skill by observation may have required, or at least hugely benefited from, entirely new machinery.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4065)
+
+---
+
+> Acquiring novel skills through observation required theory of mind, while selecting known skills through observation did not. There are three reasons why this was the case. The first reason why theory of mind was necessary for acquiring novel skills by observation is that it may have enabled our ancestors to actively teach.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4067)
+
+---
+
+> Teaching is possible only with theory of mind. Teaching requires understanding what another mind does not know and what demonstrations would help manipulate another mind’s knowledge in the correct way.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4073)
+
+---
+
+> The second reason why theory of mind was necessary for learning novel motor skills through observation is that it enabled learners to stay focused on learning over long periods. A rat can see another rat push a lever and a few moments later push the lever itself. But a chimpanzee child will watch its mother use anvils to break open nuts and practice this technique for years without any success before it begins to master the skill. Chimp children continually attempt to learn without any near-term reward.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4086)
+
+---
+
+> Theory of mind enables a chimp child to realize that the reason it is not getting food with its stick while its mother is getting food is that its mother has a skill it does not yet have.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4092)
+
+---
+
+> The third and final reason why theory of mind was necessary for learning novel motor skills through observation was that it enabled novices to differentiate between the intentional and unintentional movements of experts. Observational learning is more effective if one is aware of what another is trying to accomplish with each movement.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4095)
+
+---
+
+> The problem was that ALVINN was trained only on correct driving. It had never seen a human recover from a mistake because it had never seen a mistake in the first place. Directly copying expert behaviors turned out to be a dangerously brittle approach to imitation learning.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4121)
+
+---
+
+> Theory of mind evolved in early primates for politicking. But this ability was repurposed for imitation learning. The ability to infer the intent of others enabled early primates to filter out extraneous behaviors and focus only on the relevant ones (what did the person mean to do?); it helped youngsters stay focused on learning over long stretches of time; and it may have enabled early primates to actively teach each other by inferring what a novice does and does not understand.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4160)
+
+---
+
+> Part of what makes this frugivore strategy so challenging is that it requires not only simulating differing navigational paths but also simulating your own future needs. Both a carnivore and a non-fruit-eating herbivore can survive by hunting or grazing only when they are hungry. But a frugivore must plan its trips in advance before it is hungry. Setting up camp en route to a nearby popular fruit patch the night before requires anticipating the fact that you will be hungry tomorrow if you don’t take preemptive steps tonight to get to the food early.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4187)
+
+---
+
+> lab mice— although they have never suffered from a cold winter without food— automatically start hoarding food if you simply lower the temperature of their environment, an effect seen only in northern species of mice who have had to evolve to survive winters.[
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4195)
+
+---
+
+> The ecological-brain hypothesis argues that it was the frugivore diet of early primates that drove the rapid expansion of their brains.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4199)
+
+---
+
+> while other animals can make plans based on current needs (like how to get to food when they are hungry), only humans can make plans based on future needs (like how to get food for your trip next week, even though you are not hungry right now).
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4206)
+
+---
+
+> Might brains be able to use the same mechanism of theory of mind to anticipate a future need? Put another way: Is imagining the mind of someone else really any different from imagining the mind of your future self?
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4246)
+
+---
+
+> Perhaps the mechanism by which we anticipate future needs is the same mechanism by which we engage in theory of mind: We can infer the intent of a mind— whether our own or someone else’s— in some different situation from our current one.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4248)
+
+---
+
+> these new intellectual skills must emerge from some new clever application of the neocortex and not some novel computational trick. This makes the interpretation of theory of mind, imitation learning, and anticipation of future needs as nothing more than an emergent property of a second-order generative model a nice proposal— all three abilities can emerge from nothing more than new applications of neocortex.
+> 
+> **BREAKTHROUGH #4: Mentalizing and the First Primates** (Location 4293)
+
+---
+
+> If it were the case that humans wielded numerous intellectual capabilities that were entirely unique in kind, we would expect human brains to contain some unique neurological structures, some new wiring, some new systems. But the evidence is the opposite— there is no neurological structure found in the human brain that is not also found in the brain of our fellow apes, and evidence suggests that the human brain is literally just a scaled-up primate brain: a bigger neocortex, a bigger basal ganglia, but still containing all the same areas wired in all the same ways.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4326)
+
+---
+
+> Human language differs from other forms of animal communication in two ways. First, no other known form of naturally occurring animal communication assigns declarative labels (otherwise known as symbols). A human teacher will point to an object or a behavior and assign it an arbitrary label: elephant, tree, running. In contrast, other animals’ communications are genetically hardwired and not assigned.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4349)
+
+---
+
+> In nonhuman primates, the meanings of these gestures and vocalizations is not assigned through declarative labeling but emerge directly from genetic hardwiring.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4354)
+
+---
+
+> The second way in which human language differs from other animal communication is that it contains grammar. Human language contains rules by which we merge and modify symbols to convey specific meanings.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4361)
+
+---
+
+> To start: We can’t literally teach apes to speak.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4381)
+
+---
+
+> The key studies that attempted to teach chimpanzees, gorillas, and bonobos language used either American Sign Language or made-up visual languages in which apes pointed to sequences of symbols on a board.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4386)
+
+---
+
+> The degree to which these ape language studies demonstrate language with declarative labels and grammar is still controversial among linguists, primatologists, and comparative psychologists.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4405)
+
+---
+
+> On balance, most scientists seem to conclude that some nonhuman apes are indeed capable of learning at least a rudimentary form of language but that nonhuman apes are much worse than humans at it and don’t learn it without painstaking deliberate training. These apes never surpass the abilities of a young human child.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4413)
+
+---
+
+> Our unique language, with declarative labels and grammar, enables groups of brains to transfer their inner simulations to each other with an unprecedented degree of detail and flexibility.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4421)
+
+---
+
+> Concepts, ideas, and thoughts, just like episodic memories and plans, are not unique to humans. What is unique is our ability to deliberately transfer these inner simulations to each other, a trick possible only because of language.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4429)
+
+---
+
+> Language enables us to peer into and learn from the imagination of other minds— from their episodic memories, their internal simulated future actions, their counterfactuals.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4444)
+
+---
+
+> And so, with the ability to construct common myths, we can coordinate the behavior of an incredibly large number of strangers.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4458)
+
+---
+
+> common myths of things like countries, money, corporations, and governments allow us to cooperate with billions of strangers.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4463)
+
+---
+
+> An analogy to DNA is useful. The true power of DNA is not the products it constructs (hearts, livers, brains) but the process it enables (evolution). In this same way, the power of language is not its products (better teaching, coordinating, and common myths) but the process of ideas being transferred, accumulated, and modified across generations.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4471)
+
+---
+
+> This analogy of ideas evolving was proposed by Richard Dawkins in his famous book The Selfish Gene. He called these hopping ideas memes. This word was later appropriated for cat images and baby photos flying around Twitter, but he originally meant them to refer to an idea or behavior that spread from person to person in a culture.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4476)
+
+---
+
+> Even chimpanzees, who learn motor skills through observation, do not accumulate learnings across generations.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4492)
+
+---
+
+> Both chimps and human children learn to open the puzzle box through observation; however, chimps will skip the irrelevant steps, but human children will perform all the steps they observed, including the irrelevant ones. Human children are over-imitators.[ 14] This over-imitation is, in fact, quite clever. Children change their degree of copying based on how much they believe the teacher knows—“ This person clearly knows what she is doing, so there must be a reason she did that.” The more uncertain a child is about why a teacher is doing something, the more likely he is to exactly copy all the steps.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4495)
+
+---
+
+> Going from no accumulation across generations to some accumulation across generations was the subtle discontinuity that changed everything.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4515)
+
+---
+
+> Eventually, the corpus of ideas accumulated reached a tipping point of complexity when the total sum of accumulated ideas no longer fit into the brain of a single human.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4525)
+
+---
+
+> Writing allows humans to have a collective memory of ideas that can be downloaded at will and that can contain effectively an infinite corpus of knowledge.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4531)
+
+---
+
+> If groups don’t have writing, such distributed knowledge is sensitive to group size; if groups shrink, and there are no longer enough brains to fit all the information into, knowledge is lost.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4532)
+
+---
+
+> The real reason why humans are unique is that we accumulate our shared simulations (ideas, knowledge, concepts, thoughts) across generations. We are the hive-brain apes. We synchronize our inner simulations, turning human cultures into a kind of meta-life-form whose consciousness is instantiated within the persistent ideas and thoughts flowing through millions of human brains over generations. The bedrock of this hive brain is our language.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4539)
+
+---
+
+> Language transformed the human brain from an ephemeral organ to an eternal medium of accumulating inventions.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4544)
+
+---
+
+> This has been observed countless times over the past hundred and fifty years— if Broca’s area is damaged, humans lose the ability to produce speech, a condition now called Broca’s aphasia.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4563)
+
+---
+
+> Damage to Wernicke’s causes Wernicke’s aphasia, a condition in which patients lose the ability to understand speech.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4570)
+
+---
+
+> A revealing feature of both Broca’s and Wernicke’s areas is that their language functions are not selective for only certain modalities of language, but rather are selective for language in general.[ 3] Patients with Broca’s aphasia become equally impaired in speaking words as they are in writing words.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4572)
+
+---
+
+> Broca’s area is not selective for verbalizing, writing, or signing; it is selective for the general ability to produce language. And Wernicke’s area is not selective for listening, reading, or watching signs; it is selective for the general ability to understand language.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4580)
+
+---
+
+> The human neocortex can uniquely control the vocal cords, which is surely an adaptation for using verbal language. But this is a red herring in trying to understand the evolution of language; this unique circuitry is not the evolutionary breakthrough that enabled language.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4585)
+
+---
+
+> In any case, it is not human control of the larynx that enabled language.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4590)
+
+---
+
+> Broca’s and Wernicke’s discoveries demonstrated that language emerges from specific regions in the brain and that it is contained in a subnetwork almost always found on the left side of the neocortex.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4591)
+
+---
+
+> This suggests that language is not an inevitable consequence of having more neocortex. It is not something humans got “for free” by virtue of scaling up a chimpanzee brain. Language is a specific and independent skill that evolution wove into our brains.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4600)
+
+---
+
+> Your brain and a chimpanzee brain are practically identical; a human brain is, almost exactly, just a scaled-up chimpanzee brain.[ 10] This includes the regions known as Broca’s area and Wernicke’s area.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4606)
+
+---
+
+> Thus, it was not the emergence of Broca’s or Wernicke’s areas that gave humans the gift of language.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4610)
+
+---
+
+> In other primates, these language areas of the neocortex are present but have nothing to do with communication. If you damage Broca’s and Wernicke’s areas in a monkey, it has no impact on monkey communication.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4615)
+
+---
+
+> Humans have, in fact, inherited the exact same communication system of apes, but it isn’t our language— it is our emotional expressions.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4619)
+
+---
+
+> When examining the man, the doctor noticed something perplexing. When the doctor told a joke or said something genuinely pleasant, the man could smile just fine. The left side of his face worked normally when he was laughing, but when he was asked to smile voluntarily, the man was unable to do it.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4623)
+
+---
+
+> The human brain has parallel control of facial expressions; there is an older emotional-expression system that has a hard-coded mapping between emotional states and reflexive responses. This system is controlled by ancient structures like the amygdala. Then there is a separate system that provides voluntary control of facial muscles that is controlled by the neocortex.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4625)
+
+---
+
+> The apples-to-apples comparison between ape and human communication is between ape vocalizations and human emotional expressions. To simplify a bit: Other primates have a single communication system, their emotional-expression system, located in older areas like the amygdala and brainstem.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4638)
+
+---
+
+> Humans, however, have two communication systems— we have this same ancient emotional expression system and we have a newly evolved language system in the neocortex.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4643)
+
+---
+
+> Human laughs, cries, and scowls are evolutionary remnants of an ancient and more primitive system for communication, a system from which ape hoots and gestures emerge. However, when we speak words, we are doing something without any clear analog to any system of ape communication.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4647)
+
+---
+
+> The emotional-expression system and the language system have another difference: one is genetically hardwired, and the other is learned.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4652)
+
+---
+
+> So here is the neurobiological conundrum of language. Language did not emerge from some newly evolved structure. Language did not emerge from humans’ unique neocortical control over the larynx and face (although this did enable more complex verbalizations). Language did not emerge from some elaboration of the communication systems of early apes. And yet, language is entirely new.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4663)
+
+---
+
+> It is the pairing of a learning system and a curriculum that enables every single baby bird to learn how to fly.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4673)
+
+---
+
+> Instead of showing the neural network sentences of all levels of complexity at the same time, he first showed it extremely simple sentences, and only after the network performed well at these did he increase the level of complexity. In other words, he designed a curriculum. And this, it turned out, worked. After being trained with this curriculum, his neural network could correctly complete complex sentences.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4680)
+
+---
+
+> The curriculum used to train a model is as crucial as the model itself.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4688)
+
+---
+
+> To teach a new skill, it is often easier to change the curriculum instead of changing the learning system.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4689)
+
+---
+
+> It seems conversation is not a natural consequence of the ability to learn language; rather, the ability to learn language is, at least in part, a consequence of a simpler genetically hard-coded instinct to engage in conversation.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4695)
+
+---
+
+> By nine months of age, still before speech, human infants begin to demonstrate a second novel behavior: joint attention to objects.[ 24] When a mother looks at or points to an object, a human infant will focus on that same object and use various nonverbal mechanisms to confirm that she saw what her mother saw.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4698)
+
+---
+
+> It seems that joint attention and proto-conversations evolved for a single reason. What is one of the first things that parents do once they have achieved a state of joint attention with their child? They assign labels to things.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4719)
+
+---
+
+> With the foundation of declarative labels in place through the hardwired systems of proto-conversations and joint attention, grammar allows them to combine these words into sentences, which can then be constructed to create entire stories and ideas.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4723)
+
+---
+
+> Humans may have also evolved a unique hardwired instinct to ask questions to inquire about the inner simulations of others. Even Kanzi, Washoe, and the other apes that acquired impressively sophisticated language abilities never asked even the simplest questions about others.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4725)
+
+---
+
+> This is why humans deprived of contact with others will develop emotional expressions, but they’ll never develop language. The language curriculum requires both a teacher and a student.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4735)
+
+---
+
+> Children with the entire left hemisphere removed can still learn language just fine and will repurpose other areas of the neocortex on the right side of the brain to execute language.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4739)
+
+---
+
+> Here is the point: There is no language organ in the human brain, just as there is no flight organ in the bird brain.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4743)
+
+---
+
+> Asking where language lives in the brain may be as silly as asking where playing baseball or playing guitar lives in the brain. Such complex skills are not localized to a specific area; they emerge from a complex interplay of many areas. What makes these skills possible is not a single region that executes them but a curriculum that forces a complex network of regions to work together to learn them.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4744)
+
+---
+
+> What is unique in the human brain is not in the neocortex; what is unique is hidden and subtle, tucked deep in older structures like the amygdala and brain stem. It is an adjustment to hardwired instincts that makes us take turns, makes children and parents stare back and forth, and that makes us ask questions.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4747)
+
+---
+
+> The ape neocortex is eminently capable of it. Apes struggle to become sophisticated at it merely because they don’t have the required instincts to learn it.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4750)
+
+---
+
+> We diverged from chimpanzees around seven million years ago, and brains stayed largely the same size until around two and a half million years ago, at which point something mysterious and dramatic happened.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4770)
+
+---
+
+> At some point around six million years ago, these new mountains became so sprawling that they separated the ape ancestors on each side of the Great Rift Valley, splitting them into two separate lineages. On the western side, in an environment still rich with forests and largely unchanged, the lineage remained similarly unchanged and became today’s chimpanzees. On the eastern side of the mountains, however, in an environment of dying trees and progressively more open grasslands, evolutionary pressures began tinkering. It was this lineage that would eventually become human.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4787)
+
+---
+
+> Whatever bipedalism was an adaptation for, it required no extra brainpower.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4796)
+
+---
+
+> Our ancestors began shifting toward eating meat. Only about 10 percent of the diet of a chimpanzee comes from meat, while evidence suggests that as much as 30 percent of the diet of these early humans came from meat.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4809)
+
+---
+
+> The emergence of Homo erectus marked a turning point in human evolution. While earlier humans were timid vultures, Homo erectus was an apex predator.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4823)
+
+---
+
+> Most notable, H. erectus had a brain that was twice the size of our ancestral upright-walking-chimpanzee-like ancestor’s from a million years prior. At least one benefit of this bigger brain was better tools:
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4830)
+
+---
+
+> Both Homo erectus and modern humans have a peculiar method of cooling down— while other mammals pant to lower their body temperature, modern humans sweat.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4838)
+
+---
+
+> The mouths and guts of Homo erectus shrank. The familiar face of a human relative to an ape is mostly a consequence of a shrunken jaw, which makes the nose more prominent. These changes are perplexing; with a bigger body and brain, Homo erectus would have needed more energy and thus stronger jaws and longer digestive tracts for consuming more food. In the 1990s, the primatologist Richard Wrangham proposed a theory to explain this: H. erectus must have invented cooking.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4843)
+
+---
+
+> infertile.[ 15] The first evidence of controlled use of fire by humans dates to around the time Homo erectus came on the scene, where we find hints of charred bones and ash in ancient caves.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4851)
+
+---
+
+> Big brains are hard to fit through birth canals. Human bipedalism would have further exacerbated this problem, as standing upright requires narrower hips. This is what the anthropologist Sherwood Washburn calls the “obstetric dilemma.” The human solution to this is premature birthing. A newborn cow can walk within hours of being born, and a newborn macaque monkey can walk within two months, but newborn humans often can’t walk independently for up to a year after they are born.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4857)
+
+---
+
+> Humans are born not when they are ready to be born, but when their brains hit the maximum size that can fit through the birth canal.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4861)
+
+---
+
+> Premature birthing and an extended period of childhood brain growth put pressure on H. erectus to change its parenting style. Chimpanzee newborns are, for the most part, entirely raised by their mothers. But this would have been much more difficult for a Homo erectus mother given how premature human infants are born, and how long they need support.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4864)
+
+---
+
+> Evidence suggests that Homo erectus fathers took an active role in caring for their children and that these pairings persisted for long periods.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4869)
+
+---
+
+> Human females go through menopause and live for many years afterward. One theory is that menopause evolved to push grandmothers to shift their focus from rearing their own children to supporting their children’s children.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4871)
+
+---
+
+> This rejection of an evolutionary explanation by one of the cofounders of the theory of evolution became such an infamous concession that the problem of finding an evolutionary explanation for language has been colloquially dubbed “Wallace’s problem.”
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4887)
+
+---
+
+> Part of what makes answering these questions so difficult is that there are no examples of living species with only a little bit of language. Instead, there are nonhuman primates with no naturally occurring language and Homo sapiens with language.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4893)
+
+---
+
+> The archaeological record gives us only two indisputable milestones that all theories of language evolution must contend with. First, fossils tell us that the larynx and vocal cords of our ancestors were not adapted to vocal language until about five hundred thousand years ago.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4898)
+
+---
+
+> Second, substantial evidence suggests that language existed by at least one hundred thousand years ago. Consistent evidence of symbology— as measured by fictional sculptures, abstract cave art, and nonfunctional jewelry— shows up at around one hundred thousand years ago; many argue that such symbology would only have been possible with language. Further, all modern humans exhibit equal language proficiencies, suggesting that our common ancestor from one hundred thousand years ago almost definitely spoke an equally complex language.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4902)
+
+---
+
+> Language doesn’t directly benefit an individual the way eyes do; it benefits individuals only if others are using language with them in a useful way.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4920)
+
+---
+
+> This type of reasoning invokes what evolutionary biologists call “group selection.” Group selection is an intuitive explanation for altruistic behaviors. A behavior is altruistic if it decreases an individual’s reproductive fitness but increases another’s reproductive fitness.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4923)
+
+---
+
+> The problem is that genes do not spontaneously appear in groups, they appear in individuals.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4930)
+
+---
+
+> Altruism is not what biologists call an evolutionarily stable strategy. The strategy of violating, cheating, and freeloading seems to better serve the survival of one’s individual genes.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4934)
+
+---
+
+> Steering, reinforcing, simulating, and mentalizing were adaptations that clearly benefited any individual organisms in which they began to emerge, and thus the evolutionary machinations by which they propagated are straightforward. Language, however, is only valuable if a group of individuals are using it.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4945)
+
+---
+
+> There are two types of altruism found in the animal kingdom. The first is called kin selection. Kin selection is when individuals make personal sacrifices for the betterment of their directly related kin.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4948)
+
+---
+
+> As the evolutionary biologist J. B. S. Haldane famously quipped: “I would happily lay down my life for two brothers or eight cousins.” This is why many birds, mammals, fish, and insects make personal sacrifices for their offspring but much less so for cousins and strangers.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4953)
+
+---
+
+> Group selection? No, it is all kin selection, and this works because of their unique social structure. A beehive has a single queen bee who does all the reproduction for the entire beehive. This ensures that the beehive is made up of sisters and brothers.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4958)
+
+---
+
+> In addition to kin selection, the other type of altruism found in the animal kingdom is called reciprocal altruism.[ 28] Reciprocal altruism is the equivalent of “I’ll scratch your back if you scratch mine.” An individual will make a sacrifice today in exchange for a reciprocal benefit in the future.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4961)
+
+---
+
+> The essential feature for reciprocal altruism to successfully propagate throughout a group is the detection and punishment of defectors. Without that, altruistic behaviors end up creating freeloaders.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4967)
+
+---
+
+> Much behavior of modern humans, however, doesn’t fit cleanly into kin selection or reciprocal altruism.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4973)
+
+---
+
+> While we will never know for sure, the evidence tips in favor of the idea that Homo erectus spoke a protolanguage.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4984)
+
+---
+
+> The argument that language first emerged as a trick between parents and children helps explain two things. First, it requires none of the controversial group selection and can work simply through the common kin selection.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4996)
+
+---
+
+> Second, the learning program for language is most prominent in the hardwired interplay of joint attention and proto-conversations between parents and children, suggestive of its origin in these types of relationships.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 4998)
+
+---
+
+> Dunbar measured this— he eavesdropped on public conversations and found that as much as 70 percent of human conversation is gossip.[ 34] This, to Dunbar, is an essential clue into the origins of language.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5007)
+
+---
+
+> If groups imposed costs on cheaters by punishing them, either by withholding altruism or by directly harming them, then gossip would enable a stable system of reciprocal altruism among a large group of individuals.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5010)
+
+---
+
+> The key point: The use of language for gossip plus the punishment of moral violators’ makes it possible to evolve high levels of altruism.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5015)
+
+---
+
+> And so we can see how language and the human brain might have emerged from a perfect storm of interacting effects, the unlikely nature of which may be why language is so rare.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5039)
+
+---
+
+> Others avoid the altruism problem altogether by claiming that language did not evolve for communication at all. This is the view of the linguist Noam Chomsky, who argues that language initially evolved only as a trick for inner thinking.[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5048)
+
+---
+
+> There are two ways in which traits can emerge without being directly selected for. The first is called “exaptation,” which is when a trait that originally evolved for one purpose is only later repurposed for some other purpose.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5052)
+
+---
+
+> The second way in which a trait can emerge without being directly selected for is through what is called a “spandrel,” which is a trait that offers no benefit but emerged as a consequence of another trait that did offer a benefit.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5055)
+
+---
+
+> There is another clue gifted by H. floresiensis. Perhaps due to the unique circumstances of island life, they shrank dramatically. As their bodies shrank to only four feet tall, their brains shrank too. And yet, while the brain of H. floresiensis returned to the size of a modern chimpanzee’s, perhaps even smaller,[ 41] the species still exhibited the same sophisticated tool use as Homo erectus.[ 42] This suggests that humans were not smarter only because their brains were bigger, that there is something special going on that allows even such a scaled-down human brain to be so smart.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5078)
+
+---
+
+> Around seventy thousand years ago, Homo sapiens began their first adventure out of Africa. As they wandered the globe, they clashed and interbred with their human cousins.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5090)
+
+---
+
+> Through slaughter or interbreeding or both, by forty thousand years ago, there was only one species of humans left: us.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5092)
+
+---
+
+> The point is that both GPT-3 and the neocortical areas for language seem to be engaging in prediction. Both can generalize past experiences, apply them to new sentences, and guess what comes next.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5149)
+
+---
+
+> But while this shows that prediction is part of the mechanisms of language, does this mean that prediction is all there is to human language?
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5152)
+
+---
+
+> In these questions, you are rendering an inner simulation, either of shifting values in a series of algebraic operations or of a three-dimensional basement. And the answers to the questions are to be found only in the rules and structure of your inner simulated world.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5161)
+
+---
+
+> The idea that the neocortex works by rendering an inner simulation and that this is how humans tend to reason about things explains why humans consistently get questions like this wrong. We imagine a meek person and compare that to an imagined librarian and an imagined construction worker.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5183)
+
+---
+
+> Humans don’t learn math the way GPT-3 learns math. Indeed, humans don’t learn language the way GPT-3 learns language. Children do not simply listen to endless sequences of words until they can predict what comes next.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5194)
+
+---
+
+> The point is that human brains have an automatic system for predicting words (one probably similar, at least in principle, to models like GPT-3) and an inner simulation.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5220)
+
+---
+
+> philosopher Nick Bostrom poses a thought experiment. Suppose a superintelligent and obedient AI, designed to manage production in a factory, is given a command: “Maximize the manufacture of paper clips.” What might this AI reasonably do?
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5225)
+
+---
+
+> This has been called the paper-clip problem. When humans use language with each other, there is an ungodly number of assumptions not to be found in the words themselves. We infer what people actually mean by what they say. Humans can easily infer that when someone asks us to maximize the production of paper clips, that person does not mean “convert Earth into paper clips.” This seemingly obvious inference is, in fact, quite complex.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5235)
+
+---
+
+> We are capable of puppeteering other minds because language is, it seems, built right on top of a direct window to our inner simulation. Hearing sentences directly and automatically triggers specific mental imagery.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5264)
+
+---
+
+> OpenAI began training GPT-4 specifically on questions of commonsense and reasoning.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5274)
+
+---
+
+> By training GPT-4 to not just predict the answer, but to predict the next step in reasoning about the answer, the model begins to exhibit emergent properties of thinking, without, in fact, thinking— at least not in the way that a human thinks by rendering a simulation of the world.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5280)
+
+---
+
+> A calculator performs arithmetic better than any human, but still lacks the same understanding of math as a human.
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5288)
+
+---
+
+> As Yann Lecun said, “the weak reasoning abilities of LLMs are partially compensated by their large associative memory capacity. They are a bit like students who have learned the material by rote but haven’t really built deep mental models of the underlying reality.”[
+> 
+> **BREAKTHROUGH #5: Speaking and the First Humans** (Location 5290)
+
+---
+
+> This model-free reinforcement learning came with a suite of familiar intellectual and affective features: omission learning, time perception, curiosity, fear, excitement, disappointment, and relief.
+> 
+> **Conclusion: The Sixth Breakthrough** (Location 5338)
+
+---
+
+> This neocortex enabled animals to internally render a simulation of reality. This enabled them to vicariously show the basal ganglia what to do before the animal actually did anything. This was learning by imagining.
+> 
+> **Conclusion: The Sixth Breakthrough** (Location 5342)
+
+---
+
+> Reinforcement learning was possible only because it bootstrapped on the valence neurons that had already evolved: without valence, there is no foundational learning signal for reinforcement learning to begin. Simulating was possible only because trial-and-error learning in the basal ganglia existed prior. Without the basal ganglia to enable trial-and-error learning, there would be no mechanism by which imagined simulations could affect behavior; by having actual trial-and-error learning evolve in vertebrates, vicarious trial and error could emerge later in mammals. Mentalizing was possible only because simulating came before; mentalizing is just simulating the older mammalian parts of the neocortex, the same computation turned inward. And speaking was possible only because mentalizing came before; without the ability the infer the intent and knowledge in the mind of another, you could not infer what to communicate to help transmit an idea or infer what people mean by what they say. And without the ability to infer the knowledge and intent of another, you could not engage in the crucial step of shared attention whereby teachers identify objects for students.
+> 
+> **Conclusion: The Sixth Breakthrough** (Location 5353)
+
+---
+
+> By self-replicating, DNA finds respite from entropy, persisting not in matter but in information. All the evolutionary innovations that followed the first string of DNA have been in this spirit, the spirit of persisting, of fighting back against entropy, of refusing to fade into nothingness. And in this great battle, ideas that float from human brain to human brain through language are life’s newest innovation but will surely not be its last.
+> 
+> **Conclusion: The Sixth Breakthrough** (Location 5390)
