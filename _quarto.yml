@@ -16,10 +16,10 @@ website:
     collapse: true
     pinned: false
     left:
-      - text: about
-        href: about.qmd
-      - text: consulting
-        href: consulting.qmd
+      #- text: about
+      #  href: about.qmd
+      #- text: consulting
+      #  href: consulting.qmd
       - text: teaching
         href: teaching.qmd
       - text: code

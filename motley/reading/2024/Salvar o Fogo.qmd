@@ -2,5 +2,5 @@
 title: "Salvar o Fogo"
 author: Itamar Vieira Jr.
 date: 2024-01-28
-Rating: 9 / 10
+Rating: 8 / 10
 ---

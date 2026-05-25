@@ -7,6 +7,6 @@ about:
   image-shape: "rectangle"
 ---
 
-I am an applied scientist employing probabilistic models, machine learning, and causal inference to measure impact and quantify uncertainty in decision-making.
+I am an applied scientist employing probabilistic models, machine learning and causal inference to measure impact and quantify uncertainty in decision-making.
 
-Explore my [consulting work](consulting.html), [open-source](code.html) projects, and [teaching materials](teaching.html).
+Explore my consulting work, [open-source](code.html) projects and [teaching materials](teaching.html).

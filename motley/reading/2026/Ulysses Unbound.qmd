@@ -1,0 +1,1086 @@
+---
+title: "Ulysses Unbound"
+author: Jon Elster
+date: 2026-05-14
+Rating: 9 / 10
+---
+
+### Highlights
+
+> Broadly speaking, they may want to protect themselves against passion, preference change, and (two varieties of) time-inconsistency. They do so by removing certain options from the feasible set, by making them more costly or available only with a delay, and by insulating themselves from knowledge about their existence.
+> 
+> **Unknown Chapter**
+
+---
+
+> At a very general level, the present book illustrates the proposition that sometimes less is more or, more specifically, that sometimes there are benefits from having fewer opportunities rather than more. This idea must be seen on the background of the standard case, in which the exact opposite is true.
+> 
+> **Unknown Chapter**
+
+---
+
+> On the other hand, the individual might benefit just from having fewer options available, without the desire to exclude any specific choices. This is the main topic of Chapter III, where I argue both that artists need constraints and that the choice of constraints is largely arbitrary.
+> 
+> **Unknown Chapter**
+
+---
+
+> At the same general level, the idea that less is more is susceptible of another interpretation, namely, that ignorance is bliss.
+> 
+> **Unknown Chapter**
+
+---
+
+> The book as a whole is concerned with two types of beneficial constraints. First, there are constraints that benefit the agent who is constrained but that are not chosen by the agent for the sake of those benefits.
+> 
+> **Unknown Chapter**
+
+---
+
+> Second, there are constraints that an agent imposes on himself for the sake of some expected benefit to himself.
+> 
+> **Unknown Chapter**
+
+---
+
+> In Ulysses and the Sirens I referred to this phenomenon as "precommitment" or "self-binding."
+> 
+> **Unknown Chapter**
+
+---
+
+> When the emphasis is on the constraints that are created rather than on the act of creating them, I refer to them as essential constraints.
+> 
+> **Unknown Chapter**
+
+---
+
+> Essential constraints are defined in terms of expected benefits, incidental constraints by the actual benefits they provide to the agent.
+> 
+> **Unknown Chapter**
+
+---
+
+> When we act under the influence of passions, they may cause us to deviate from plans laid in a cooler moment. Knowledge of this tendency creates an incentive to precommit ourselves, to help us stick to our plans.
+> 
+> **Unknown Chapter**
+
+---
+
+> Passion may distort our thinking about the consequences of the behavior. This was in fact Aristotle's definition of emotion: "The emotions are those things through which, by undergoing change, people come to differ in their judgments, and which are accompanied by pain and pleasure, for example, anger, pity, fear, and other such things and their opposites"
+> 
+> **Unknown Chapter**
+
+---
+
+> The passion may be so strong as to crowd out all other cons
+> 
+> **Unknown Chapter**
+
+---
+
+> A person in a state of passion may weigh the consequences of behavior differently from the way he does in a calmer mood.
+> 
+> **Unknown Chapter**
+
+---
+
+> When the agent is able to take account of incentives even in the heat of passion, precommitment can take the form of attaching a cost or a penalty to the choice one wants to avoid making. If you think you might get too drunk or too amorous at the office party, you can increase the costs of doing so by taking your spouse along.
+> 
+> **Unknown Chapter**
+
+---
+
+> Gun-control legislation also works by imposing delays between the request for a gun and its delivery.32
+> 
+> **Unknown Chapter**
+
+---
+
+> Tyler Cowen (personal communication) notes that some investment theories say that one should never look at one's portfolio. Whereas this advice could be based on the tendency to discount the future hyperbolically (see discussion at the end of I.3) or by a tendency to place excessive emphasis on recently acquired information (Bondt and Thaler 1985), it could also be justified by a tendency to react emotionally to good or bad news.
+> 
+> **Unknown Chapter**
+
+---
+
+> Although I have been assuming that the earlier decision to precommit oneself against a later passion is itself a dispassionate one, this is not always the case. Sometimes, people precommit themselves in a moment of passion to prevent themselves from yielding to another passion at a later time.
+> 
+> **Unknown Chapter**
+
+---
+
+> The idea of precommitment is often linked to that of second-order desires.57 Suppose a person wants to quit drinking, but finds himself torn between his desire to drink and his desire for all the things that drinking prevents him from doing. This conflict does not necessarily generate a second-order desire not to have the desire to drink.
+> 
+> **Unknown Chapter**
+
+---
+
+> Second-order desires, rather than being constitutive of what it means to be a person,^ may simply reflect weakness of will.60 Moreover, even a weak-willed person would not necessarily form and act on a second-order desire if he or she could deploy some other precommitment strategy.
+> 
+> **Unknown Chapter**
+
+---
+
+> The case of a rational agent precommitting himself against rationality may also arise. A rational agent may take steps to make himself less rational on some future occasion when being irrational will enable him to get the upper hand in negotiating with other (rational) agents.6
+> 
+> **Unknown Chapter**
+
+---
+
+> Time-inconsistency, or dynamic inconsistency, "occurs when the best policy currently planned for some future period is no longer the best when that period arrives."70
+> 
+> **Unknown Chapter**
+
+---
+
+> Yet these behaviors are not decisive evidence for hyperbolic discounting, for the deviation from earlier plans could also be due to wishful thinking or to sudden craving triggered by cue-dependence (see 1.2 and 1.8). More clearcut cases include procrastination, failure to save for Christmas or for one's old age, failure to go to bed early at night or to get up early in the morning, and failure to do physical exercise. In many of these situations, failure to keep one's resolution is plausibly due to the sheer passage of time. There may not be any passions, urges, or cravings of any kind involved
+> 
+> **Unknown Chapter**
+
+---
+
+> The individual who finds that he constantly fails to carry out his plans, and suspects that something like hyperbolic discounting is the culprit, could respond in a number of ways. Here I shall consider only precommitment strategies.
+> 
+> **Unknown Chapter**
+
+---
+
+> (i) By making the choice of the early, smaller reward physically impossible, one obviously ensures that the larger, delayed reward is chosen. (ii) By imposing a sufficiently large extra cost on the choice of the early reward, curve I is shifted downward so as to lie entirely below II. The larger reward is always preferred and will also be chosen at time 2. (iii) By setting up a sufficiently large reward for the choice of the later reward, curve II is shifted upward so as to lie entirely above I. When feasible, this strategy may seem logically equivalent to the previous one, but psychologically the two may have different effects.791 postpone discussion of this strategy to I.7. (iv) By the imposition of a mandatory and sufficiently long delay between the time of choice and the time at which the reward is made available to the agent, curve I is shifted to the right so that the present value of the smaller reward at time 2 is smaller than that of the larger reward. Again, this will ensure the choice of the larger reward.
+> 
+> **Unknown Chapter**
+
+---
+
+> To overcome strategic time-inconsistency, an agent may resort to precommitment devices.^6 In the no-discounting case, these include the elimination of options and the imposition of additional costs. The first is proverbially expressed as "burning one's bridges," or one's ships in the French version.97
+> 
+> **Unknown Chapter**
+
+---
+
+> an actor may adopt what Fearon calls the strategy of "tying hands/' that is, by imposing costs that he will incur if he fails to carry out a threat. A classic example is the trade union leader who, by proclaiming publicly that his demand is non-negotiable, raises the stakes by making any concession hurt him more than it would otherwise have done.
+> 
+> **Unknown Chapter**
+
+---
+
+> strategy of "sinking costs," that is, by imposing costs that he will have to incur regardless of what happens later. This strategy is commonly used by firms to deter entry by a potential competitor.
+> 
+> **Unknown Chapter**
+
+---
+
+> Jack Hirshleifer and Robert Frank turn the idea on its head, by arguing that emotions are solutions rather than problems', they are precommitment devices that enable agents to overcome time-inconsistency problems. The idea is not a complete reversal of the traditional view. In that view, precommitment was supposed to protect the agent against the effects of occurrent emotions. In the more recent view, emotional dispositions serve as precommitment devices.lo4
+> 
+> **Unknown Chapter**
+
+---
+
+> two main features of the emotions: their painful or pleasurable qualities and their quasi-automatic action tendencies that can make people act against their rational s
+> 
+> **Unknown Chapter**
+
+---
+
+> Robert Frank argues that emotions serve as solutions to the problem of time-inconsistency. Guilt affects the credibility of promises, whereas anger and envy affect the credibility of threats.
+> 
+> **Unknown Chapter**
+
+---
+
+> The central claim in the reputational-pathway argument is that emotions can solve the self-control problem as well as the credibility problem.
+> 
+> **Unknown Chapter**
+
+---
+
+> Frank and Hirshleifer both argue that negative emotions such as envy or anger could have evolved because they enhance our ability to make credible threats. A problem with their analyses is their tacit assumption that the cost-benefit analysis of emotional dispositions can be analyzed in terms of isolated encounters with other individuals not similarly disposed. In any such encounter, a person known to be envious or angry will indeed get his way. Yet this analysis ignores two other aspects that might well tip the balance in the other direction.
+> 
+> **Unknown Chapter**
+
+---
+
+> The Iranian example is a variation on an old theme. Many nonWestern or nonmodern societies, or subcultures, have felt threatened by Western or modern values, and deliberately tried to insulate themselves from their influence.
+> 
+> **Unknown Chapter**
+
+---
+
+> Although liberal societies accord their minority members freedom to maintain their religion or their traditional lifestyle, that freedom may not be a sufficient bulwark against liberalism. To prevent religious or cultural assimilation, the minority may have to precommit itself in ways that reduce the freedom of its individual members.
+> 
+> **Unknown Chapter**
+
+---
+
+> The desire to insulate oneself from a larger community can also arise on cultural grounds, somewhat independently of religion and language. To take a personal example, this was one reason why I have twice voted against Norwegian entry in the European community. My fear was that full integration into the European community would entail loss of some cultural and social goods that only small communities can provide. In doing so I knew that a world in which all communities were as small as Norway (4.5 million inhabitants) could probably not produce the technical and scientific achievements from which Norwegians benefit. On Kantian grounds, I should have voted for membership rather than trying to have it both ways - but I am not a Kantian. 14 6
+> 
+> **Unknown Chapter**
+
+---
+
+> Addictive behavior, in its full-blown form, is the most striking instance known to me of ambivalence or weakness of will.1
+> 
+> **Unknown Chapter**
+
+---
+
+> They must confront not only their addiction, but their inability to quit by simply deciding to do so. It is logical, then, to turn to precommitment behavior as a technique for quitting that does not rely merely on their will.
+> 
+> **Unknown Chapter**
+
+---
+
+> Here I shall consider ten precommitment strategies: • throwing away the key • giving away the key • imposing costs • creating rewards • creating delays • changing or bolstering beliefs • changing preferences • avoiding exposure to cues • avoiding company • seeking company
+> 
+> **Unknown Chapter**
+
+---
+
+> In some cases, it may be possible to make the addictive substance physically unavailable, at least for a while. The strategy may be combined with the imposition or utilization of delays.
+> 
+> **Unknown Chapter**
+
+---
+
+> it amounts to instructing other people to prevent one from having access to the drug. For the strategy to work, the other persons must able to resist or ignore instructions that release them from the promise. In some cases, as we shall see, this condition is not met.
+> 
+> **Unknown Chapter**
+
+---
+
+> There are a number of ways in which addicts can and do impose costs on themselves to make drug use less likely. In virtually all cases they involve the use of other persons.
+> 
+> **Unknown Chapter**
+
+---
+
+> One can impose costs on oneself by announcing publicly that one is going to quit, thus raising the stakes by adding shame and loss of prestige to the other costs of relapse.
+> 
+> **Unknown Chapter**
+
+---
+
+> Rather than overcoming time-inconsistency by attaching costs to the choice of the early small reward, precommitment can be achieved by attaching rewards to the choice of the larger, delayed reward,
+> 
+> **Unknown Chapter**
+
+---
+
+> Yet even though at an abstract level there is no difference between punishing oneself for smoking and rewarding oneself for not smoking, the two procedures have different psychological implications.
+> 
+> **Unknown Chapter**
+
+---
+
+> I might form and try to implement a desire to get rid of my desire to smoke. The main tools seem to be hypnosis, aversion therapy, and cue extinction.
+> 
+> **Unknown Chapter**
+
+---
+
+> If the cue-dependence has not been extinguished, the addict should take special care, avoiding exposure to cues associated with consumption when the internal state of the organism is such that craving might easily be triggered. A traditional piece of advice to overweight people, for instance, is "Never shop on an empty stomach."
+> 
+> **Unknown Chapter**
+
+---
+
+> Precommitment strategies may also be undesirable because of signaling effects. If others observe my precommitment behavior, they will infer that I lack self-control. They may be reluctant, therefore, to have dealings with me on occasions when no precommitment devices are available and my lack of self-control could be costly for them. In many societies, there are norms against total abstention from alcohol as well as norms against drunkenness.^6
+> 
+> **Unknown Chapter**
+
+---
+
+> The most important cost of precommitment, however, may be loss of flexibility. Consider again a person who contemplates a voluntary but irreversible hospital treatment of a drug problem, and let us assume, for the sake of argument, that this option is in fact available to him. If he expects that urgent business problems might arise during this period, he might not want to take the risk of being unable to deal with them, knowing that the cynical hospital staff will be deaf to his pleas that this is a genuine exception rather than an excuse to indulge in his habit.
+> 
+> **Unknown Chapter**
+
+---
+
+> "Any contract lenient enough to allow termination of hopeless marriages cannot at the same time be strict enough to prevent opportunistic switching."^8
+> 
+> **Unknown Chapter**
+
+---
+
+> There is a risk that the rigid pattern of rulefollowing behavior may spread from one sphere of life to others, if the agent wants to strengthen his resolve by extending precedent-setting across spheres. Within a given sphere, the strategy of never suffering a single exception may lead to a great deal of pointless self-denial.
+> 
+> **Unknown Chapter**
+
+---
+
+> Many writers have argued that political constitutions are devices for precommitment or self-binding, created by the body politic in order to protect itself against its own predictable tendency to make unwise decisions.1
+> 
+> **Unknown Chapter**
+
+---
+
+> According to John Potter Stockton, "Constitutions are chains with which men bind themselves in their sane moments that they may not die by a suicidal hand in the day of their frenzy. "3
+> 
+> **Unknown Chapter**
+
+---
+
+> Friedrich Hayek cites the view that a constitution is a tie imposed by Peter when sober on Peter when drunk.4
+> 
+> **Unknown Chapter**
+
+---
+
+> I shall distinguish between constitutions as essential constraints on behavior and constitutions as incidental constraints. On the one hand, we may ask whether existing provisions were established for the purpose of restricting the freedom of action of the individuals who voted for them and that of similarly placed individuals in the future. W
+> 
+> **Unknown Chapter**
+
+---
+
+> Although requirements that constitutional amendments be passed by two successive legislatures have never been adopted for the purpose of overcoming time-inconsistency due to hyperbolic discounting, they may have this effect
+> 
+> **Unknown Chapter**
+
+---
+
+> If voters lack the means to recall their representatives at will, the explanation surely has more to do with the motives of politicians than with those of the voters.
+> 
+> **Unknown Chapter**
+
+---
+
+> The shifting justifications for bicameralism are a case in point. Although often introduced by elite minorities to control popular majorities, this device may be retained as a form of democratic self-control by virtue of its delaying and cooling-down p
+> 
+> **Unknown Chapter**
+
+---
+
+> the transfer of concepts used to study individuals to the behavior of collectivities, as if these were individuals writ large, can be very misleading.10 For one thing, constitutions may bind others rather than being acts of self-binding. For another, constitutions may not have the power to bind in the first p
+> 
+> **Unknown Chapter**
+
+---
+
+> This was not an act of seZ/-binding. The king obtained a veto in the constitution, but after the show of force on October 5-6,1789, he lost his veto over the constitution.11 Rather than binding himself, the king was bound by the assembly
+> 
+> **Unknown Chapter**
+
+---
+
+> Suppose next as a putative case of self-binding that the framers by simple majority decide (i) that legislation is constrained by certain rights of property, and (ii) that (i) can be modified only by a two-thirds majority in a following legislature. This is not necessarily an act of seZ/-binding.
+> 
+> **Unknown Chapter**
+
+---
+
+> The arrangements described in this passage exploit the fact that if one set of individuals can enhance their power by limiting their own freedom, they can also reduce the power of others by expanding their freedom. These Greek constitutions forced the rich to participate in public affairs by making it costly for them not to do so, while making it less likely that the poor would participate by reducing the costs to them of abstaining. Whereas the modern constitutions (Australia, Belgium) that make voting mandatory/or all may properly be seen as mechanisms of self-binding to overcome the collective action problem involved in voting, selective mandatory devices serve to control others rather than oneself.
+> 
+> **Unknown Chapter**
+
+---
+
+> Tocqueville wrote, in a similar vein, "I have long thought that, instead of trying to make our forms of government eternal, we should pay attention to making methodical change an easy matter. All things considered, I find that less dangerous than the opposite alternative. I thought one should treat the French people like those lunatics whom one is careful not to bind lest they become infuriated by the constraint."16
+> 
+> **Unknown Chapter**
+
+---
+
+> In all Western societies with the exception of Great Britain (and, more ambiguously, Israel), political life is regulated by written constitutions. In Britain, the constitution is entirely made up of unwritten "constitutional conventions."18
+> 
+> **Unknown Chapter**
+
+---
+
+> One difference between written constitutions and unwritten ones is that the former are made, whereas the latter emerge or evolve. Another is that whereas violation of the written constitution may trigger legal sanctions, for instance by judicial review of legislation or of executive decrees, those who violate an unwritten convention risk political sanctions ranging from electoral defeat to revolution.
+> 
+> **Unknown Chapter**
+
+---
+
+> Substantively, a written constitution regulates the most fundamental features of political life. Procedurally, it is more difficult to change the constitution than to enact ordinary legislation. Legally, the constitution takes precedence over ordinary legislation in the case of c
+> 
+> **Unknown Chapter**
+
+---
+
+> Constitutions regulate political life, as well as themselves. The first task is carried out by two sets of provisions. First, there is a bill of rights that is intended to protect the citizens from undue interference by the government and to ensure the provision of various procedural and substantive goods. Second, there are provisions regulating what we may call the machinery of government: modes of election and representation, the functions of government, separation of powers, checks and balances, and so on.
+> 
+> **Unknown Chapter**
+
+---
+
+> The self-regulating task of constitutions is also carried out by two sets of provisions. On the one hand, there are rules governing the amendment of the constitution itself. On the other hand, many constitutions contain rules regulating the temporary suspension of the constitution.
+> 
+> **Unknown Chapter**
+
+---
+
+> Some constitutions offer absolute entrenchment of rights. Art. 79 (3) of the German constitution says that the basic rights are immune to revision.
+> 
+> **Unknown Chapter**
+
+---
+
+> Delays can be imposed in many ways. In Norway, amendments must be proposed during one parliament and adopted during another. In Sweden, they must be passed by two successive parliaments.
+> 
+> **Unknown Chapter**
+
+---
+
+> Overall, therefore, the most important devices for constitutional precommitment are supermajorities and delays.
+> 
+> **Unknown Chapter**
+
+---
+
+> In an emergency situation, one may want to suspend the constitution if an amendment would be too time-consuming or if only a temporary measure is required.
+> 
+> **Unknown Chapter**
+
+---
+
+> The general form of the problem is simple. On the one hand, it seems to be a general principle that if X brings Y into being, then X has an authority superior to that of Y.49 On the other hand, if Y is brought into being to regulate, among other things, the activities of X, Y would seem to be the superior instance. The paradox can also be summarized in two opposing slogans, "Let the kingmaker beware of the king" versus "Let the king beware of the kingmaker." These relationships obtain both between the assembly and its convener and between the delegates and their constituencies. Collectively, the delegates owe their existence to one institution; individually, to another. These facts are crucial for understanding the debates in both assemblies.
+> 
+> **Unknown Chapter**
+
+---
+
+> It would seem axiomatic that the authorities who call the constituent assembly into being would also want the right to veto the final document. However, the framers themselves might not accept the authority of their creator, especially if they have already gone beyond their mandate. Instead, they might define themselves as the final and sovereign authority, doing away with any need for ratification. Alternatively, they might appeal directly to the people or to special conventions. These are the outcomes that were observed in, respectively, the French and the American cases.
+> 
+> **Unknown Chapter**
+
+---
+
+> Constituent assemblies thus embody what I have called elsewhere "the paradox of democracy": each generation wants to be free to bind its successors, while not being bound by its predecessors.^9 On the one hand, the assembly wants to free itself from the mandates and constraints that the upstream authorities try to impose on it. On the other hand, it wants to lay down the law for future generations and to make it difficult for them to untie themselves (and to make it difficult for them to bind their successors). In one interpretation, constitution-makers regard themselves as superior both to the corrupt or inefficient regime they are replacing and to the interest- and passion-ridden regimes that will replace them. As we shall see, however, more benign interpretations are also possible.
+> 
+> **Unknown Chapter**
+
+---
+
+> Constitutional precommitment, therefore, works at two levels. At a first level, the constitution may design the ordinary machinery of government so as to counteract passion,
+> 
+> **Unknown Chapter**
+
+---
+
+> At a higher level, the machinery of amending the constitution itself may be designed to be slow and cumbersome. These higher-level constraints have two effects. On the one hand, they act directly on the problems of passion, time-inconsistency, and efficiency. On the other hand, they underwrite and stabilize first-level mechanisms that, in turn, act on the same problems.
+> 
+> **Unknown Chapter**
+
+---
+
+> The sources indicate that the Athenians were concerned mainly with ways of counteracting majoritarian passions.
+> 
+> **Unknown Chapter**
+
+---
+
+> The use of two-stage procedures as a cooling-down device is very common in modern constitutional settings. The Athenians, too, adopted this technique in many of their institutions. It was not possible to raise an issue in the assembly without prior preparation, to force a decision on the spot. All cases had to be discussed in the Council of the Five Hundred before they came to the assembly.
+> 
+> **Unknown Chapter**
+
+---
+
+> The Athenians had an elaborate system for holding their officials accountable. Generals could be and often were subjected to impeachment. Speakers in the assembly could be held accountable for their proposals, mainly through graphe paranomon but also, as in the case of the Arginusae generals, through probole. Each of these were legal procedures, and subject to the basic principle of Athenian law that all prosecutions had to be initiated by a private citizen.
+> 
+> **Unknown Chapter**
+
+---
+
+> an accuser who failed to obtain one-fifth of the vote was fined and lost the right to bring similar accusations in the future.
+> 
+> **Unknown Chapter**
+
+---
+
+> In the two late eighteenth-century assemblies, especially the American one, the framers were concerned with the dangers of majority r
+> 
+> **Unknown Chapter**
+
+---
+
+> The Americans were concerned with protecting themselves against the solution that the French were just in the process of inventing, or reinventing. Although the moderates in the French assembly cited later shared the anti-democratic sentiments of the American framers, they were in a minority.
+> 
+> **Unknown Chapter**
+
+---
+
+> Looking at the language in the two assemblies, passionate majorities seem to have been perceived as a more serious problem than interested ones.93
+> 
+> **Unknown Chapter**
+
+---
+
+> These, then, are the two dangers I shall discuss in the following: passionate popular majorities and self-interested representatives.
+> 
+> **Unknown Chapter**
+
+---
+
+> Traditionally, each of the two devices I consider has been correlated with one of the two dangers. On the one hand, the existence of a second chamber would by a number of mechanisms counteract the passionate impulses of the majority. The built-in delays of bicameralist systems, in particular, were seen as the main protection against impulsive majorities. On the other hand, the executive veto would block the tendency toward legislative tyranny. Even if the veto can be overridden, the need for a supermajority makes it more difficult for the legislature to get its way.
+> 
+> **Unknown Chapter**
+
+---
+
+> From the point of view of the eighteenth-century framers the constitution had to be constructed with two goals in mind. First, the destructive and irrational forces of passion had to be eliminated as much as possible.
+> 
+> **Unknown Chapter**
+
+---
+
+> Their second task, therefore, was to design institutions that would give political agents private incentives to act in ways that would at the same time promote the public good. This line of reasoning applies to voters as well as to their representatives.
+> 
+> **Unknown Chapter**
+
+---
+
+> A standard argument (see also II.5) is that bicameralism makes for a slower and more cumbersome process, giving hot spirits time to cool down.97
+> 
+> **Unknown Chapter**
+
+---
+
+> The mechanism behind this argument is a form of "divide and conquer": a homogeneous assembly is more likely to form a united front against the executive than an internally divided one.
+> 
+> **Unknown Chapter**
+
+---
+
+> there are two main ways of retaining a form of executive veto even if an absolute veto is rejected. On the one hand, one can allow the assembly to overrule the veto, but require a qualified majority. This was the solution adopted in Philadelphia. On the other hand, one can allow the assembly to overrule the executive by an ordinary majority, but require that the decision be delayed until a later legislature. This was the solution adopted in Paris, allowing the king to veto a proposal in two successive legislatures before the third one could overrule him. In both cases, the solution was defended, among other reasons, for its beneficial impact on passionate majorities.
+> 
+> **Unknown Chapter**
+
+---
+
+> To establish the checks enumerated in Table II.2, one must solve two closely related problems that are inherent in any system of checks and balances. First, there is the question of who shall guard the guardians. The checks must themselves be kept in check; otherwise there would not be a system of checks and balances.
+> 
+> **Unknown Chapter**
+
+---
+
+> Second, there is the question of who shall appoint the guardians and, if necessary, remove them from office. The checks must be genuinely independent of the institutions they are supposed to counteract.
+> 
+> **Unknown Chapter**
+
+---
+
+> I conclude by noting that the American and French framers also precommitted themselves against the temptations of passion and interest.
+> 
+> **Unknown Chapter**
+
+---
+
+> The framers, in other words, chose secrecy to precommit themselves against their own vanity.
+> 
+> **Unknown Chapter**
+
+---
+
+> A constitution written by a legislative assembly might be expected to give excessive powers to the legislature
+> 
+> **Unknown Chapter**
+
+---
+
+> The government may fully recognize the value of investments in education and health care, but decide to postpone them until a later date. Yet when that date arrives, priority will again be accorded to a project with immediate benefits. To get around this problem, it might be useful to constitutionalize the rights to education and health care, perhaps even to entrench them as unamendable rights.
+> 
+> **Unknown Chapter**
+
+---
+
+> A problem that has plagued most constitutional legislation, whether at the founding stage or in an amendment process, is that framers invariably find themselves in a conflict. On the one hand, the very nature of a constitution requires them to legislate in the interest of all and for the indefinite future. On the other hand, they also have short-term and partisan motives imposed on them by their constituencies. The latter motives would be considerably less important if legislation took place under an artificial veil of ignorance created by a requirement that decisions will not come into effect until, say, ten or twenty years later.
+> 
+> **Unknown Chapter**
+
+---
+
+> Needless to say, the idea is Utopian and probably undesirable on other counts. Demands for constitution-making or constitutional revision tend to arise in times of crisis in which waiting is an unaffordable luxury.
+> 
+> **Unknown Chapter**
+
+---
+
+> At the most general level, an omnipotent being is a contradiction in terms. "If an entity has the power to make any law or do any act at any time, then can it limit its own power to act or make law? If it can, then it can't, and if it can't then it can."116 The paradox, which was originally stated with respect to divine omnipotence, also applies to the political sovereign.
+> 
+> **Unknown Chapter**
+
+---
+
+> The reason why Hobbes's argument cannot be directly applied to real-life politics derives from the irreversibility of promises. It is not true that "he that can bind, can release/' if that statement implies that binding and releasing are equally easy. In politics as elsewhere, to make a promise and then break it is worse than not making it in the first place
+> 
+> **Unknown Chapter**
+
+---
+
+> Commitments can be credible when power is divided between the executive, an independent judiciary, and a democratically elected legislature. This is the central part of the story told by Douglass North and Barry Weingast in their reconstruction of English political economy in the seventeenth century.
+> 
+> **Unknown Chapter**
+
+---
+
+> The creation of independent central banks illustrates the idea of separation of powers as a precommitment device to overcome timeinconsistency. Separation of powers can of course serve other purposes too. By ensuring functional specialization, separation of powers can enhance efficiency. The need for an executive branch of government stems, among other things, from the fact that it would not be efficient to entrust a legislative body with the conduct of war. Also, the separation of powers can reduce corruption and prevent one branch of government from undue interference with the tasks of the others.
+> 
+> **Unknown Chapter**
+
+---
+
+> What is arguably the most important reason for constitutional self-binding has no parallel, however, in the individual case. This is the idea of using constitutional provisions to eliminate or reduce certain forms of waste and inefficiency that would prevail if all legislation took the form of simple statutes that could be changed by an ordinary majority. I shall distinguish among three varieties of inefficiency that may be remedied in this way: shortening of the time horizon, rent-seeking, and aggregative inconsistency.
+> 
+> **Unknown Chapter**
+
+---
+
+> Stability is a general means to promote many important ends. Within limits, it is more important to have some constitution that is not at the mercy of fluctuating majorities, than to have any particular constitution.
+> 
+> **Unknown Chapter**
+
+---
+
+> The stabilizing effect of requiring supermajorities for amending the constitution is arguably the most important aspect of constitutional precommitment. It provides a justification for the seemingly arbitrary procedure of allowing a small majority in the constituent assembly to adopt a document that can be changed only by a substantially larger majority.
+> 
+> **Unknown Chapter**
+
+---
+
+> Thus overall I agree with Adam Przeworski and Fernando Limongi when they observe that "advocates of commitment... do not consider the political process by which such commitments are established/'155 Yet I cannot agree when they go on to adduce this argument against the possibility of precommitment in general and against anti-discretionary precommitment more specifically. They claim that "the same forces that push the state to suboptimal discretionary interventions also push the state to a suboptimal commitment."
+> 
+> **Unknown Chapter**
+
+---
+
+> Even when feasible and effective, constitutional precommitment might not be desirable. There are two main problems, one created by the potential for a conflict between precommitment and efficiency, the other by the potential for a conflict between precommitment and democracy.
+> 
+> **Unknown Chapter**
+
+---
+
+> The conflict between precommitment and democracy arises when the agents that exercise the precommitment functions are insulated from democratic control.166 Even when decisions made by a constitutional court or a central bank are not inefficient in any of the technical senses of that term - Pareto-inferiority or non-utility-maximizing - they may be radically out of line with the stable preferences of a large majority of the citizens.
+> 
+> **Unknown Chapter**
+
+---
+
+> There is no reliable way in which one could distinguish between the case in which a constitutional court ought to be sanctioned because it acts against the stable preferences of the majority and the case in which it is simply doing its job by acting against its temporary preferences. Even time preferences may be state-dependent.1?
+> 
+> **Unknown Chapter**
+
+---
+
+> Let me first observe that the extension of precommitment theory from individual choice to constitution-making is somewhat peculiar. Other extensions from individual to collective decision-making, such as the application of game theory to relations among states in the international system, rest on an assumption of unitary actors.
+> 
+> **Unknown Chapter**
+
+---
+
+> Frequently, constitutions are imposed on minorities and on future generations in the interest of a majority of the founding generation. Also, many apparent acts of selfbinding turn out, on closer inspection, to be motivated by partisan motives.
+> 
+> **Unknown Chapter**
+
+---
+
+> This issue arises most obviously when a part of the population is disenfranchised de jure, but also in fully democratic constitutionmaking. A minority in the constituent assembly may not have the clout to get protection of its rights and interests written into the constitution.
+> 
+> **Unknown Chapter**
+
+---
+
+> It is arbitrary to let one generation impose a virtual ban on abortion or a right to abortion, a ban on income taxes or a right to bear weapons, unrestrained freedom of contract or a right to an adequate income, on its successors. There is no cant-free way in which these procedures can be referred to as selfbinding. The fact that a later generation may welcome being bound is neither here nor there, since founding generations will rarely be in a position to anticipate this preference.
+> 
+> **Unknown Chapter**
+
+---
+
+> Groucho Marx noted that future generations have no bargaining power ("What has posterity ever done for me?"). They cannot engage in vote-trading with the current generations. Their only hope, as it were, is that the framers might be moved by concern for their own descendants to take some account of their interests.
+> 
+> **Unknown Chapter**
+
+---
+
+> Much of the work on constitutional precommitment (including my own writings in the past) assumes a dichotomy between framers and politicians, or between higher-order constitutional politics and routine, day-to-day politics.180 It is commonly assumed that framers and politicians differ not only with regard to their respective tasks, but also with regard to their motives. The framers are assumed to be exempt from the vices of politicians - impulsive passions, standing passions, and private interests - that constitute the rationale for constitution-making. But this, once again, is cant. The idea that framers are demigods legislating for beasts is a fiction.
+> 
+> **Unknown Chapter**
+
+---
+
+> The motives of constitution-makers matter for how likely they will be to precommit themselves. If they are self-interested, why should they precommit themselves against their tendency to behave in a selfinterested way? This is the point made by Przeworski and Limongi.
+> 
+> **Unknown Chapter**
+
+---
+
+> Let me return to the Freudian analogy. A constitution is similar to the superego, in the sense of consisting of rigid, inflexible rules that may prevent sensible, optimal behavior on particular occasions.
+> 
+> **Unknown Chapter**
+
+---
+
+> artists may impose constraints on themselves in order to create better works of art.
+> 
+> **Unknown Chapter**
+
+---
+
+> Sometimes, an incidental constraint may turn into an essential one, if the artist chooses to abide by the constraint even when it is no longer mandatory. Film directors may abstain from using sound and color even when these technologies are available.
+> 
+> **Unknown Chapter**
+
+---
+
+> The creation of a work of art can in fact be envisaged as a two-step process: choice of constraints followed by choice within constraints. The interplay and back-and-forth between these two choices is a central feature of artistic creation, in the sense that choices made within the constraints may induce the artist to go back and revise the constraints themselves.
+> 
+> **Unknown Chapter**
+
+---
+
+> The claim that art needs constraints is far from novel. It is in fact constitutive of the classical artistic stance.4 It would be wrong to say that this stance emphasizes form at the expense of expression; rather the claim is that expression needs form.
+> 
+> **Unknown Chapter**
+
+---
+
+> A more unusual and perhaps controversial claim is that both choice of constraints and choice within constraints can be represented as a form of maximization. Specifically, artists try to maximize artistic value.
+> 
+> **Unknown Chapter**
+
+---
+
+> in the twentieth century, artistic conventions have changed so frequently that artists have not always had the time to exhaust their potential, thus inducing an emphasis on originality at the expense of creativity. In III.8 I discuss and reject - as devoid of artistic value - some of the literary and musical compositions of John Cage.
+> 
+> **Unknown Chapter**
+
+---
+
+> I distinguish creativity (working within constraints) from originality (changing the constraints), arguing that the latter has no intrinsic relation to aesthetic value.
+> 
+> **Unknown Chapter**
+
+---
+
+> Daydreaming is a bit like playing solitaire. Here, too, there is a strong temptation to take shortcuts. If there is one card that blocks the whole solitaire from falling into place, many people will cheat by placing it somewhere else. The next time, there may be two cards that need to be rearranged, and soon cheating is so rampant that no pleasure is obtained from playing.
+> 
+> **Unknown Chapter**
+
+---
+
+> The restrictions imposed on or chosen by the artist can take many forms. A basic distinction is between hard constraints and soft constraints or conventions. Hard constraints are formal, material, technical, or financial restrictions on the selection and combination of the constituent units of the given medium. Conventions, as the word indicates, are restrictions that constitute a specific genre such as the sonnet or the classical symphony.
+> 
+> **Unknown Chapter**
+
+---
+
+> Because instant replay is not possible in live musical performances, composers have an incentive to use repeated variations of the same basic theme.
+> 
+> **Unknown Chapter**
+
+---
+
+> an artist can choose to be restricted by working within a genre with conventionally defined rules and norms. This option is in fact much more restraining than freely invented constraints.
+> 
+> **Unknown Chapter**
+
+---
+
+> In one view, artistic conventions are like social norms - non-instrumental rules of behavior maintained by the sanctions that others impose on violators. In another view, conventions are like coordination equilibria - useful but arbitrary devices similar to the rule of driving on the right hand of the road. Whereas social norms are enforced by others, coordination equilibria are self-enforcing.
+> 
+> **Unknown Chapter**
+
+---
+
+> An argument for seeing conventions in art as social norms might go as follows. Artists, critics, and audiences view conventions as normatively compelling. They embody the right way of doing things. The unities of time, space, and action, for instance, are seen as natural constraints. Playwrights or painters who violate the conventions are subject to a wide array of penalties and sanctions. Their books are not only not bought but, like Joyce's Ulysses, banned. Their paintings are stigmatized as made by fauves. Ibsen had
+> 
+> **Unknown Chapter**
+
+---
+
+> In another view, an artistic convention is a special kind of equilibrium, often referred to as a "coordination equilibrium" and characterized by two features.60 First, as in all equilibria, when all follow the convention, nobody wants to deviate. Second, when all follow the convention, nobody wants anyone else to deviate either.
+> 
+> **Unknown Chapter**
+
+---
+
+> An argument for seeing conventions in art as coordination equilibria might go as follows. Art, like other forms of self-realization, requires competent judges; otherwise it becomes a "private language," a morass of subjectivity.6 3 If art varied very widely in form and subject matter, quality would be hard to evaluate and appreciate. Even if each artist worked under tight self-imposed constraints, intersubjective standards would be weak if different artists chose different constraints. However, if all artists work under the same constraints, their works can be compared and standards established by the community of artists and critics. Hence conventions in art possess both features of coordination equilibria. Since each artist wants to be judged by others, he has no incentive to deviate from the common framework that makes competent appreciation and self-realization possible. Since he wants his judges to be competent, he has no reasons for wishing others to deviate either.
+> 
+> **Unknown Chapter**
+
+---
+
+> The substance of the speech of the Grand Inquisitor could easily be rendered into sociological language, but in the context of Dostoyevsky's novel it also acquires emotional significance.
+> 
+> **Unknown Chapter**
+
+---
+
+> So far, I have presented artistic creation as a fully conscious and rational choice within constraints. Needless to say, this cannot be all there is to the story. All artists know that ideas - connections, associations, patterns - often come to them in a completely spontaneous way.
+> 
+> **Unknown Chapter**
+
+---
+
+> My conjecture is that inspiration - defined as the rate at which ideas move from the unconscious into the conscious mind - is an inversely U-shaped function of the tightness of the c
+> 
+> **Unknown Chapter**
+
+---
+
+> The formal constraints on the creator stem from his or her anticipation of the perceptions of the audience. Before taking up a new book or sitting down to listen to a piece of music for the first time, the reader or listener faces a very large number of possible experiences. Even if we exclude the combinations of elementary units that violate the constraints of spelling, grammar, and harmony, the remaining number of combinations is incredibly large.
+> 
+> **Unknown Chapter**
+
+---
+
+> The perceived inevitability of the choice then induces the specifically aesthetic emotion of release that we experience when things fall into place. The nature of the choice - the heroine marries, as in Jane Austen, or refuses to marry, as in La Princesse de Cleves - induces the appropriate non-aesthetic emotion of happiness, sadness, and so on.
+> 
+> **Unknown Chapter**
+
+---
+
+> the development of the story must be "pushed from behind," not only "pulled from ahead,"
+> 
+> **Unknown Chapter**
+
+---
+
+> Although the construction of the text may be teleological or backward-looking, it should lend itself to a purely causal or forwardlooking reading.11?
+> 
+> **Unknown Chapter**
+
+---
+
+> Forgeries, that is, works of art falsely presented to be by a specific artist or school, can be great achievements.
+> 
+> **Unknown Chapter**
+
+---
+
+> There are some general reasons, however, why successful forgeries of great artists are likely to be rare. The forger is working under a tighter set of constraints than the original. The composer who would forge a hitherto unknown symphony of Mozart must conform not only to all the conventions within which Mozart himself was working, but also to Mozart's pattern of choices as embodied in the known Kochel numbers.
+> 
+> **Unknown Chapter**
+
+---
+
+> To introduce the second conception of originality, let me first distinguish between rebellion and revolution in art. Rebellions violate existing conventions, whereas revolutions abolish them and create new ones.
+> 
+> **Unknown Chapter**
+
+---
+
+> Much of contemporary art (and art criticism) rests on a fundamental misconception - the overvaluation of originality at the expense of creativity.
+> 
+> **Unknown Chapter**
+
+---
+
+> In III.8,1 discuss the use of randomization in the arts as one example of sterile originality,
+> 
+> **Unknown Chapter**
+
+---
+
+> I conclude, therefore, that Lucien Leuwen remained unfinished because its separate parts converge to a nonexistent point. There can be no synthesis of innocence and wit, naivete and cynicism.
+> 
+> **Unknown Chapter**
+
+---
+
+> The idea of choice has two antonyms: chance and necessity. Thus to assert the existence of free will against universal determinism, one cannot appeal to quantum mechanics: that would simply be to substitute one opponent for another. It follows that the choice to give up the ability to choose can be accomplished by delegating the outcome to chance as well as to necessity.
+> 
+> **Unknown Chapter**
+
+---
+
+> In politics, randomization has been used or advocated as a means of precommitting oneself against undue influence. By having elections timed randomly rather than periodically or at the discretion of the government, the framers may "protect themselves" (but see II.2 and II. 12) against their tendency to design economic policy with a view to reelection.186
+> 
+> **Unknown Chapter**
+
+---
+
+> To some extent, it is claimed, this is what generates much of the excitement in this music. The performer must constantly react to, and improvise on the basis of, the unintended sounds generated by the feedback. This constant challenge will focus his attention and creativity better than if he were to generate the musical line all from within himself. Mere routine playing will simply not be possible. If these claims are correct, technical mastery of the feedback effect may actually detract from creativity by removing some of the occasions for improvising.
+> 
+> **Unknown Chapter**
+
+---
+
+> He justified these practices by the Zen-like idea that "the highest purpose is to have no purpose at all."1 ^ The idea of aesthetic choice is to be banished.
+> 
+> **Unknown Chapter**
+
+---
+
+> To the extent that it relies on randomizing or on producing periods of silence, Cage's work is entirely unserious. The most charitable interpretation is that it is a gigantic and successful put-on.202
+> 
+> **Unknown Chapter**
+
+---
+
+> Yet by removing choice rather than restricting it one destroys creativity rather than enhances it.
+> 
+> **Unknown Chapter**
+
+---
+
+> The aesthetic emotions can arise at two levels. At the simplest level, they are produced by music that possesses what I shall call "taste." At a more advanced level, the aesthetic emotions are produced by the "story" told by the music, often (although not invariably) an improvised story.
+> 
+> **Unknown Chapter**
+
+---
+
+> Originality, as I argued earlier, has no intrinsic aesthetic value.
+> 
+> **Unknown Chapter**
+
+---
+
+> It makes no difference to their achievements whether Armstrong botches an occasional note, whether Hodges is ill at ease when playing at a very fast tempo, or whether Lester Young's skills on clarinet are somewhat rudimentary. Conversely, the virtuosity of Art Tatum may have been more of a handicap than an asset. If you cannot resist the temptation to exploit your skills to form endless and pointless arabesques - and Tatum often could not - it may be better to be less skilled so that you are forced to concentrate on essentials.
+> 
+> **Unknown Chapter**
+
+---
+
+> Taste - the sense of order, balance, proportion, timing - is an essential prerequisite for the production of the specifically aesthetic emotions (III.4). Fred Astaire had perfect taste; Gene Kelly didn't. Jane Austen had it; Dickens didn't.
+> 
+> **Unknown Chapter**
+
+---
+
+> Among the enemies of taste, two stand out in the present context: the temptation of virtuosity and the demands of an audience. If you can play very high notes or very fast, there is a temptation to display your skills regardless of their musical relevance. The temptation will often be reinforced by an audience that mistakes acrobatics for art.
+> 
+> **Unknown Chapter**
+
+---
+
+> Emotional depth refers to the capacity to generate strong nonaesthetic emotions in the listener. On the one hand, emotional depth is opposed to emotional shallowness.
+> 
+> **Unknown Chapter**
+
+---
+
+> the other hand, emotional depth may be opposed to sentimentality, defined by the feature that "the existence or continuation of the emotion is motivated by the satisfaction experienced in feeling the emotion/'210
+> 
+> **Unknown Chapter**
+
+---
+
+> In art, rationalism (taste) and romanticism (emotional depth) are natural allies, with sentimentality as their common enemy.21^ Taste and emotional depth do not, therefore, vary entirely independently of each other.
+> 
+> **Unknown Chapter**
+
+---
+
+> My low assessment of Sarah Vaughan will be even more controversial. I believe that she had essentially the same problem as Tatum.217 Her vocal gifts were so extraordinary that she was led to do the things that only she could do rather than the things she could do best. Mildred Bailey, who - like Billie Holiday - had a more limited v
+> 
+> **Unknown Chapter**
+
+---
+
+> Taste and emotional depth are only two of the relevant dimensions of quality in jazz. The third - and the only one in which jazz differs radically from other musical performances - is inventiveness in storytelling.
+> 
+> **Unknown Chapter**
+
+---
+
+> Because the actual performance is always underdetermined by the score, musicians must make aesthetic choices that, more than their technical skills, form the basis for our assessment of them.
+> 
+> **Unknown Chapter**
+
+---
+
+> Yet in an obvious sense performers take second place to the composer, whereas in jazz the tune takes second place to the performance. In jazz we cannot tell the dancer from the dance; in the performance of a symphony we can.
+> 
+> **Unknown Chapter**
+
+---
+
+> In one sense, jazz musicians have more freedom, because they operate under fewer musical constraints. For that very reason, however, they seek or welcome (or should seek or welcome) other constraints that can make their task more manageable.
+> 
+> **Unknown Chapter**
+
+---
+
+> Creativity in jazz bears a complex relationship to improvisation. An improvised solo of high quality is an extreme feat of creativity, but improvising is not the only way of telling a story. A solo may be "sculpted" - developed and perfected through many performances until it reaches a local maximum. Successful improvisations are permanently adopted and turn into constraints for the new ones, until in the end very little freedom is left.
+> 
+> **Unknown Chapter**
+
+---
+
+> There are two main criteria, then, for deciding that a given solo is indeed improvised on the spot rather than sculpted over time. If the solo is made within an ad hoc group that was assembled only for recording purposes, it cannot have been the product of long and careful polishing. Also, if the solo exists in alternate takes, any difference between the versions is a pretty good indicator of spontaneity.
+> 
+> **Unknown Chapter**
+
+---
+
+> Dizzy Gillespie's advice: "When you make a mistake, make a loud one, because if you're timid about it, then it really sounds like a mistake/'228 Another, more constructive trick is to repeat the mistake, to make it look intentional.
+> 
+> **Unknown Chapter**
+
+---
+
+> Earlier I cited Billie Holiday and Mildred Bailey as instances of vocalists who had a limited range but were capable of sustained emotional performances, and Ella Fitzgerald and Sarah Vaughan at the opposite ends of each dimension. (As is clear from Figure III.2, all of them had superb taste.)
+> 
+> **Unknown Chapter**
+
+---
+
+> There is no doubt at all that constraints can be aesthetically damaging. In his book In Praise of Commercial Culture, Tyler Cowen argues that technical progress that has removed material constraints on artists enhances aesthetic value and creativity.
+> 
+> **Unknown Chapter**
+
+---
+
+> Conventions provide a salutary discipline on the background of which they may be violated with great aesthetic effect, provided that the violation itself submits to discipline. Although attractive, this reassertion and revision of the classical doctrine is somewhat unstable, as it can hardly be stated publicly as a prescriptive doctrine without defeating itself.26*
+> 
+> **Unknown Chapter**
+
+---
+
+> Often, we precommit ourselves in order to avoid temptation, or to make ourselves unable to succumb to it when we meet it.
+> 
+> **Unknown Chapter**
+
+---
+
+> Whereas temptations are beckoning and seductive, passions and cravings are urgent and compelling. Temptations often use selfdeception and wishful thinking as their handmaidens, enabling the agent to overlook the insidious dangers involved. Passions and cravings may be so strong as to crowd out all thoughts about consequences.
+> 
+> **Unknown Chapter**
+
+---
+
+> Precommitment, in these cases, must be undertaken well ahead of time, and in a cool moment
+> 
+> **Unknown Chapter**
+
+---
+
+> Because we are irrational, temptations, passions, and cravings can lead us astray. Because we can know we are irrational, we can use precommitment strategies to protect ourselves.
+> 
+> **Unknown Chapter**
+
+---
+
+> At a very general level, devices that limit the freedom of an agent can be classified along two dimensions. First, there is a distinction between the devices that only turn on the expectations of others, and those that do not. Second, there is a distinction between the devices that have been created by the agent and those that he or she simply finds in existence.
+> 
+> **Unknown Chapter**
+
+---
+
+> In politics, we encounter constitutional constraints as well as constitutional conventions. The former are embodied in the written constitution as enforced by a constitutional court or some similar organ. The latter are unwritten principles to which political actors conform because they are expected to and because they would suffer politically if they didn't.
+> 
+> **Unknown Chapter**
+
+---
+
+> Whereas constraints arise by necessity or choice, conventions evolve
+> 
+> **Unknown Chapter**
+
+---
+
+> we can distinguish several ways in which an agent may become constrained in his actions, (i) The constraints arise because of the benefits to the agent as perceived by the agent. This was the case of Ulysses or of Georges Perec in writing his "e"-only and "e"-less novels, (ii) They arise because of the benefits to the agent as perceived by others. This is paternalistic constraining, in its many varieties. Involuntary hospitalization for mental illness is a standard example, (iii) They arise because of the benefits to others, with benefits to the constrained agent as a side effect. An elite group of founders may write a constitution to benefit themselves, while also believing that the population at large will benefit from being unable to confiscate the property of the elite.
+> 
+> **Unknown Chapter**
+
+---
+
+> Many writers, including me, have referred to constitution-making as a form of selfbinding. Once again, this language may be acceptable as a metaphor but is often problematic if taken literally. When a founding generation limits the freedom of action of later generations, the language of selfbinding can be misleading.
+> 
+> **Unknown Chapter**
+
+---
+
+> Constraints and conventions impose three main costs: loss of flexibility, loss of spontaneity, and loss of decisiveness.
+> 
+> **Unknown Chapter**

@@ -1,0 +1,665 @@
+---
+title: "The Swerve"
+author: Stephen Greenblatt
+date: 2026-05-03
+Rating: 6 / 10
+---
+
+### Highlights
+> Hidden behind the worldview I recognize as my own is an ancient poem, a poem once lost, apparently irrevocably, and then found.
+> 
+> **Preface** (Location 176)
+
+---
+
+> Of all the ancient masterpieces, this poem is one that should certainly have disappeared, finally and forever, in the company of the lost works that had inspired it. That it did not disappear, that it surfaced after many centuries and began once again to propagate its deeply subversive theses, is something one could be tempted to call a miracle.
+> 
+> **Preface** (Location 184)
+
+---
+
+> Though most evident in works of art, the change from one way of perceiving and living in the world to another was not restricted to aesthetics: it helps to account for the intellectual daring of Copernicus and Vesalius, Giordano Bruno and William Harvey, Hobbes and Spinoza. The transformation was not sudden or once-for-all, but it became increasingly possible to turn away from a preoccupation with angels and demons and immaterial causes and to focus instead on things in this world; to understand that humans are made of the same stuff as everything else and are part of the natural order; to conduct experiments without fearing that one is infringing on God’s jealously guarded secrets; to question authorities and challenge received doctrines; to legitimate the pursuit of pleasure and the avoidance of pain; to imagine that there are other worlds beside the one that we inhabit; to entertain the thought that the sun is only one star in an infinite universe; to live an ethical life without reference to postmortem rewards and punishments; to contemplate without trembling the death of the soul. In short, it became possible— never easy, but possible— in the poet Auden’s phrase to find the mortal world enough.
+> 
+> **Preface** (Location 232)
+
+---
+
+> I have tried in this book to tell a little known but exemplary Renaissance story, the story of Poggio Bracciolini’s recovery of On the Nature of Things. The recovery has the virtue of being true to the term that we use to gesture toward the cultural shift at the origins of modern life and thought: a re-naissance, a rebirth, of antiquity.
+> 
+> **Preface** (Location 242)
+
+---
+
+> Poggio was barely legible. An isolated individual, considered outside the structures of family and occupation, made very little sense. What mattered was what you belonged to or even whom you belonged to.
+> 
+> **CHAPTER ONE : The Book Hunter** (Location 302)
+
+---
+
+> to prize a person for some ineffable individuality or for many-sidedness or for intense curiosity was virtually unheard
+> 
+> **CHAPTER ONE : The Book Hunter** (Location 314)
+
+---
+
+> His occupation was scriptor, that is, a skilled writer of official documents in the papal bureaucracy, and, through adroitness and cunning, he had risen to the coveted position of apostolic secretary.
+> 
+> **CHAPTER ONE : The Book Hunter** (Location 353)
+
+---
+
+> He had access, as the very word “secretary” suggests, to the pope’s secrets. And this pope had a great many secrets.
+> 
+> **CHAPTER ONE : The Book Hunter** (Location 357)
+
+---
+
+> To be masterless in the early fifteenth century was for most men an unenviable, even dangerous state. Villages and towns looked with suspicion on itinerants; vagrants were whipped and branded; and on lonely paths in a largely unpoliced world the unprotected were exceedingly vulnerable.
+> 
+> **CHAPTER ONE : The Book Hunter** (Location 372)
+
+---
+
+> ITALIANS HAD BEEN book-hunting for the better part of a century, ever since the poet and scholar Petrarch brought glory1 on himself in the 1330s by piecing together Livy’s monumental History of Rome and finding forgotten masterpieces by Cicero, Propertius, and others. Petrarch’s achievement had inspired others to seek out lost classics that had been lying unread, often for centuries. The recovered texts were copied, edited, commented upon, and eagerly exchanged, conferring distinction on those who had found them and forming the basis for what became known as the “study of the humanities.”
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 409)
+
+---
+
+> Without wishing to emulate the pagan elites by placing books or writing at the center of society, without affirming the importance of rhetoric or grammar, without prizing either learning or debate, monks nonetheless became the principal readers, librarians, book preservers, and book producers of the Western world.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 499)
+
+---
+
+> Access to the library was ordinarily denied to any outsider. Petrarch was a cleric; he could at least make his appeal from within the large institutional community of the Church. Many of the humanists by contrast were laymen and would have aroused immediate suspicion.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 510)
+
+---
+
+> Books were scarce and valuable. They conferred prestige on the monastery that possessed them, and the monks were not inclined to let them out of their sight, particularly if they had any prior experience with light-fingered Italian humanists.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 514)
+
+---
+
+> Poggio possessed one further gift that set him apart from virtually all the other book-hunting humanists. He was a superbly well-trained scribe, with exceptionally fine handwriting, great powers of concentration, and a high degree of accuracy. It is difficult for us, at this distance, to take in the significance of such qualities: our technologies for producing transcriptions, facsimiles, and copies have almost entirely erased what was once an important personal achievement.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 549)
+
+---
+
+> Monasteries, he thought, were the dumping grounds for those deemed unfit for life in the world. Noblemen fobbed off the sons they judged to be weaklings, misfits, or good-for-nothings; merchants sent their dim-witted or paralytic children there; peasants got rid of extra mouths they could not feed.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 611)
+
+---
+
+> With his friends in the curia Poggio shared jokes about the venality, stupidity, and sexual appetite of monks.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 622)
+
+---
+
+> The early founders of monastic orders did not regard copying manuscripts as an exalted activity; on the contrary, as they were highly aware, most of the copying in the ancient world had been done by educated slaves. The task was therefore inherently humiliating as well as tedious, a perfect combination for the ascetic project of disciplining the spirit.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 635)
+
+---
+
+> In charge of the scriptorium was the person on whom Poggio and the other book hunters would have focused their most seductive blandishments: the monastery’s librarian. This important figure would have been accustomed to extravagant courtship, for he was responsible for providing all of the equipment that was required for the copying of the manuscripts: pens, ink, and penknives whose precise merits or defects would become overwhelmingly obvious to the laboring scribe after a few hours at the day’s task.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 657)
+
+---
+
+> An engaged reader, Poggio knew, was prone to alter his text in order to get it to make sense, but such alterations, over centuries, inevitably led to wholesale corruptions. It was better that monastic scribes had been forced to copy everything exactly at it appeared before their eyes, even those things that made no sense at all.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 694)
+
+---
+
+> These strange, layered manuscripts— called palimpsests; from the Greek for “scraped again”— have served as the source of several major works from the ancient past that would not otherwise be known. But no medieval monk would have been encouraged to read, as it were, between the lines.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 719)
+
+---
+
+> A clearheaded, thoughtful, and unusually impartial historian, Ammianus seems to have sensed the impending end. His description of a world exhausted by crushing taxes, the financial ruin of large segments of the population, and the dangerous decline in the army’s morale vividly conjured up the conditions that made it possible, some twenty years after his death, for the Goths to sack Rome.
+> 
+> **CHAPTER TWO : The Moment of Discovery** (Location 807)
+
+---
+
+> extent to which Virgil’s great epic, the Aeneid, was a sustained attempt to construct an alternative to On the Nature of Things: pious, where Lucretius was skeptical; militantly patriotic, where Lucretius counseled pacifism; soberly renunciatory, where Lucretius embraced the pursuit of pleasure.
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 846)
+
+---
+
+> As a person, Lucretius remains almost8 as little known as he was when Poggio recovered his poem in 1417. Given the extravagance of Ovid’s praise of “the verse of sublime Lucretius” and the other signs of the poem’s influence, it remains a mystery that so little was said directly about him by his contemporaries and near contemporaries.
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 882)
+
+---
+
+> When their independent city-states were still flourishing, Greek intellectuals collected some arcane lore about the Romans, as they did about the Carthaginians and Indians, but they did not find anything in Roman cultural life worthy of their notice.
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 956)
+
+---
+
+> Skeptical as ever of effete intellectuals and priding themselves on their practical intelligence, Romans nonetheless acknowledged with growing enthusiasm the achievements of Greek philosophers, scientists, writers, and artists. They made fun of what they took to be the defects of the Greek character, mocking what they saw as its loquaciousness, its taste for philosophizing, and its foppishness. But ambitious Roman families sent their sons to study at the philosophical academies for which Athens was famous, and Greek intellectuals like Philodemus were brought to Rome and paid handsome salaries to teach.
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 961)
+
+---
+
+> In 40 BCE, a decade after Lucretius’ death, Rome’s first public library15 was established by a friend of the poet Virgil, Asinius Pollio. The idea seems to have originated with Julius Caesar, who admired the public libraries he had seen in Greece, Asia Minor, and Egypt, and determined to bestow such an institution upon the Roman people.
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 984)
+
+---
+
+> By the first century CE there were distinctive signs of the emergence of what we think of as a “literary culture.”
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 1019)
+
+---
+
+> On the Nature of Things is the work of a disciple who is transmitting ideas that had been developed centuries earlier. Epicurus, Lucretius’ philosophical messiah, was born toward the end of 342 BCE
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 1175)
+
+---
+
+> Many Greek philosophers, including Plato and Aristotle, came from wealthy families and prided themselves on their distinguished ancestry. Epicurus decidedly had no comparable claims. His philosophical enemies, basking in their social superiority, made much of the modesty of his background.
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 1178)
+
+---
+
+> The core of this vision may be traced back to a single incandescent idea: that everything that has ever existed and everything that will ever exist is put together out of indestructible building blocks, irreducibly small in size, unimaginably vast in number. The Greeks had a word for these invisible building blocks, things that, as they conceived them, could not be divided any further: atoms.
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 1184)
+
+---
+
+> Indeed, eschewing the self-enclosed, specialized language of an inner circle of adepts, he insisted on using ordinary language, on addressing the widest circle of listeners, even on proselytizing.
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 1211)
+
+---
+
+> A philosophical claim that life’s ultimate goal is pleasure— even if that pleasure was defined in the most restrained and responsible terms— was a scandal, both for pagans and for their adversaries, the Jews and later the Christians.
+> 
+> **CHAPTER THREE : In Search of Lucretius** (Location 1272)
+
+---
+
+> The scribes must have been among the first to notice: they had less and less to do. Most of the copying stopped. The slow rains, dripping through the holes in the decaying roofs, washed away the letters in books that the flames had spared, and the worms, those “teeth of time,” set to work on what was left.
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1391)
+
+---
+
+> Hypatia was the daughter of a mathematician, one of the Museum’s famous scholars-in-residence. Legendarily beautiful as a young woman, she had become famous for her attainments in astronomy, music, mathematics, and philosophy. Students came from great distances to study the works of Plato and Aristotle under her tutelage. Such was her authority that other philosophers wrote to her and anxiously solicited her approval.
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1475)
+
+---
+
+> Hypatia’s support for Orestes’ refusal to expel the city’s Jewish population may help to explain what happened next. Rumors began to circulate25 that her absorption in astronomy, mathematics, and philosophy— so strange, after all, in a woman— was sinister: she must be a witch, practicing black magic. In March 415 the crowd, whipped into a frenzy by one of Cyril’s henchmen, erupted. Returning to her house, Hypatia was pulled from her chariot and taken to a church that was formerly a temple to the emperor. (The setting was no accident: it signified the transformation of paganism into the one true faith.) There, after she was stripped of her clothing, her skin was flayed off with broken bits of pottery. The mob then dragged her corpse outside the city walls and burned it. Their hero Cyril was eventually made a saint.
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1488)
+
+---
+
+> The murder of Hypatia signified more than the end of one remarkable person; it effectively marked the downfall of Alexandrian intellectual life and was the death knell26 for the whole intellectual tradition that underlay the text that Poggio recovered so many centuries later.
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1495)
+
+---
+
+> That mockery and the particular challenge it posed for early Christians set the stage for the subsequent disappearance of the whole Epicurean school of thought: Plato and Aristotle, 35 pagans who believed in the immortality of the soul, could ultimately be accommodated by a triumphant Christianity; Epicureanism could not.
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1577)
+
+---
+
+> Though early Christians, 39 Tertullian among them, found certain features in Epicureanism admirable— the celebration of friendship, the emphasis on charity and forgiveness, a suspicion of worldly ambition— by the early fourth century, the task had become clear: the atomists had to disappear.
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1623)
+
+---
+
+> The followers of Epicurus had already aroused considerable enmity outside the Christian community. When the emperor known as Julian the Apostate (c. 331– 363), who attempted to revive paganism against the mounting Christian onslaught, drew up a list of works that it was important for pagan priests to read, he also noted some titles that he explicitly wished to exclude: “Let us not,” 40 he wrote, “admit discourses by Epicureans.” Jews, likewise, termed anyone who departed from the rabbinic tradition apikoros, an Epicurean.
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1626)
+
+---
+
+> For Epicurus, human suffering is always finite: “if it is slight, he [Epicurus] says, you may despise it, if it is great it will not be long.” But to be Christian, Tertullian countered, is to believe that torture and pain last forever: “Epicurus utterly destroys43 religion,” wrote another Church Father; take Providence away, and “confusion and disorder will overtake life.”
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1634)
+
+---
+
+> A hatred of pleasure-seeking and a vision of God’s providential rage: these were death knells of Epicureanism, henceforward branded by the faithful as “insane.”
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1659)
+
+---
+
+> If Lucretius offered a moralized and purified version of the Roman pleasure principle, Christianity offered a moralized and purified version of the Roman pain principle.
+> 
+> **CHAPTER FOUR : The Teeth of Time** (Location 1686)
+
+---
+
+> What Poggio accomplished, in collaboration with a few others, remains startling. They took Carolingian minuscule— a scribal innovation of the ninth-century court of Charlemagne— and transformed it into the script they used for copying manuscripts and writing letters. This script in turn served as the basis for the development of italics. They were then in effect the inventors of the script we still think of as at once the clearest, the simplest, and the most elegant written representation of our words.
+> 
+> **CHAPTER FIVE : Birth and Rebirth** (Location 1854)
+
+---
+
+> To have invented a way to design letters immediately recognizable and admired after six centuries is no small achievement. But the way Poggio fashioned his letters showed more than just unusual skill in graphic design; it signaled a creative response to powerful cultural currents stirring in Florence and throughout Italy.
+> 
+> **CHAPTER FIVE : Birth and Rebirth** (Location 1862)
+
+---
+
+> A gifted scholar, Petrarch began to search for ancient texts that had been forgotten. He was not the first to do so, but he managed to invest this search with a new, almost erotic urgency and pleasure, superior to all other treasure seeking:
+> 
+> **CHAPTER FIVE : Birth and Rebirth** (Location 1903)
+
+---
+
+> When he found a great cache of Cicero’s private letters to his wealthy friend Atticus, candid letters filled with glimpses of egotism, ambition, and resentment, Petrarch did not hesitate to write a letter to Cicero, reproaching him for failing to live up to his own high principles.
+> 
+> **CHAPTER FIVE : Birth and Rebirth** (Location 1912)
+
+---
+
+> For his own present, 11 where he was forced to live, Petrarch professed limitless contempt. He lived in a sordid time, he complained, a time of coarseness, ignorance, and triviality that would quickly vanish from human memory. But his was the kind of contempt that seems only to intensify charisma and celebrity.
+> 
+> **CHAPTER FIVE : Birth and Rebirth** (Location 1915)
+
+---
+
+> Petrarch and Boccaccio had both contemplated keeping together the manuscripts they had acquired, after they died, but their valuable collections were in fact sold off, dispersed, or simply neglected. (Many of the precious codices that Petrarch painstakingly gathered and that he brought to Venice, to serve as the core of what he dreamed would be a new Alexandrian Library, were shut away and forgotten in a damp palazzo where they crumbled into dust.)
+> 
+> **CHAPTER FIVE : Birth and Rebirth** (Location 2088)
+
+---
+
+> But from the perspective of the radical, hard-core classicism of the younger generation, nothing truly worthwhile had been achieved by Dante, Petrarch, or Boccaccio, let alone by lesser lights: “While the literary legacy29 of antiquity is in such a pitiful state, no real culture is possible, and any disputation is necessarily built on shaky ground.”
+> 
+> **CHAPTER FIVE : Birth and Rebirth** (Location 2122)
+
+---
+
+> The population of Rome, a small fragment of what it had once been, lived in detached settlements, one at the Capitol where the massive ancient Temple of Jupiter had once stood, another near the Lateran whose old imperial palace had been given by Constantine to the bishop of Rome, yet another around the crumbling fourth-century Basilica of St. Peter’s. Between these settlements2 spread a wasteland of ruins, hovels, rubble-strewn fields, and the shrines of martyrs.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2494)
+
+---
+
+> The pope was a thug, but he was a learned thug, who appreciated the company of fine scholars and expected court business to be conducted in high humanist style.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2597)
+
+---
+
+> Forty-four-year-old Jan Hus, a Czech priest and religious reformer, had been for some years a thorn in the side of the Church. From his pulpit and in his writings, he vehemently attacked the abuses of clerics, condemning their widespread greed, hypocrisy, and sexual immorality. He denounced the selling of indulgences as a racket, a shameless attempt to profit from the fears of the faithful. He urged his congregants not to put their faith in the Virgin, the cult of the saints, the Church, or the pope, but in God alone. In all matters of doctrine he preached that Holy Scripture was the ultimate authority.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2643)
+
+---
+
+> An immoral pope could not possibly claim infallibility. After all, he said, the papacy was a human institution— the word “pope” was nowhere in the Bible.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2650)
+
+---
+
+> Hus’s arrival on November 3 must have seemed a godsend, as it were, to John XXIII. The heretic was hated by the upright in the Church as well as by the crooked. He and his principal associate, Jerome of Prague, were known followers of the English heretic John Wycliffe, whose advocacy of vernacular translations of the Bible, insistence on the primacy of Scripture-based faith over works, and attacks on clerical wealth and the selling of indulgences had led to his condemnation in the previous century.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2672)
+
+---
+
+> Notwithstanding the assurances that the pope, the council, and the emperor had given him, Hus was almost immediately vilified and denied the opportunity to speak in public. On November 28, barely three weeks after he arrived, he was arrested on order of the cardinals and taken to the prison of a Dominican monastery on the banks of the Rhine.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2678)
+
+---
+
+> Finally, under great pressure from the emperor, Cossa’s principal protector gave over his unwelcome guest, and the world had the edifying spectacle of a pope put under guard as a criminal.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2717)
+
+---
+
+> On May 29, 1415, he was formally deposed. Stricken from the roster of official popes, the name John XXIII was once again available, though it took more than five hundred years for another pope— the remarkable Angelo Roncalli— to be courageous enough in 1958 to adopt the name for himself.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2725)
+
+---
+
+> On July 6, 1415, at a solemn ceremony in the cathedral of Constance, the convicted heretic was formally unfrocked. A round paper crown, almost eighteen inches high and depicting three devils seizing a soul and tearing it apart, was placed upon his head. He was led out of the cathedral past a pyre on which his books were in flames, shackled in chains, and burned at the stake. In order to ensure that there would be no material remains, the executioners broke his charred bones into pieces and threw them all into the Rhine.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2737)
+
+---
+
+> With his contrasting vision of anxious, work-obsessed, overly disciplined Italians and happy-go-lucky, carefree Germans, Poggio believed he glimpsed for a moment the Epicurean pursuit of pleasure as the highest good. He knew perfectly well that this pursuit ran counter to Christian orthodoxy. But in Baden it was as if he found himself on the threshold of a mental world in which Christian rules no longer applied.
+> 
+> **CHAPTER SEVEN : A Pit to Catch Foxes** (Location 2800)
+
+---
+
+> Lucretius was not in fact an atheist. He believed that the gods existed. But he also believed that, by virtue of being gods, they could not possibly be concerned with human beings or with anything that we do. Divinity by its very nature, he thought, must enjoy eternal life and peace entirely untouched by any suffering or disturbance and indifferent to human actions.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2899)
+
+---
+
+> Everything is made of invisible particles.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2935)
+
+---
+
+> The elementary particles of matter—“ the seeds of the things”— are eternal.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2940)
+
+---
+
+> Neither creation nor destruction ever has the upper hand; the sum total of matter remains the same, and the balance between the living and the dead is always restored:
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2945)
+
+---
+
+> The elementary particles are infinite in number but limited in shape and size.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2955)
+
+---
+
+> All particles are in motion in an infinite void.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2961)
+
+---
+
+> The universe has no creator or designer.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2967)
+
+---
+
+> There is no end or purpose to existence, only ceaseless creation and destruction, governed entirely by chance.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2975)
+
+---
+
+> Everything comes into being as a result of a swerve.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2977)
+
+---
+
+> The swerve is the source of free will.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2988)
+
+---
+
+> Nature ceaselessly experiments.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 2998)
+
+---
+
+> The universe was not created for or about humans.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3009)
+
+---
+
+> Humans are not unique.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3020)
+
+---
+
+> Human society began not in a Golden Age of tranquility and plenty, but in a primitive battle for survival.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3028)
+
+---
+
+> They arose in tandem with the fear of the gods, the desire for wealth, the pursuit of fame and power. All of these originated in a craving for security, a craving that reaches back to the earliest experiences of the human species struggling to master its natural enemies.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3040)
+
+---
+
+> The soul dies.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3045)
+
+---
+
+> There is no afterlife.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3051)
+
+---
+
+> once you grasp that your soul dies along with your body, you also grasp that there can be no posthumous punishments or rewards.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3055)
+
+---
+
+> Death is nothing to us.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3056)
+
+---
+
+> All organized religions are superstitious delusions.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3060)
+
+---
+
+> Religions are invariably cruel.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3069)
+
+---
+
+> There are no angels, demons, or ghosts.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3077)
+
+---
+
+> The highest goal of human life is the enhancement of pleasure and the reduction of pain.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3080)
+
+---
+
+> The greatest obstacle to pleasure is not pain; it is delusion.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3100)
+
+---
+
+> The fantasy of infinite pleasure helps to account for their proneness to romantic love: in the misguided belief that their happiness depends upon the absolute possession of some single object of limitless desire, humans are seized by a feverish, unappeasable hunger and thirst that can only bring anguish instead of happiness.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3110)
+
+---
+
+> Understanding the nature of things generates deep wonder.
+> 
+> **CHAPTER EIGHT : The Way Things Are** (Location 3143)
+
+---
+
+> through which the ancient poem, dormant for a thousand years, reentered circulation in the world.
+> 
+> **CHAPTER NINE : The Return** (Location 3238)
+
+---
+
+> Poggio was not offered the post of apostolic secretary, though he could have stayed on at court in the lower rank of scriptor. Instead, he decided to make a very surprising and risky career move.
+> 
+> **CHAPTER NINE : The Return** (Location 3267)
+
+---
+
+> For the Italian secretary, Beaufort represented the salvaging of dignity. Poggio had the satisfaction of refusing what would have been in effect a demotion, had he returned to the Roman Curia.
+> 
+> **CHAPTER NINE : The Return** (Location 3272)
+
+---
+
+> Other great discoveries might await him now in English monastic libraries. Those libraries had not yet been thoroughly searched by humanists endowed, as Poggio was, with a careful reading of known classical texts, an encyclopedic grasp of the clues to missing manuscripts, and remarkable philological acumen. If he had already been hailed as a demigod for his ability to resurrect the ancient dead, how would he be praised for what he might now bring to light?
+> 
+> **CHAPTER NINE : The Return** (Location 3278)
+
+---
+
+> The most memorable event of Savonarola’s turbulent years was the famous “Bonfire of the Vanities,” when the friar’s ardent followers went through the streets collecting sinful objects— mirrors, cosmetics, seductive clothing, songbooks, musical instruments, playing cards and other gambling paraphernalia, sculptures and paintings of pagan subjects, the works of ancient poets— and threw them onto an enormous blazing pyre in the Piazza della Signoria.
+> 
+> **CHAPTER TEN : Swerves** (Location 3470)
+
+---
+
+> After a while, the city tired of its puritanical frenzy, and on May 23, 1498, Savonarola himself was hanged in chains, alongside two of his key associates, and burned to ashes on the spot where he had staged his cultural bonfire.
+> 
+> **CHAPTER TEN : Swerves** (Location 3474)
+
+---
+
+> “Listen women,” 1 he preached to the crowd, “They say that this world was made of atoms, that is, those tiniest of particles that fly through the air.” No doubt savoring the absurdity, he encouraged his listeners to express their derision out loud: “Now laugh, women, at the studies of these learned men.”
+> 
+> **CHAPTER TEN : Swerves** (Location 3477)
+
+---
+
+> By the 1490s, then, some sixty or seventy years after Lucretius’ poem was returned to circulation, atomism was sufficiently present in Florence to make it worth ridiculing.
+> 
+> **CHAPTER TEN : Swerves** (Location 3480)
+
+---
+
+> Machiavelli’s copy of Lucretius2 is preserved in the Vatican Library, MS Rossi 884.
+> 
+> **CHAPTER TEN : Swerves** (Location 3492)
+
+---
+
+> Thomas More took the engagement with Epicureanism much further in his most famous work, Utopia (1516). A learned man, deeply immersed in the pagan Greek and Latin texts that Poggio and his contemporaries had returned to circulation, More was also a pious Christian ascetic who wore a hair shirt under his clothes and whipped himself until the blood ran down his flesh.
+> 
+> **CHAPTER TEN : Swerves** (Location 3605)
+
+---
+
+> an imaginary island, Utopia (the name means “No-place” in Greek), whose inhabitants are convinced that “either the whole or the most part of human happiness” lies in the pursuit of pleasure. This central Epicurean tenet, the work makes clear, lies at the heart of the opposition between the good society of the Utopians and the corrupt, vicious society of his own England. That is, More clearly grasped that the pleasure principle— the principle given its most powerful expression in Lucretius’ spectacular hymn to Venus— is not a decorative enhancement of routine existence; it is a radical idea that, if taken seriously, would change everything.
+> 
+> **CHAPTER TEN : Swerves** (Location 3616)
+
+---
+
+> Reading Amerigo Vespucci and reflecting on the newfound lands known, in his honor, as “America,” More seized upon one of Vespucci’s observations about the peoples he had encountered: “Since their life is so entirely given over16 to pleasure,” Vespucci had written, “I should style it Epicurean.”
+> 
+> **CHAPTER TEN : Swerves** (Location 3624)
+
+---
+
+> More took seriously the universality that is the underlying Greek meaning of the word “catholic.” It would not be enough for Epicureanism to enlighten a small elite in a walled garden; it would have to apply to society as a whole. Utopia is a visionary, detailed blueprint for this application, from public housing to universal health care, from child care centers to religious toleration to the six-hour work day.
+> 
+> **CHAPTER TEN : Swerves** (Location 3644)
+
+---
+
+> For More, those conditions would have to begin with the abolition of private property.
+> 
+> **CHAPTER TEN : Swerves** (Location 3649)
+
+---
+
+> Bruno found the militant Protestantism he encountered in England and elsewhere as bigoted and narrow-minded as the Counter-Reformation Catholicism from which he had fled. The whole phenomenon of sectarian hatred filled him with contempt.
+> 
+> **CHAPTER TEN : Swerves** (Location 3759)
+
+---
+
+> Copernicus’s assertion that the earth was not the fixed point at the center of the universe but a planet in orbit around the sun was still, when Bruno championed it, a scandalous idea, anathema both to the Church and to the academic establishment. And Bruno managed to push the scandal of Copernicanism still further: there was no center to the universe at all, he argued, neither earth nor sun. Instead, he wrote, quoting Lucretius, there were multiple worlds, 25 where the seeds of things, in their infinite numbers, would certainly combine to form other races of men, other creatures. Each of the fixed stars observed in the sky is a sun, scattered through limitless space.
+> 
+> **CHAPTER TEN : Swerves** (Location 3765)
+
+---
+
+> His words are unrecorded, but they must have unnerved the authorities, since they ordered that his tongue be bridled. They meant it literally: according to one account, a pin was driven into his cheek, through his tongue, and out the other side; another pin sealed his lips, forming a cross. When a crucifix was held up to his face, he turned his head away. The fire was lit and did its work. After he was burned alive, his remaining bones were broken into pieces and his ashes— the tiny particles that would, he believed, reenter the great, joyous, eternal circulation of matter— were scattered.
+> 
+> **CHAPTER TEN : Swerves** (Location 3806)
+
+---
+
+> Bruno’s years in England had not been in vain. The author of Romeo and Juliet shared his interest in Lucretian materialism with Spenser, Donne, Bacon, and others. Though Shakespeare had not attended either Oxford or Cambridge, his Latin was good enough to have enabled him to read Lucretius’ poem for himself.
+> 
+> **CHAPTER ELEVEN : Afterlives** (Location 3836)
+
+---
+
+> Shakespeare would certainly have encountered Lucretius from one of his favorite books: Montaigne’s Essays. The Essays, first published in French in 1580 and translated into English by Florio in 1603, contains almost a hundred direct quotations from On the Nature of Things.
+> 
+> **CHAPTER ELEVEN : Afterlives** (Location 3841)
+
+---
+
+> Montaigne shared Lucretius’ contempt for a morality enforced by nightmares of the afterlife; he clung to the importance of his own senses and the evidence of the material world; he intensely disliked ascetic self-punishment and violence against the flesh; he treasured inward freedom and content. In grappling with the fear of death, he was influenced by Stoicism as well as Lucretian materialism, but it is the latter that proves the dominant guide, leading him toward a celebration of bodily pleasure.
+> 
+> **CHAPTER ELEVEN : Afterlives** (Location 3845)
+
+---
+
+> Above all, Lucretius’ fingerprints are all over Montaigne’s reflections on two of his favorite subjects: sex and death.
+> 
+> **CHAPTER ELEVEN : Afterlives** (Location 3891)
+
+---
+
+> Detached from any context, the idea that all things might consist of innumerable invisible particles did not seem particularly disturbing. After all, the world had to consist of something. But Lucretius’ poem restored to atoms their missing context, and the implications— for morality, politics, ethics, and theology— were deeply upsetting.
+> 
+> **CHAPTER ELEVEN : Afterlives** (Location 3976)
+
+---
+
+> The problem with Epicurus and Lucretius was not their paganism— after all, Aristotle too was a pagan— but rather their physics. Atomism absolutely denied the key distinction between substance and accidents, and therefore threatened the whole magnificent intellectual edifice resting on Aristotelian foundations.
+> 
+> **CHAPTER ELEVEN : Afterlives** (Location 3995)
+
+---
+
+> Like Lucretius, Galileo defended the oneness of the celestial and terrestrial world: there was no essential difference, he claimed, between the nature of the sun and the planets and the nature of the earth and its inhabitants. Like Lucretius, he believed that everything in the universe could be understood through the same disciplined use of observation and reason. Like Lucretius, he insisted on the testimony of the senses, against, if necessary, the orthodox claims of authority. Like Lucretius, he sought to work through this testimony toward a rational comprehension of the hidden structures of all things. And like Lucretius, he was convinced that these structures were by nature constituted by what he called “minims” or minimal particles, that is, constituted by a limited repertory of atoms combined in innumerable ways.
+> 
+> **CHAPTER ELEVEN : Afterlives** (Location 4011)
+
+---
+
+> In England, as elsewhere in Europe, it had proved possible, though quite difficult, to retain a belief in God25 as the creator of atoms in the first place. Thus Isaac Newton, in what has been called one of the most influential pieces of writing in the history of science, declared himself an atomist,
+> 
+> **CHAPTER ELEVEN : Afterlives** (Location 4120)

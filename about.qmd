@@ -17,10 +17,12 @@ about:
       href: mailto:rnunesmagalhaes@gmail.com
 ---
 
-I am an Applied Scientist and statistical modeler specializing in probabilistic programming (Stan, R, Python) and Bayesian inference. I build bespoke mathematical models to extract reliable signals from noisy, observational data.
-   
-My approach to data is grounded in a rigorous academic foundation. I hold a PhD in Political Science from the University of São Paulo, with periods as a visiting researcher at Cambridge and Freie Universität Berlin. This training equipped me with deep expertise in research design, survey methodology, and **causal inference**—the exact tools required to measure true impact when standard A/B testing is impossible and data is inherently biased.
+I am an applied scientist specializing in probabilistic programming, machine learning and causal inference. In 10+ years of consulting, I have helped companies design production-grade analytical pipelines and build teams that can deliver maintainable code.
 
-I combine this theoretical rigor with a decade of commercial experience. Since 2018, I have led an independent statistical consulting practice, successfully delivering over 30 end-to-end analytical projects. In this role, I don't just write math; I build systems. My work involves designing scalable data architectures, developing custom R/Python packages for internal teams, and translating complex statistical uncertainty into actionable strategy for C-level executives.
+successfully delivering over 30 end-to-end analytical projects. In this role, I don't just write math; I build systems. My work involves designing scalable data architectures, developing custom R/Python packages for internal teams, and translating complex statistical uncertainty into actionable strategy for C-level executives.
+
+I hold a PhD in Political Science from the University of São Paulo, where I also completed my undergraduate studies (with credits at Freie Universität Berlin and Oxford University). As a quantitative social scientist, I have taught both at the graduate and undergraduate levels in some off Brazil's top universities such as USP and FGV. with periods as a visiting researcher at Cambridge and Freie Universität Berlin. This training equipped me with deep expertise in research design, survey methodology, and **causal inference**—the exact tools required to measure true impact when standard A/B testing is impossible and data is inherently biased.
+
+In my spae time I enjoy reading, playing chess and riding my bike.
 
 A core part of my philosophy is that good data science is collaborative. I treat code review like academic peer review, and I have been lucky to work with people motivated by genuine curiosity. Ultimately, my goal is to give the business a set of reliable "levers and dials"—tools that are statistically rigorous, computationally efficient, and practically useful for high-stakes forecasting.
